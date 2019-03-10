@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Abigail Azari"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate at University of Michigan"
-  location         : "Ann Arbor, Michigan"
+  bio              : "PhD Candidate and NSF Graduate Research Fellow at the University of Michigan"
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "abigail-azari-45439859"
-  orcid            : "https://orcid.org/0000-0002-8665-5459"
+  orcid            : #"https://orcid.org/0000-0002-8665-5459"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
