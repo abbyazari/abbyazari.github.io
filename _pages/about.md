@@ -18,7 +18,7 @@ In my thesis I focus on characterization and identification of the transport of 
 
 ### See an artistic mock up from NASA on Cassini's final descent by clicking on the below image.
 
-[<img src="../../Images/CassiniMockUp.png">](https://solarsystem.nasa.gov/resources/17728/cassinis-final-plunge/)
+[<img src="../../images/CassiniMockUp.png">](https://solarsystem.nasa.gov/resources/17728/cassinis-final-plunge/)
 
 
 
