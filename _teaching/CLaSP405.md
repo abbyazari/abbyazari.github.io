@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate / Graduate course"
 permalink: /teaching/CLaSP405
 venue: "University of Michigan, CLaSP"
-date: 2018-01-01
+date: 2019-01-01
 location: "City, Country"
 ---
 
