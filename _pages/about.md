@@ -14,15 +14,14 @@ I am a PhD candidate within the University of Michigan's Climate and Space Scien
 
 In 2004 the Cassini mission arrived at Saturn. For the next 13 years the mission collected large amounts of data, resulting in a highly sampled environment and magnetic environement or magnetosphere of Saturn. Due to Cassini, Saturn is now the second most observed magnetosphere after that of Earth. Since the Cassini mission, many of our previous expectations about the Saturn environment have been overturned, from the role the largest moon Titan plays in the system to the rotational rate of the planet itself. 
 
-In my thesis I focus on characterization and identification of the transport of energetic material in the environement around the planet. These are called interchange injections and are similar to a Rayleigh - Taylor instability which are seen in fusion reactors and nebula. Researching these processes greatly improves knowledge of planetary magnetospheres and contributes to comparative studies of potentially habitable planets and [space weather risks](https://spaceplace.nasa.gov/spaceweather/en/) at Earth.
-
-
-<img src="../images/CassiniMockUp.png" alt="Drawing" style="width: 300px;"/>
-
-
+<img src="../images/CassiniMockUp.png" alt="Drawing" style="width: 400px;"/>
 Artistic interpretation of Cassini's final moments, sourced from [NASA](https://solarsystem.nasa.gov/missions/cassini/mission/grand-finale/overview/). 
 
 Click [here](https://solarsystem.nasa.gov/resources/17728/cassinis-final-plunge/) to see an artistic interpretation from NASA on Cassini's final descent.
+
+In my thesis I focus on characterization and identification of the transport of energetic material in the environement around the planet. These are called interchange injections and are similar to a Rayleigh - Taylor instability which are seen in fusion reactors and nebula. Researching these processes greatly improves knowledge of planetary magnetospheres and contributes to comparative studies of potentially habitable planets and [space weather risks](https://spaceplace.nasa.gov/spaceweather/en/) at Earth.
+
+
 
 
 
