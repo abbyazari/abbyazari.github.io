@@ -17,9 +17,9 @@ In 2004 the Cassini mission arrived at Saturn. For the next 13 years the mission
 In my thesis I focus on characterization and identification of the transport of energetic material in the environement around the planet. These are called interchange injections and are similar to a Rayleigh - Taylor instability which are seen in fusion reactors and nebula. Researching these processes greatly improves knowledge of planetary magnetospheres and contributes to comparative studies of potentially habitable planets and [space weather risks](https://spaceplace.nasa.gov/spaceweather/en/) at Earth.
 
 
-<img src="../images/CassiniMockUp.png" alt="Drawing" style="width: 700px;"/>
-(https://solarsystem.nasa.gov/resources/17728/cassinis-final-plunge/)
-See an artistic mock up from NASA on Cassini's final descent by clicking on the below image.
+<img src="../images/CassiniMockUp.png" alt="Drawing" style="width: 300px;"/>
+Artistic interpretation of Cassini's final moments, sourced from [NASA](https://solarsystem.nasa.gov/missions/cassini/mission/grand-finale/overview/). Click [here](https://solarsystem.nasa.gov/resources/17728/cassinis-final-plunge/) to see an artistic interpretation from NASA on Cassini's final descent.
+
 
 
 
