@@ -18,7 +18,11 @@ In my thesis I focus on characterization and identification of the transport of 
 
 
 <img src="../images/CassiniMockUp.png" alt="Drawing" style="width: 300px;"/>
-Artistic interpretation of Cassini's final moments, sourced from [NASA](https://solarsystem.nasa.gov/missions/cassini/mission/grand-finale/overview/). Click [here](https://solarsystem.nasa.gov/resources/17728/cassinis-final-plunge/) to see an artistic interpretation from NASA on Cassini's final descent.
+
+
+Artistic interpretation of Cassini's final moments, sourced from [NASA](https://solarsystem.nasa.gov/missions/cassini/mission/grand-finale/overview/). 
+
+Click [here](https://solarsystem.nasa.gov/resources/17728/cassinis-final-plunge/) to see an artistic interpretation from NASA on Cassini's final descent.
 
 
 
