@@ -86,7 +86,7 @@ author:
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=UdcGQbYAAAAJ&hl=en&oi=ao"
   email            :  azari@umich.edu
   researchgate     : "https://www.researchgate.net/profile/Abigail_Azari"
   uri              :
