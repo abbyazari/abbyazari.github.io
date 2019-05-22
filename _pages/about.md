@@ -20,6 +20,8 @@ In 2004 the Cassini spacecraft arrived at Saturn. For the next 13 years the miss
 
 My PhD thesis is on characterization and identification of the transport of energetic material in the environment around Saturn. These are called interchange injections and are similar to a Rayleigh - Taylor instability which are seen in fusion reactors and nebula. Researching these processes greatly improves knowledge of planetary magnetospheres and contributes to comparative studies of potentially habitable planets and [space weather risks](https://spaceplace.nasa.gov/spaceweather/en/) at Earth.
 
+Check out publications for my most recent work. Earlier work may be found on my [Google Scholar](https://scholar.google.com/citations?user=UdcGQbYAAAAJ&hl=en&oi=ao).
+
 
 
 
