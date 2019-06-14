@@ -22,6 +22,11 @@ My PhD thesis is on characterization and identification of the transport of ener
 
 Check out publications for my most recent work. Earlier work may be found on my [Google Scholar](https://scholar.google.com/citations?user=UdcGQbYAAAAJ&hl=en&oi=ao).
 
+## Current Projects
+
+I am currently working on several projects including: 
+- an evaluation of the use of Jupyter notebooks for growth mindset based learning in a course on geoscience statistics (see [Teaching](https://astro-abby.github.io/teaching/))
+- investigating uses of supervised machine learning for space plasma datasets, particularly for planetary science.
 
 
 
