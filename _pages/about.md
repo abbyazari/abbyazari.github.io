@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate within the University of Michigan's Climate and Space Sciences and Engineering department. I work on the development of automated methods to analyze large amounts of in-situ and remote sensing data to answer fundamental questions about planetary systems. I am passionate about applying data science techniques for scientific discovery in space and planetary sciences targeting large data and supervised classification tasks. Previously, I worked in science policy where I provided policy analysis and technical support to federal agencies on a variety of topics including climate data, STEM education, and space policy.  
+I am a PhD candidate within the University of Michigan's Climate and Space Sciences and Engineering department. I work at the intersection of applying data science to to analyze large amounts of in-situ and remote sensing data to answer fundamental questions about planetary systems. I am passionate about applying statistical techniques for scientific discovery in space and planetary sciences targeting large data and supervised classification tasks. Previously, I worked in science policy where I provided policy analysis and technical support to federal agencies on a variety of topics including climate data, STEM education, and space policy.  
 
 ## Research Interests
 
@@ -24,9 +24,10 @@ Check out publications for my most recent work. Earlier work may be found on my 
 
 ## Current Projects
 
-I am currently working on several projects including: 
-- an evaluation of the use of Jupyter notebooks for growth mindset based learning in a course on geoscience statistics (see [Teaching](https://astro-abby.github.io/teaching/))
-- investigating uses of supervised machine learning for space plasma datasets, particularly for planetary science.
+I am currently working on several research projects including: 
+- an evaluation of using Jupyter notebooks for teaching to develop a growth mindset based course in a course on geoscience visualization and statistics (see [Teaching](https://astro-abby.github.io/teaching/)),
+- uses of supervised machine learning for space physics datasets and missions, particularly for planetary science, \&
+- understanding transport, loss, and energization of energetic ions around gas giant planets.
 
 
 
