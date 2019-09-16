@@ -26,7 +26,7 @@ Check out publications for my most recent work. Earlier work may be found on my 
 
 I am currently working on several research projects including: 
 - an evaluation of using Jupyter notebooks for teaching to develop a growth mindset based course in a course on geoscience visualization and statistics (see [Teaching](https://astro-abby.github.io/teaching/)),
-- uses of supervised machine learning for space physics datasets and missions, particularly for planetary science, \&
+- uses of supervised machine learning for space physics datasets and missions, particularly for planetary science, &
 - understanding transport, loss, and energization of energetic ions around gas giant planets.
 
 
