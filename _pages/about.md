@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate within the University of Michigan's Climate and Space Sciences and Engineering department. I work at the intersection of applying data science to to analyze large amounts of in-situ and remote sensing data to answer fundamental questions about planetary systems. I am passionate about applying statistical techniques for scientific discovery in space and planetary sciences targeting large data and supervised classification tasks. Previously, I worked in science policy where I provided policy analysis and technical support to federal agencies on a variety of topics including climate data, STEM education, and space policy.  
+I am a PhD candidate within the University of Michigan's Climate and Space department. I work at the intersection of applying data science to to analyze large amounts of in-situ and remote sensing data to answer fundamental questions about planetary systems. I am passionate about applying statistical techniques for scientific discovery in space and planetary sciences targeting large data and supervised classification tasks. Previously, I worked in science policy where I provided policy analysis and technical support to federal agencies on a variety of topics including climate data, STEM education, and space policy.  
 
 ## Research Interests
 
@@ -24,12 +24,13 @@ Check out publications for my most recent work. Earlier work may be found on my 
 
 ## Current Projects
 
-I am currently working on several research projects including: 
+I am currently leading the research projects below: 
 - an evaluation of using Jupyter notebooks for teaching to develop a growth mindset based course in a course on geoscience visualization and statistics (see [Teaching](https://astro-abby.github.io/teaching/)),
-- uses of supervised machine learning for space physics datasets and missions, particularly for planetary science, &
-- understanding transport, loss, and energization of energetic ions around gas giant planets.
+- understanding transport, loss, and energization of energetic ions around Saturn through large-scale statistics, &
+- broader lessons for methods of supervised machine learning for space physics missions, particularly for planetary science.
 
-
+I am collaborating with the following research projects: 
+- analysis of solar wind composition using machine learning to investigate plasma dynamics using ion abundances as led by [Yeimy Rivera](https://clasp.engin.umich.edu/people/yeimy-rivera/).
 
 
 
