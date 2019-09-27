@@ -24,13 +24,13 @@ Check out publications for my most recent work. Earlier work may be found on my 
 
 ## Current Projects
 
-I am currently leading the research projects below: 
+I am leading the following projects: 
 - an evaluation of using Jupyter notebooks for teaching to develop a growth mindset based course in a course on geoscience visualization and statistics (see [Teaching](https://astro-abby.github.io/teaching/)),
 - understanding transport, loss, and energization of energetic ions around Saturn through large-scale statistics, &
 - broader lessons for methods of supervised machine learning for space physics missions, particularly for planetary science.
 
-I am collaborating with the following research projects: 
-- analysis of solar wind composition using machine learning to investigate plasma dynamics using ion abundances - Project Lead: [Yeimy Rivera](https://clasp.engin.umich.edu/people/yeimy-rivera/)
+I am collaborating on the following projects: 
+- analysis of solar wind composition using machine learning to investigate plasma dynamics using ion abundances. Project Lead: [Yeimy Rivera](https://clasp.engin.umich.edu/people/yeimy-rivera/)
 
 
 
