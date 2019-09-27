@@ -30,7 +30,7 @@ I am currently leading the research projects below:
 - broader lessons for methods of supervised machine learning for space physics missions, particularly for planetary science.
 
 I am collaborating with the following research projects: 
-- analysis of solar wind composition using machine learning to investigate plasma dynamics using ion abundances as led by [Yeimy Rivera](https://clasp.engin.umich.edu/people/yeimy-rivera/).
+- analysis of solar wind composition using machine learning to investigate plasma dynamics using ion abundances - Project Lead: [Yeimy Rivera](https://clasp.engin.umich.edu/people/yeimy-rivera/).
 
 
 
