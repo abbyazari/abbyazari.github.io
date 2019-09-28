@@ -31,7 +31,7 @@ I am leading the following projects:
 
 I am collaborating on the following projects: 
 - analysis of solar wind composition using machine learning to investigate plasma dynamics using ion abundances. Project Lead: [Yeimy Rivera](https://clasp.engin.umich.edu/people/yeimy-rivera/)
-
+- development of automatic identification and analysis of dipolarizations at Mercury. Project Lead: [Ryan Dewey](https://clasp.engin.umich.edu/people/ryan-dewey/)
 
 
 
