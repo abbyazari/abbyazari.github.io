@@ -25,7 +25,7 @@ Check out publications for my most recent work. Earlier work may be found on my 
 ## Current Projects
 
 I am leading the following projects: 
-- an evaluation of using Jupyter notebooks for teaching to develop a growth mindset based course in a course on geoscience visualization and statistics (see [Teaching](https://astro-abby.github.io/teaching/)),
+- an evaluation of using Jupyter notebooks for teaching to develop a growth mindset based course on geoscience visualization and statistics (see [Teaching](https://astro-abby.github.io/teaching/)),
 - understanding transport, loss, and energization of energetic ions around Saturn through large-scale statistics, &
 - broader lessons for methods of supervised machine learning for space physics missions, particularly for planetary science.
 
