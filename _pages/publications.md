@@ -14,7 +14,7 @@ This page includes highlighted publications. You can find the full list of publi
 
 * **Azari, A. R.**, Allen, R. C., Liemohn, M. W., Jia, X., Dewey, R. M., Mitchell, D. G., Paranicas, C., and Sergis, N. "System Wide Evidence of Particle Loss and Acceleration around Saturn". *Submitted in 2020*.
 
-## Papers in print:
+## In print:
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
