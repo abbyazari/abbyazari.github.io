@@ -37,13 +37,13 @@ This page includes publications in the previous 2 years. You can find a full lis
 
 ### 2018
 
-* Regoli, L. H., Roussos, E., Dialynas, K., **[et al. including Azari, A. R.]**, (2018). "Statistical study of the energetic proton environment at Titan'ss orbit from the Cassini spacecraft." Journal of Geophysical Research: Space Physics, 123, 4820–4834. doi:10.1029/2018JA025442.
-
-  *This work produces a statistical study of the proton environment around Titan, the largest Saturnian moon. Can be found online at: <a href="https://doi.org/10.1029/2018JA025442"> JGR Space Physics</a>.*
-
 * **Azari, A. R.**, Liemohn, M. W., Jia, X., Thomsen, M. F., Mitchell, D. G., Sergis, N., et al. (2018). "Interchange injections at Saturn: Statistical survey of energetic H+ sudden flux intensifications." Journal of Geophysical Research: Space Physics, 123, 4692–4711. doi:10.1029/2018JA025391.
 
   *Featured article in July 2018 for novel interdisciplinary visualizations. The work within this paper developed a physics-based method most similar to logistic regression to rank and classify transient of energetic material around Saturn (interchange injections). This created the first standardized comparison to several statistical surveys undertaken to understand the transport of mass around Saturn. Can be found online at <a href="https://doi.org/10.1029/2018JA025391"> JGR Space Physics</a>.*
+  
+* Regoli, L. H., Roussos, E., Dialynas, K., **[et al. including Azari, A. R.]**, (2018). "Statistical study of the energetic proton environment at Titan'ss orbit from the Cassini spacecraft." Journal of Geophysical Research: Space Physics, 123, 4820–4834. doi:10.1029/2018JA025442.
+
+  *This work produces a statistical study of the proton environment around Titan, the largest Saturnian moon. Can be found online at: <a href="https://doi.org/10.1029/2018JA025442"> JGR Space Physics</a>.*
   
 
 <!-- ## Computational Resources:  ---> 
