@@ -19,16 +19,25 @@ This page includes publications in the previous 2 years. You can find a full lis
 * **Azari, A. R.**, Lockhart, J. W., Liemohn, M. W., and Jia, X. (2020). "Incorporating Physical Knowledge into Machine Learning for Planetary Space Physics". Frontiers in Astronomy and Space Sciences. 
 
   *This work provides an example of interpretable machine learning for the field of planetary space physics along with a guide for future applications of machine learning to space physics problems. Within the Machine Learning in Heliophysics collection.  Preview accesible at  <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/abstract"> Frontiers</a>.* 
+  
+  * **Azari, A. R.** (2020). "A Data-Driven Understanding of Plasma Transport in Saturn's Magnetic Environment ". PhD Thesis. University of Michigan. 
+
+  *Full text accesible at  <a href="https://deepblue.lib.umich.edu/handle/2027.42/155251"> DeepBlue Thesis Database </a>.* 
+
 
 ### 2019
 
-* **Azari, A. R.**, Jia, X., Liemohn, M. W., Hospodarsky, G. B., Provan, G., Ye, S. ‐Y., et al. (2019). "Are Saturn's Interchange Injections Organized by Rotational Longitude?"Journal of Geophysical Research: Space Physics, 124. doi:10.1029/2018JA026196.
+* **Azari, A. R.**, Jia, X., Liemohn, M. W., Hospodarsky, G. B., Provan, G., Ye, S. ‐Y., et al. (2019). "Are Saturn's Interchange Injections Organized by Rotational Longitude?" Journal of Geophysical Research: Space Physics, 124. doi:10.1029/2018JA026196.
 
   *This work investigated if mass transport events most similar to Rayleigh-Taylor instabilities in Saturn’s space environment were related to ionospheric or upper atmopsheric conditions by purusing a large-scale data occurrence analyses to tease apart multiple dependencies. Can be found online at <a href="https://doi.org/10.1029/2018JA026196"> JGR Space Physics</a>.*
+  
+* Jasinski, J. M., Arridge, C. S., Bader, A., **et al. including Azari, A. R.** (2019). "Saturn's open‐closed field line boundary: A Cassini electron survey at Saturn's magnetosphere." Journal of Geophysical Research: Space Physics, 124, 10018– 10035. doi:0.1029/2019JA027090.
+
+  *This work evaluated the high-latittude environement of Saturn's magnetosphere to understand system-wide mass transport. Can be found online at: <a href="https://doi.org/10.1029/2018JA025442"> JGR Space Physics</a>.*
 
 ### 2018
 
-* Regoli, L. H., Roussos, E., Dialynas, K., Luhmann, J. G., Sergis, N., Jia, X., Román, D., **Azari, A. R.**, Krupp, N., Jones, G., Coates, A., and Rae, I. (2018). "Statistical study of the energetic proton environment at Titan'ss orbit from the Cassini spacecraft." Journal of Geophysical Research: Space Physics, 123, 4820–4834. doi:10.1029/2018JA025442.
+* Regoli, L. H., Roussos, E., Dialynas, K., **et al. including Azari, A. R.**, (2018). "Statistical study of the energetic proton environment at Titan'ss orbit from the Cassini spacecraft." Journal of Geophysical Research: Space Physics, 123, 4820–4834. doi:10.1029/2018JA025442.
 
   *This work produces a statistical study of the proton environment around Titan, the largest Saturnian moon. Can be found online at: <a href="https://doi.org/10.1029/2018JA025442"> JGR Space Physics</a>.*
 
