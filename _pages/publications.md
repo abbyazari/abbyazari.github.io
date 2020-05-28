@@ -31,9 +31,9 @@ This page includes publications in the previous 2 years. You can find a full lis
 
   *This work investigated if mass transport events most similar to Rayleigh-Taylor instabilities in Saturn’s space environment were related to ionospheric or upper atmopsheric conditions by purusing a large-scale data occurrence analyses to tease apart multiple dependencies. Can be found online at <a href="https://doi.org/10.1029/2018JA026196"> JGR Space Physics</a>.*
   
-* Jasinski, J. M., Arridge, C. S., Bader, A., **[et al. including Azari, A. R.]** (2019). "Saturn's open‐closed field line boundary: A Cassini electron survey at Saturn's magnetosphere." Journal of Geophysical Research: Space Physics, 124, 10018– 10035. doi:0.1029/2019JA027090.
+* Jasinski, J. M., Arridge, C. S., Bader, A., **[et al. with 15 others including Azari, A. R.]** (2019). "Saturn's open‐closed field line boundary: A Cassini electron survey at Saturn's magnetosphere." Journal of Geophysical Research: Space Physics, 124, 10018–10035. doi:10.1029/2019JA027090.
 
-  *This work evaluated the high-latittude environement of Saturn's magnetosphere to understand system-wide mass transport. Can be found online at: <a href="https://doi.org/10.1029/2018JA025442"> JGR Space Physics</a>.*
+  *This work evaluated the high-latittude environement of Saturn's magnetosphere to understand system-wide mass transport. Can be found online at: <a href="https://doi.org/10.1029/2019JA027090"> JGR Space Physics</a>.*
 
 ### 2018
 
@@ -41,7 +41,7 @@ This page includes publications in the previous 2 years. You can find a full lis
 
   *Featured article in July 2018 for novel interdisciplinary visualizations. The work within this paper developed a physics-based method most similar to logistic regression to rank and classify transient of energetic material around Saturn (interchange injections). This created the first standardized comparison to several statistical surveys undertaken to understand the transport of mass around Saturn. Can be found online at <a href="https://doi.org/10.1029/2018JA025391"> JGR Space Physics</a>.*
   
-* Regoli, L. H., Roussos, E., Dialynas, K., **[et al. including Azari, A. R.]**, (2018). "Statistical study of the energetic proton environment at Titan'ss orbit from the Cassini spacecraft." Journal of Geophysical Research: Space Physics, 123, 4820–4834. doi:10.1029/2018JA025442.
+* Regoli, L. H., Roussos, E., Dialynas, K., **[et al. with 12 others including Azari, A. R.]**, (2018). "Statistical study of the energetic proton environment at Titan'ss orbit from the Cassini spacecraft." Journal of Geophysical Research: Space Physics, 123, 4820–4834. doi:10.1029/2018JA025442.
 
   *This work produces a statistical study of the proton environment around Titan, the largest Saturnian moon. Can be found online at: <a href="https://doi.org/10.1029/2018JA025442"> JGR Space Physics</a>.*
   
