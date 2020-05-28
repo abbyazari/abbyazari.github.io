@@ -20,7 +20,7 @@ This page includes publications in the previous 2 years. You can find a full lis
 
   *This work provides an example of interpretable machine learning for the field of planetary space physics along with a guide for future applications of machine learning to space physics problems. Within the Machine Learning in Heliophysics collection.  Preview accesible at  <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/abstract"> Frontiers</a>.* 
   
-  * **Azari, A. R.** (2020). "A Data-Driven Understanding of Plasma Transport in Saturn's Magnetic Environment ". PhD Thesis. University of Michigan. 
+* **Azari, A. R.** (2020). "A Data-Driven Understanding of Plasma Transport in Saturn's Magnetic Environment ". PhD Thesis. University of Michigan. 
 
   *Full text accesible at  <a href="https://deepblue.lib.umich.edu/handle/2027.42/155251"> DeepBlue Thesis Database </a>.* 
 
