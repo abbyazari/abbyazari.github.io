@@ -37,12 +37,12 @@ Regoli, L. H., Roussos, E., Dialynas, K., Luhmann, J. G., Sergis, N., Jia, X., R
 *Featured article in July 2018 for novel interdisciplinary visualizations. The work within this paper developed a physics-based method most similar to logistic regression to rank and classify transient of energetic material around Saturn (interchange injections). This created the first standardized comparison to several statistical surveys undertaken to understand the transport of mass around Saturn. Can be found online at: <a href="https://doi.org/10.1029/2018JA025391"> JGR Space Physics </a>.*
 
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} ---> 
 
-{% include base_path %}
+<!-- {% include base_path %} ---> 
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} ---> 
