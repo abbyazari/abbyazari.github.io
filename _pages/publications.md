@@ -24,7 +24,7 @@ This page includes publications in the previous 2 years. You can find a full lis
 
 **Azari, A. R.**, Jia, X., Liemohn, M. W., Hospodarsky, G. B., Provan, G., Ye, S. ‐Y., et al. (2019). "Are Saturn's Interchange Injections Organized by Rotational Longitude?"Journal of Geophysical Research: Space Physics, 124. https://doi.org/10.1029/2018JA026196
 
-*This work investigated if mass transport events most similar to Rayleigh-Taylor instabilities in Saturn’s space environment were related to ionospheric or upper atmopsheric conditions. To complete this work we undertook a large-scale data occurrence analyses to tease apart multiple dependencies. Can be found online at: <a href="https://doi.org/10.1029/2018JA026196"> JGR Space Physics </a>.*
+*This work investigated if mass transport events most similar to Rayleigh-Taylor instabilities in Saturn’s space environment were related to ionospheric or upper atmopsheric conditions. To complete this work we undertook a large-scale data occurrence analyses to tease apart multiple dependencies. Can be found online at <a href="https://doi.org/10.1029/2018JA026196"> JGR Space Physics </a>.*
 
 ### 2018
 
