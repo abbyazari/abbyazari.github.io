@@ -18,8 +18,8 @@ This page includes publications in the previous 2 years. You can find a full lis
 
 **Azari, A. R.**, Lockhart, J. W., Liemohn, M. W., and Jia, X. (2020). "Incorporating Physical Knowledge into Machine Learning for Planetary Space Physics". Frontiers in Astronomy and Space Sciences. 
 
-*This work provides an example of interpretable machine learning for the field of planetary space physics along with a guide for future applications of machine learning to space physics problems. Within the Machine Learning in Heliophysics collection. Preview accesible at  <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/abstract"> Frontiers </a>. *
- 
+*This work provides an example of interpretable machine learning for the field of planetary space physics along with a guide for future applications of machine learning to space physics problems. Within the Machine Learning in Heliophysics collection.* 
+
 ### 2019
 
 **Azari, A. R.**, Jia, X., Liemohn, M. W., Hospodarsky, G. B., Provan, G., Ye, S. ‐Y., et al. (2019). "Are Saturn's Interchange Injections Organized by Rotational Longitude?"Journal of Geophysical Research: Space Physics, 124. https://doi.org/10.1029/2018JA026196
