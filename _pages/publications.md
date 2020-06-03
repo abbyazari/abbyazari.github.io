@@ -8,6 +8,8 @@ This page includes publications in the previous 2 years. You can find a full lis
 
 ## Current manuscripts under review: 
 
+* Paranicas, C. P., Thomsen, M. F., Kollmann, P., **[et al. with 7 others including Azari, A. R.]** "Inflow speed analysis of interchange injections in Saturn's magnetosphere".
+
 * Liemohn, M. W., **Azari, A. R.**, Ganushkina, N. Y., and Rastatter, L. "The STONE curve: A ROC-derived model performance assessment tool". Preprint acessible at <a href="https://www.essoar.org/doi/10.1002/essoar.10502020.1"> ESSOAr</a>, and <a href="https://arxiv.org/abs/2005.03542"> arXiv</a>.
 
 * Dewey, R. M., Slavin, J., Raines, J. **Azari, A. R.**, and Sun, W. "MESSENGER observations of flow braking and flux pileup of dipolarizations in Mercury's magnetotail: Evidence for current wedge formation".
@@ -20,9 +22,9 @@ This page includes publications in the previous 2 years. You can find a full lis
 
   *This work provides an example of interpretable machine learning for the field of planetary space physics along with a guide for future applications of machine learning to space physics problems. Within the Machine Learning in Heliophysics collection.  Preview accesible at  <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/abstract"> Frontiers</a>.* 
   
-* **Azari, A. R.** (2020). "A Data-Driven Understanding of Plasma Transport in Saturn's Magnetic Environment ". PhD Thesis. University of Michigan. 
+* **Azari, A. R.** (2020). "A Data-Driven Understanding of Plasma Transport in Saturn's Magnetic Environment". PhD Thesis. University of Michigan. 
 
-  *Full text accesible at  <a href="https://deepblue.lib.umich.edu/handle/2027.42/155251"> DeepBlue Thesis Database </a>.* 
+  *Full text accesible at  <a href="https://deepblue.lib.umich.edu/handle/2027.42/155251"> DeepBlue Thesis Database</a>.* 
 
 
 ### 2019
