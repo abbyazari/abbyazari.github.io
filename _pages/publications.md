@@ -18,7 +18,7 @@ This page includes publications in the previous 2 years. You can find a full lis
 
 ### 2020
 
-* **Azari, A. R.**, Lockhart, J. W., Liemohn, M. W., and Jia, X. (2020). "Incorporating Physical Knowledge into Machine Learning for Planetary Space Physics". Frontiers in Astronomy and Space Sciences. 
+* **Azari, A. R.**, Lockhart, J. W., Liemohn, M. W., and Jia, X. (2020). "Incorporating Physical Knowledge into Machine Learning for Planetary Space Physics". Frontiers in Astronomy and Space Sciences. Preprint acessible at <a href="https://arxiv.org/abs/2006.01927"> arXiv</a>.
 
   *This work provides an example of interpretable machine learning for the field of planetary space physics along with a guide for future applications of machine learning to space physics problems. Within the Machine Learning in Heliophysics collection.  Preview accesible at  <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/abstract"> Frontiers</a>.* 
   
