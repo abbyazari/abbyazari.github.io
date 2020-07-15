@@ -6,7 +6,7 @@ author_profile: true
 ---
 This page includes publications in the previous 2 years. You can find a full list of published works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ"> Google Scholar.</a>
 
-### Currently under review: 
+### Under review: 
 
 * Paranicas, C. P., Thomsen, M. F., Kollmann, P., **[et al. with 7 others including Azari, A. R.]** "Inflow speed analysis of interchange injections in Saturn's magnetosphere".
 
