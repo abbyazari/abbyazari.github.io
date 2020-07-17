@@ -31,10 +31,21 @@ Check out publications for my most recent work. Earlier work may be found on my 
 
 ### Saturn's Magnetic Environment Transport
 
+<style>.table-3 table { text-align: center;  }</style>
 
-aa|bb
---|--
-ee|ff
+<div class="ox-hugo-table table-3">
+<div></div>
+<div class="table-caption">
+  <span class="table-number">Table 3</span>:
+  Table with caption, with center-aligned text
+</div>
+
+| h1       | h2       | h3       |
+|----------|----------|----------|
+| abcdefgh | ijklmnop | qrstuvwx |
+
+</div>
+
 
 | | |
 |:-------------------------:|:-------------------------:|
