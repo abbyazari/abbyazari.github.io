@@ -1,9 +1,11 @@
 ---
 permalink: /
 title: "About"
-excerpt: ""
+excerpt: " "
 author_profile: true
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a post-doctoral scholar at the University of California: Berkeley's Space Sciences Laboratory (SSL). At SSL I work to analyze spacecraft data to find our what the historical remnants of Mars' magnetic field might tell us about the loss of Mars' atmosphere. I work at the intersection of applying data science to analyze large amounts of in-situ and remote sensing data to answer fundamental questions about planetary environments. I am passionate about developing statistical techniques for enabling scientific discovery in space and planetary sciences, especially for supervised classification tasks. Previously, to my graduate education at the  University of Michigan I worked in science policy where I provided policy analysis and technical support to federal agencies on a variety of topics including climate data, STEM education, and space policy. 
