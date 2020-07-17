@@ -29,9 +29,9 @@ Check out publications for my most recent work. Earlier work may be found on my 
 
 <!-- Insert discussion here about this. -->
 
-### Saturn's Mass Transport
+### Saturn's Magnetic Environment Transport
 
-In 2004 the Cassini spacecraft arrived at Saturn. For the next 13 years the mission collected the largest ever, amount of data on Saturn's magnetic and space environment. Due to Cassini, Saturn is now the second most observed magnetosphere after that of Earth and many of our previous expectations about the Saturn environment have been overturned from this data deluge, from the role the largest moon, Titan, plays in the system to the rotational rate of the planet itself. 
+In 2004 the Cassini spacecraft arrived at Saturn. For the next 13 years the mission collected the largest ever, amount of data on Saturn's magnetic and space environment (magnetosphere). Due to Cassini, Saturn is now the second most observed magnetosphere after that of Earth and many of our previous expectations about the Saturn environment have been overturned from this data deluge, from the role the largest moon, Titan, plays in the system to the rotational rate of the planet itself. 
 
 <img align="right" src="../images/Azari2020_BasicDiagram.png" alt="Drawing" style="width: 5;"/> 
 *Image: Artistic interpretation of a middle-magnetosphere mass transport system at Saturn built from observations and data in [Azari et al., 2020](http://hdl.handle.net/2027.42/155251). Image developed in consulation with Falconieri Visuals.*
