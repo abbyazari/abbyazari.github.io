@@ -35,9 +35,6 @@ In 2004 the Cassini spacecraft arrived at Saturn. For the next 13 years the miss
 
 <img align = "left" src="../images/Azari2020_BasicDiagram.png" alt="Drawing" width = "400"/> 
 
-
-
-
 *Image: Artistic interpretation of a middle-magnetosphere mass transport system at Saturn built from observations and data in [Azari et al., 2020](http://hdl.handle.net/2027.42/155251). This figure demonstrates an asymmetry in day and night side of the planet for high-energy plasma transport, with more frequent events injections of high energy material occuring on the night side of Saturn. Image developed in consulation with Falconieri Visuals.*
 
 
