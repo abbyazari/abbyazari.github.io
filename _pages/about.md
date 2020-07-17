@@ -33,7 +33,7 @@ Check out publications for my most recent work. Earlier work may be found on my 
 
 
 <p>
-    <img align = "left" src="../images/Azari2020_BasicDiagram.png" alt="Drawing" width = "350" /> 
+    <img src="../images/Azari2020_BasicDiagram.png" alt="Drawing" width = "350" /> 
     <em>image_caption</em>
 </p>
 
