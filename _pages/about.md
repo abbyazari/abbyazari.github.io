@@ -31,12 +31,11 @@ Check out publications for my most recent work. Earlier work may be found on my 
 
 ### Saturn's Magnetic Environment Transport
 
-<figure class="image">
-  <img src="{{ include.url }}" alt="{{ include.description }}">
-  <figcaption>{{ include.description }}</figcaption>
-</figure>
 
-{% include image.html url="../images/Azari2020_BasicDiagram.png" description="X" %}
+<p>
+    <img align = "left" src="../images/Azari2020_BasicDiagram.png" alt="Drawing" width = "350" /> 
+    <em>image_caption</em>
+</p>
 
 | | |
 |:-------------------------:|:-------------------------:|
