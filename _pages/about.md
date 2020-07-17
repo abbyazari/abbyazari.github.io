@@ -31,10 +31,9 @@ Check out publications for my most recent work. Earlier work may be found on my 
 
 ### Saturn's Magnetic Environment Transport
 
-
 <p>
-    <img src="../images/Azari2020_BasicDiagram.png" alt="Drawing" width = "350" /> 
-    <em>image_caption</em>
+    <img align = "left" src="../images/Azari2020_BasicDiagram.png" alt="Drawing" width = "350" /> 
+    <em><br/>image_caption</em>
 </p>
 
 | | |
