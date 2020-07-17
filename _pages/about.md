@@ -32,7 +32,7 @@ I am leading the following projects:
 
 In 2004 the Cassini spacecraft arrived at Saturn. For the next 13 years the mission collected the largest ever, amount of data on Saturn's magnetic and space environment. Due to Cassini, Saturn is now the second most observed magnetosphere after that of Earth and many of our previous expectations about the Saturn environment have been overturned from this data deluge, from the role the largest moon, Titan, plays in the system to the rotational rate of the planet itself. 
 
-<img src="../images/CassiniMockUp.png" alt="Drawing" style="width: 500px;"/> <img src="../images/CassiniMockUp.png" alt="Drawing" style="width: 500px;"/>
+<img src="../images/CassiniMockUp.png" alt="Drawing" style="width: 200px;"/> <img src="../images/CassiniMockUp.png" alt="Drawing" style="width: 200px;"/>
 
 <!-- *Image Source: Artistic interpretation of Cassini's final moments, sourced from [NASA](https://solarsystem.nasa.gov/missions/cassini/mission/grand-finale/overview/). Click [here](https://solarsystem.nasa.gov/resources/17728/cassinis-final-plunge/) to see an artistic interpretation from NASA on Cassini's final descent. Images developed in consulation with Falconieri Visuals.* Developed a new picture on Saturn's mass transport.-->
 
