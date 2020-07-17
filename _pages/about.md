@@ -34,6 +34,10 @@ Check out publications for my most recent work. Earlier work may be found on my 
 In 2004 the Cassini spacecraft arrived at Saturn. For the next 13 years the mission collected the largest ever, amount of data on Saturn's magnetic and space environment (magnetosphere). Due to Cassini, Saturn is now the second most observed magnetosphere after that of Earth and many of our previous expectations about the Saturn environment have been overturned from this data deluge, from the role the largest moon, Titan, plays in the system to the rotational rate of the planet itself. These unique datasets allow for the first large-scale statistical analyses, and new pictures, of how mass moves around Saturn to be developed. It is now understood that around the planet, a Rayleigh-Taylor (RT) like instability, called interchange, is instrumental in moving plasma around the planet. Interchange instabilities exchange different plasma populations around Saturn. RT instabilities are ubiqutious in the universe and can be observed in as simple of a system as pouring milk into coffee to in astrophysical nebulae and fusion reactors. Saturn, and other giant magnetospheres, provide some of the best observational locations to study these instabilities in a naturally evolving system. Researching these processes greatly improves knowledge of planetary magnetospheres and contributes to comparative studies of potentially habitable planets and [space weather risks](https://spaceplace.nasa.gov/spaceweather/en/) at Earth.
 
 <img align = "left" src="../images/Azari2020_BasicDiagram.png" alt="Drawing" width = "400"/> 
+
+
+
+
 *Image: Artistic interpretation of a middle-magnetosphere mass transport system at Saturn built from observations and data in [Azari et al., 2020](http://hdl.handle.net/2027.42/155251). This figure demonstrates an asymmetry in day and night side of the planet for high-energy plasma transport, with more frequent events injections of high energy material occuring on the night side of Saturn. Image developed in consulation with Falconieri Visuals.*
 
 
