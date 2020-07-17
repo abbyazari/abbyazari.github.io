@@ -31,17 +31,9 @@ Check out publications for my most recent work. Earlier work may be found on my 
 
 ### Saturn's Magnetic Environment Transport
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-
 In 2004 the Cassini spacecraft arrived at Saturn. For the next 13 years the mission collected the largest ever, amount of data on Saturn's magnetic and space environment (magnetosphere). Due to Cassini, Saturn is now the second most observed magnetosphere after that of Earth and many of our previous expectations about the Saturn environment have been overturned from this data deluge. These unique datasets allow for the first large-scale statistical analyses of how mass moves around Saturn. It is now understood that a Rayleigh-Taylor (RT) like instability, called interchange, is instrumental in these processes by exchanging different plasma populations around Saturn. Saturn, and other giant magnetospheres, provide some of the best observational locations to study these instabilities in a naturally evolving system.
 
-<img class = "center" src="../images/Azari2020_BasicDiagram.png" alt="Drawing" width = "350" /> 
+<img src="../images/Azari2020_BasicDiagram.png" alt="Drawing" width = "450" /> 
 *Artistic interpretation of a middle-magnetosphere mass transport system at Saturn built from observations and data in [Azari et al., 2020](http://hdl.handle.net/2027.42/155251). This figure demonstrates an asymmetry in day and night side of the planet for high-energy plasma transport, with more frequent events injections of high energy material occuring on the night side of Saturn. Image developed in consulation with Falconieri Visuals.*
 
 
