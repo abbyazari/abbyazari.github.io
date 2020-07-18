@@ -28,12 +28,10 @@ Check out publications for my most recent work. Earlier work may be found on my 
 - [Saturn's Magnetospheric Transport](#saturns-magnetospheric-transport)
 - [The Evolution of Mars' Magnetic Field](#the-evolution-of-mars-magnetic-field)
 
-
-
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 ### Interpretable Machine Learning Methods for Planetary Science
