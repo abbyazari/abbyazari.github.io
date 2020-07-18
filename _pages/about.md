@@ -40,7 +40,7 @@ A surge of data-rich planetary missions have transformed our ability to understa
 
 <img src="../images/Azari2020a_InterpretableMethod.png" alt="Drawing" /> 
 
-<center> <em> A diagram demonstrating a path toward creating understanding methods in automation for scientific discovery. Figure sourced from <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/full">Azari et al., 2020 (Frontiers)</a>. Contains examples from <a href="https://doi.org/10.1029/2012JA017575">?Jia, Hansen et al., 2012 (JGR Space Physics)</a> of MHD physics-based modeling, and <a href=" https://doi.org/10.1029/2019SW002214">Chen et al., 2019 (Space Weather)</a> of deep learning for solar flare prediction. </em> </center>
+<center> <em> A diagram demonstrating a path toward creating understanding methods in automation for scientific discovery. Figure sourced from <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/full">Azari et al., 2020 (Frontiers)</a>. Contains examples from <a href="https://doi.org/10.1029/2012JA017575">?Jia, Hansen et al., 2012 (JGR Space Physics)</a> of a MHD physics-based modeling, and <a href=" https://doi.org/10.1029/2019SW002214">Chen et al., 2019 (Space Weather)</a> of deep learning for solar flare prediction. </em> </center>
 
 ### Saturn's Magnetospheric Transport
 
