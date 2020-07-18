@@ -52,7 +52,11 @@ In 2004 the Cassini spacecraft arrived at Saturn. For the next 13 years the miss
 
 ### The Evolution of Mars' Magnetic Field
 
-<!-- write something here from your submitted work on this topic, include NASA Goddard work here.  -->
+The Mars of several billion years ago is a very differnt Mars than that of today. Several billion years ago, Mars was geologically active from core to crust, possessed a much thicker atmosphere, and had an internally produced magnetic field. Today, the remnants of this former field remain, in effect frozen into the surface of Mars. A currently orbiting spacecraft, MAVEN, has obtained measurements above these fields; allowing for the large-scale characterization of these remnants to provide insight into to the historical evolution and eventual, termination, of Mars' formerly active field.   
+
+<img src="../images/Maven_NASAGSFC.png" alt="Drawing" /> 
+
+<center> <em> Artist's impression of solar wind interaction with the current Mars space environment. <a href="https://www.nasa.gov/press-release/nasa-mission-reveals-speed-of-solar-wind-stripping-martian-atmosphere/">NASA Goddard Space Flight Center.</a> </em> </center>
 
 
 
