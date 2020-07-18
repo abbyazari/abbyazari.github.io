@@ -24,9 +24,16 @@ Check out publications for my most recent work. Earlier work may be found on my 
 
 ## Research Interests
 
--- [Interpretable Machine Learning Methods for Planetary Science](#interpretable-machine-learning-methods-for-planetary-science)
--- [Saturn's Magnetospheric Transport](#saturns-magnetospheric-transport)
--- [The Evolution of Mars' Magnetic Field](#the-evolution-of-mars-magnetic-field)
+- [Interpretable Machine Learning Methods for Planetary Science](#interpretable-machine-learning-methods-for-planetary-science)
+- [Saturn's Magnetospheric Transport](#saturns-magnetospheric-transport)
+- [The Evolution of Mars' Magnetic Field](#the-evolution-of-mars-magnetic-field)
+
+
+
+
+
+
+
 
 
 ### Interpretable Machine Learning Methods for Planetary Science
