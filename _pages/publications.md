@@ -12,6 +12,9 @@ This page includes publications in the previous 2 years. You can find a full lis
 
 * Dewey, R. M., Slavin, J., Raines, J. **Azari, A. R.**, and Sun, W. "MESSENGER observations of flow braking and flux pileup of dipolarizations in Mercury's magnetotail: Evidence for current wedge formation".
 
+* Liemohn, M. W., Shane, A. D., **Azari, A. R.**, Petersen, A. K., Swiger, B. M., and Mukhopadhyay, A. "RMSE is not enough: guidelines to robust data-model comparisons for magnetospheric physics".
+
+
 ### 2020
 
 * **Azari, A. R.**, Biersteker, J. B., Dewey, R. M., Doran, G., Forsberg, E. J., Harris, C. D. K., Kerner, H. R., Skinner, K. A., Smith, A. W., Amini, R., Cambioni, S., Da Poian, V., Garton, T. M., Himes, M. D., Millholland, S., and Ruhunusiri, S. [+31 co-signatories] "Integrating Machine Learning for Planetary Science: Perspectives for the Next Decade".  Submitted to the <a href="https://www.nationalacademies.org/our-work/planetary-science-and-astrobiology-decadal-survey-2023-2032"> NRC Planetary and Astrobiology Decadal Survey</a>. Full text availiable via <a href="http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/623127/5489366/214-9e0b1af3bd2b40cd24fdedaedb325596_AzariAbigailR.pdf">hosting by the decadal survey</a>. 
