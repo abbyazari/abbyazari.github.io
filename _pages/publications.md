@@ -21,7 +21,7 @@ This page includes publications in the previous 2 years. You can find a full lis
 
   *Perspective on reccomendations to the planetary community to ensure the long-term success for integrating machine learning into planetary science.*
 
-* Liemohn, M. W., **Azari, A. R.**, Ganushkina, N. Y., and Rastatter, L. "The STONE curve: A ROC-derived model performance assessment tool". Earth and Space Science. Preprint acessible at <a href="https://www.essoar.org/doi/10.1002/essoar.10502020.1"> ESSOAr</a>, and <a href="https://arxiv.org/abs/2005.03542"> arXiv</a>.
+* Liemohn, M. W., **Azari, A. R.**, Ganushkina, N. Y., and Rastatter, L. "The STONE curve: A ROC-derived model performance assessment tool". Earth and Space Science. Accesible at <a href="https://doi.org/10.1029/2020EA001106"> Earth and Space Science</a>. Preprint acessible at <a href="https://www.essoar.org/doi/10.1002/essoar.10502020.1"> ESSOAr</a>, and <a href="https://arxiv.org/abs/2005.03542"> arXiv</a>.
 
   *This work describes a new assessment tool for continuous data-model comparisons most similar to the ROC curve for classifcation analyses.*
 
