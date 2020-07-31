@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-This page includes publications in the previous 2 years. You can find a full list of published works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ"> Google Scholar.</a>
+This page includes recent publications. You can find a full list of published works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ"> Google Scholar.</a>
 
 ### Under review: 
 
@@ -17,7 +17,7 @@ This page includes publications in the previous 2 years. You can find a full lis
 
 ### 2020
 
-* **Azari, A. R.**, Biersteker, J. B., Dewey, R. M., Doran, G., Forsberg, E. J., Harris, C. D. K., Kerner, H. R., Skinner, K. A., Smith, A. W., Amini, R., Cambioni, S., Da Poian, V., Garton, T. M., Himes, M. D., Millholland, S., and Ruhunusiri, S. [+31 co-signatories] "Integrating Machine Learning for Planetary Science: Perspectives for the Next Decade".  Submitted to the <a href="https://www.nationalacademies.org/our-work/planetary-science-and-astrobiology-decadal-survey-2023-2032"> NRC Planetary and Astrobiology Decadal Survey</a>. Full text availiable via <a href="http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/623127/5489366/214-9e0b1af3bd2b40cd24fdedaedb325596_AzariAbigailR.pdf">the decadal survey</a> and <a href="https://arxiv.org/abs/2007.15129">arXiv</a> . 
+* **Azari, A. R.**, Biersteker, J. B., Dewey, R. M., Doran, G., Forsberg, E. J., Harris, C. D. K., Kerner, H. R., Skinner, K. A., Smith, A. W., Amini, R., Cambioni, S., Da Poian, V., Garton, T. M., Himes, M. D., Millholland, S., and Ruhunusiri, S. [+31 co-signatories] "Integrating Machine Learning for Planetary Science: Perspectives for the Next Decade".  Submitted to the <a href="https://www.nationalacademies.org/our-work/planetary-science-and-astrobiology-decadal-survey-2023-2032"> NRC Planetary and Astrobiology Decadal Survey</a>. Full text availiable via <a href="http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/623127/5489366/214-9e0b1af3bd2b40cd24fdedaedb325596_AzariAbigailR.pdf">the decadal survey</a> and <a href="https://arxiv.org/abs/2007.15129">arXiv</a>. 
 
   *Perspective on reccomendations to the planetary community to ensure the long-term success for integrating machine learning into planetary science.*
 
