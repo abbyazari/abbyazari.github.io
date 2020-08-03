@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-This page displays featured publications. You can find a full list of published works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ"> Google Scholar.</a>
+This page displays recent featured publications. You can find a full list of published works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ"> Google Scholar.</a>
 
  <! -- ### Under review: 
 
@@ -28,10 +28,6 @@ This page displays featured publications. You can find a full list of published 
 * **Azari, A. R.**, Lockhart, J. W., Liemohn, M. W., and Jia, X. (2020). "Incorporating Physical Knowledge into Machine Learning for Planetary Space Physics". Frontiers in Astronomy and Space Sciences. Acessible at <a href="https://arxiv.org/abs/2006.01927"> arXiv</a> and <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/"> Frontiers</a>.
 
   *This work provides an example of interpretable machine learning for the field of planetary space physics along with guidelines for future applications of machine learning to space physics problems. Within the Machine Learning in Heliophysics collection.*
-  
-* **Azari, A. R.** (2020). "A Data-Driven Understanding of Plasma Transport in Saturn's Magnetic Environment". PhD Thesis. University of Michigan. 
-
-  *Full text accesible at  <a href="https://deepblue.lib.umich.edu/handle/2027.42/155251"> DeepBlue Thesis Database</a>.* 
 
 
 ### 2019
@@ -53,6 +49,13 @@ This page displays featured publications. You can find a full list of published 
  <! -- * Regoli, L. H., Roussos, E., Dialynas, K., **[et al. with 12 others including Azari, A. R.]**, (2018). "Statistical study of the energetic proton environment at Titan'ss orbit from the Cassini spacecraft." Journal of Geophysical Research: Space Physics, 123, 4820–4834. doi:10.1029/2018JA025442.
 
   *This work produces a statistical study of the proton environment around Titan, the largest Saturnian moon. Can be found online at: <a href="https://doi.org/10.1029/2018JA025442"> JGR Space Physics</a>.* -->
+  
+### Thesis
+
+  
+* **Azari, A. R.** (2020). "A Data-Driven Understanding of Plasma Transport in Saturn's Magnetic Environment". PhD Thesis. University of Michigan. 
+
+  *Full text accesible at  <a href="https://deepblue.lib.umich.edu/handle/2027.42/155251"> DeepBlue Thesis Database</a>.* 
   
 
 <!-- ## Computational Resources:  ---> 
