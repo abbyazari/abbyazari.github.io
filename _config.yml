@@ -11,7 +11,7 @@ title                    : "Abigail Azari"
 title_separator          : "-"
 name                     : &name "Abigail Azari"
 description              : &description "Post-Doc Scholar at UC Berkeley"
-url                      : https://astro-abby.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://abbyazari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"astro-abby.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UdcGQbYAAAAJ&hl=en&oi=ao"
-  email            :  azari@umich.edu
+  email            :  azari at berkeley dot edu
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "astro-abby"
+  github           : "abbyazari"
   google_plus      :
   keybase          :
   instagram        :
