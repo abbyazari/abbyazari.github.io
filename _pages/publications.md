@@ -11,6 +11,11 @@ This page features a selection of recently published works. You can find a full 
 
 ### 2020
 
+
+* Paranicas, C., Thomsen, M., Kollmann, P., **Azari, A.**, Bader, A., Badman, S., Dumont, M., Kinrade, J., Krupp, N., Roussos, E. "Inflow speed analysis of interchange injections in Saturn's magnetosphere".
+
+  *This work consists of estimations of inflow velocities of mass transport events around Saturn. These estimations are essential for improving understanding of system wide plasma circulation around giant planets. Accepted for publication 9/1/2020.*
+
 * Dewey, R., Slavin, J., Raines, J., **Azari, A. R.**, Sun, W. "MESSENGER observations of flow braking and flux pileup of dipolarizations in Mercury's magnetotail: Evidence for current wedge formation". 
 
   *This work discusses dipolarizations at Mercury and presents a cross-planetary comparison with Earth's substorm current wedge formation. Accepted for publiication, 8/21/2020.*
