@@ -14,6 +14,8 @@ Dr. Abigail Azari is an post-doctoral scholar at the University of California, B
 
 Check out [Publications](https://astro-abby.github.io/publications/) for my most recent work. Earlier work may be found on my [Google Scholar](https://scholar.google.com/citations?user=UdcGQbYAAAAJ&hl=en&oi=ao).
 
+Formerly at astro-abby.github.io.
+
 ## Active Projects
 
 - evaluation of using Jupyter notebooks for teaching to develop a growth mindset based course on geoscience visualization and statistics (see [Teaching](https://astro-abby.github.io/teaching/)),
