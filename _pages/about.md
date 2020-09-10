@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /astro-abby.github.io
 ---
 
 Dr. Abigail Azari is an post-doctoral scholar at the University of California, Berkeley's Space Sciences Laboratory (SSL) where she works to analyze spacecraft data to understand current and past planetary conditions on Mars. She is interested in developing statistical techniques for enabling scientific discovery in space and planetary sciences. She completed her PhD and MS in Atmospheric, Oceanic, and Space Sciences at the University of Michigan. Dr. Azari was supported by an NSF Graduate Research Fellowship and a NASA Earth and Space Sciences Fellowship for her graduate education. While at the University of Michigan she developed a course in data visualization and statistics in geosciences for which she received a Towner Prize for Outstanding Gradaute Student Instructors. She also served as the co-director of the University chapter of the Graduate Society of Women Engineers. Prior to her graduate education she worked at the Science and Technology Policy Institue providing policy analysis and technical support on a variety of topics including climate data, STEM education, and space policy. She received her BA in Physics from Smith College.
