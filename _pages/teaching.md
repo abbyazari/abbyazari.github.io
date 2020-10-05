@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
-TEST
+The following presents a selection of data-intensive courses whiich I have developed and / or taught.
