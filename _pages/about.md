@@ -21,7 +21,7 @@ Formerly at astro-abby.github.io.
 - understanding transport, loss, and energization of energetic ions around Saturn through large-scale statistics
 - characterizing Mars' historical magnetic field to understand its previous atmospheric loss
 
-Check out [Research](https://abbyazari.github.io/research/) for research interests.
+Check out [Research](https://abbyazari.github.io/research/) for major research interests.
 
 
 
