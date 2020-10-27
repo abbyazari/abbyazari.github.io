@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Abigail Azari is a post-doctoral scholar at the University of California, Berkeley's Space Sciences Laboratory ([SSL](https://www.ssl.berkeley.edu/)) where she works to analyze spacecraft data to understand current and past planetary conditions on Mars. 
+I am a **planetary scientist and space physicist** at the University of California, Berkeley where I am a post-doctoral scholar in the Space Sciences Laboratory ([SSL](https://www.ssl.berkeley.edu/)). I am passionate about developing statistical techniques to enable data-driven discovery for space and planetary sciences. My work intersects space physics and planetary science, with techniques from **statistics, data visualization, and computer science**. 
 
-She is interested in developing statistical techniques for enabling scientific discovery in space and planetary sciences. She completed her PhD and MS in Atmospheric, Oceanic, and Space Sciences at the University of Michigan. Dr. Azari was supported by an NSF Graduate Research Fellowship and a NASA Earth and Space Sciences Fellowship for her graduate education. While at the University of Michigan she developed a course in data visualization and statistics in geosciences for which she received a Towner Prize for Outstanding Graduate Student Instructors. She also served as the co-director of the University chapter of the Graduate Society of Women Engineers. Prior to her graduate education she worked at the Science and Technology Policy Institute providing policy analysis and technical support on a variety of topics including climate data, STEM education, and space policy. She received her BA in Physics from Smith College.
+Most of my work focuses on understanding current **planetary environments**, and their previous conditions, by studying newly available large datasets from  planetary missions. My current research is focused on analyzing spacecraft data to understand current and past planetary conditions on **Mars**. My recent work, as part of my [PhD thesis](https://deepblue.lib.umich.edu/handle/2027.42/155251) supported by an NSF Graduate Research Fellowship and a NASA Earth and Space Sciences Fellowship focused on developing **[interpretable methods for machine learning](https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/full)** in planetary science with applications to plasma transport around Saturn. 
 
-Check out [Publications](https://abbyazari.github.io/publications/) for my most recent work. Earlier work may be found on my [Google Scholar](https://scholar.google.com/citations?user=UdcGQbYAAAAJ&hl=en&oi=ao).
+I am interested in supporting the use of statistical and large-data methods for science and developing education in these practices. These efforts have included co-creating the [Machine Learning for Planetary Space Physics seminar series](https://ml4psp.github.io/) and leading a community generated white paper for [incorporting machine learning in planetary science for the next decade of missions](https://arxiv.org/abs/2007.15129). Additionally, I have co-developed a [new geoscience visualization and statistics](https://github.com/abbyazari/data_vis_statistics_geosciences) course for physical science students new to computer programming which received an (award)[https://crlte.engin.umich.edu/towner-prize-winners/abigail-azari/] from the University of Michigan for oustanding instruction.
 
-## Active Projects
 
-- evaluation of using Jupyter notebooks for teaching to develop a growth mindset based course on geoscience visualization and statistics (see [Teaching](https://abbyazari.github.io/teaching/)),
-- understanding transport, loss, and energization of energetic ions around Saturn through large-scale statistics
-- characterizing Mars' historical magnetic field to understand its previous atmospheric loss
 
-Check out [Research](https://abbyazari.github.io/research/) for major research interests.
+
+
+
+
 
 
 
