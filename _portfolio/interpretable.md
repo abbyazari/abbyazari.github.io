@@ -1,10 +1,10 @@
 ---
 title: "Interpretable Machine Learning Methods for Planetary Science"
-excerpt: "For developing scientifically actionable data intensive methods."
+excerpt: "Developing scientifically actionable data intensive methods."
 collection: portfolio
 ---
 
-A surge of data-rich planetary missions have transformed our ability to understand large and complicated planetary systems. Automated methods are advantageous in analyzing these data and managing spacecraft to outer planetary bodies and are quickly becoming necessary to handle the large-data sizes being returned. A major use of automation in the field, is for scientific analyses, in which our understanding of the automation process itself is of critical importance. In addition, planetary science data themselves pose challenges to off the shelf applications of machine learning. I'm interested in developing interpretable methods to address data challenges through integration of physical understanding into machine learning pipelines.      
+A surge of **data-rich planetary missions** have transformed our ability to understand large and complicated planetary systems. Automated methods are advantageous in analyzing these data and managing spacecraft to outer planetary bodies and are quickly becoming necessary to handle the large-data sizes being returned. A major use of automation in the field, is for scientific analyses, in which **our understanding of the automation process itself is of critical importance**. In addition, planetary science data themselves pose challenges to off the shelf applications of machine learning. I'm working to develop **interpretable methods to address data challenges through integration of physical understanding** into machine learning pipelines.      
 
 <img src="/images/Azari2020a_InterpretableMethod.png" alt="Drawing" /> 
 
