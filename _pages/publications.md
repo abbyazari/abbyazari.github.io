@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-This page features a small selection of recently published works. You can find a full list of published works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ"> Google Scholar.</a>
+This page features a small selection of recently published works. You can find a full list of works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ"> Google Scholar.</a>
 
  <!-- ### Liemohn, M. W., Shane, A. D., **Azari, A. R.**, Petersen, A. K., Swiger, B. M., and Mukhopadhyay, A. "RMSE is not enough: guidelines to robust data-model comparisons for magnetospheric physics". -->
 
@@ -41,6 +41,7 @@ This page features a small selection of recently published works. You can find a
   *This work investigated if mass transport events most similar to Rayleigh-Taylor instabilities in Saturn’s space environment were related to ionospheric or upper atmopsheric conditions by purusing a large-scale data occurrence analyses to tease apart multiple dependencies. Can be found online at <a href="https://doi.org/10.1029/2018JA026196"> JGR Space Physics</a>.*
   
 * Jasinski, J. M., Arridge, C. S., Bader, A., **[et al. with 15 others including Azari, A. R.]** (2019). "Saturn's open‐closed field line boundary: A Cassini electron survey at Saturn's magnetosphere." Journal of Geophysical Research: Space Physics, 124, 10018–10035. doi:10.1029/2019JA027090. 
+  
   *This work evaluated the high-latittude environement of Saturn's magnetosphere to understand system-wide mass transport. Can be found online at: <a href="https://doi.org/10.1029/2019JA027090"> JGR Space Physics</a>.*
 
 ### 2018
@@ -57,7 +58,6 @@ This page features a small selection of recently published works. You can find a
 * **Azari, A. R.** (2020). "A Data-Driven Understanding of Plasma Transport in Saturn's Magnetic Environment". PhD Thesis. University of Michigan. 
 
   *Full text accesible at  <a href="https://deepblue.lib.umich.edu/handle/2027.42/155251"> DeepBlue Thesis Database</a>.* 
-  
 
 <!-- ## Computational Resources:  ---> 
 
