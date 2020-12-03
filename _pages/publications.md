@@ -27,7 +27,7 @@ This page features a small selection of recently published works. You can find a
 
 * Dewey, R., Slavin, J., Raines, J., **Azari, A. R.**, Sun, W. "MESSENGER observations of flow braking and flux pileup of dipolarizations in Mercury's magnetotail: Evidence for current wedge formation".
 
-*This work discusses dipolarizations at Mercury and presents a cross-planetary comparison with Earth's substorm current wedge formation. Accepted for publiication, 8/21/2020.*
+   *This work discusses dipolarizations at Mercury and presents a cross-planetary comparison with Earth's substorm current wedge formation. Accepted for publiication, 8/21/2020.*
 
 * Liemohn, M. W., **Azari, A. R.**, Ganushkina, N. Y., and Rastatter, L. "The STONE curve: A ROC-derived model performance assessment tool". Earth and Space Science. Accesible at <a href="https://doi.org/10.1029/2020EA001106"> Earth and Space Science</a>. Preprint acessible at <a href="https://www.essoar.org/doi/10.1002/essoar.10502020.1"> ESSOAr</a>, and <a href="https://arxiv.org/abs/2005.03542"> arXiv</a>.
 
@@ -40,7 +40,8 @@ This page features a small selection of recently published works. You can find a
 
   *This work investigated if mass transport events most similar to Rayleigh-Taylor instabilities in Saturn’s space environment were related to ionospheric or upper atmopsheric conditions by purusing a large-scale data occurrence analyses to tease apart multiple dependencies. Can be found online at <a href="https://doi.org/10.1029/2018JA026196"> JGR Space Physics</a>.*
   
-* Jasinski, J. M., Arridge, C. S., Bader, A., **[et al. with 15 others including Azari, A. R.]** (2019). "Saturn's open‐closed field line boundary: A Cassini electron survey at Saturn's magnetosphere." Journal of Geophysical Research: Space Physics, 124, 10018–10035. doi:10.1029/2019JA027090. *This work evaluated the high-latittude environement of Saturn's magnetosphere to understand system-wide mass transport. Can be found online at: <a href="https://doi.org/10.1029/2019JA027090"> JGR Space Physics</a>.*
+* Jasinski, J. M., Arridge, C. S., Bader, A., **[et al. with 15 others including Azari, A. R.]** (2019). "Saturn's open‐closed field line boundary: A Cassini electron survey at Saturn's magnetosphere." Journal of Geophysical Research: Space Physics, 124, 10018–10035. doi:10.1029/2019JA027090. 
+  *This work evaluated the high-latittude environement of Saturn's magnetosphere to understand system-wide mass transport. Can be found online at: <a href="https://doi.org/10.1029/2019JA027090"> JGR Space Physics</a>.*
 
 ### 2018
 
