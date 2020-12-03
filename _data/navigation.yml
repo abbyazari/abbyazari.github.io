@@ -12,8 +12,8 @@ main:
   - title: "Research"
     url: /research/   
     
-  - title: "Community"
-    url: /community/
+ # - title: "Community"
+ #   url: /community/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
