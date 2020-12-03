@@ -1,5 +1,5 @@
 ---
-title: "Topic 1"
+title: "Interpretable Machine Learning Methods for Planetary Science"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
