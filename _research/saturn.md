@@ -1,6 +1,6 @@
 ---
-title: "Planetary Plasma Transport II. Outer Planets - Saturn as a Case Study"
-excerpt: "Advancing our understanding of how plasma moves around large planetary systems."
+title: "Planetary Plasma Transport II. Outer Planets"
+excerpt: "Advancing our understanding of how plasma moves around large planetary systems with Saturn as a case study."
 collection: portfolio
 ---
 
