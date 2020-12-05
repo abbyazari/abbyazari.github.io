@@ -1,5 +1,5 @@
 ---
-title: "Planetary Plasma Transport II. Terrestial Planets - The Evolution of Mars' Magnetic Field"
+title: "Planetary Plasma Transport I. Terrestial Planets - The Evolution of Mars' Magnetic Field"
 excerpt: "Building a new picture of Mars' interaction with the solar wind."
 collection: portfolio
 ---
