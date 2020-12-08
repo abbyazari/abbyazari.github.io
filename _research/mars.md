@@ -8,6 +8,6 @@ The Mars of several billion years ago is a very different Mars than that of toda
 
 Today, **remnants of this former magnetic field remain**, in effect frozen into the surface of Mars. A currently orbiting spacecraft, **MAVEN**, has obtained measurements above these fields; allowing for the **large-scale characterization of these remnants** to provide insight into to the historical evolution and eventual, termination, of Mars' formerly active field. See below for a video of my current work.
 
-[![Eastward Solar Wind Magnetic Field](/images/MavenMag_Screenshot.png)](https://youtu.be/Ab08HBCobo0 "Eastward Solar Wind Magnetic Field")
+[![Eastward Solar Wind Magnetic Field](/images/MavenMag_Screenshot.png)](https://youtu.be/JQsjnrG6ODk "Eastward Solar Wind Magnetic Field")
 
 <center> <em> Snapshot of a video of MAVEN magnetic field data evolving as Mars rotates, building toward a global scale data driven understanding of Mars' magnetic field interaction with the solar wind. Click to watch on YouTube. </em> </center>
