@@ -43,9 +43,9 @@ This page features a small selection of recently published works. You can find a
 
   *This work describes a new assessment tool for continuous data-model comparisons most similar to the ROC curve for classifcation analyses.*
 
-* Jasinski, J. M., Arridge, C. S., Bader, A., **[et al. with 15 others including Azari, A. R.]** (2019). "Saturn's open‐closed field line boundary: A Cassini electron survey at Saturn's magnetosphere." Journal of Geophysical Research: Space Physics, 124, 10018–10035. doi:10.1029/2019JA027090. 
+<!--* Jasinski, J. M., Arridge, C. S., Bader, A., **[et al. with 15 others including Azari, A. R.]** (2019). "Saturn's open‐closed field line boundary: A Cassini electron survey at Saturn's magnetosphere." Journal of Geophysical Research: Space Physics, 124, 10018–10035. doi:10.1029/2019JA027090. -->
   
-  *This work evaluated the high-latittude environement of Saturn's magnetosphere to understand system-wide mass transport. Can be found online at: <a href="https://doi.org/10.1029/2019JA027090"> JGR Space Physics</a>.*
+ <!--*This work evaluated the high-latittude environement of Saturn's magnetosphere to understand system-wide mass transport. Can be found online at: <a href="https://doi.org/10.1029/2019JA027090"> JGR Space Physics</a>.*-->
 
  <!-- * Regoli, L. H., Roussos, E., Dialynas, K., **[et al. with 12 others including Azari, A. R.]**, (2018). "Statistical study of the energetic proton environment at Titan'ss orbit from the Cassini spacecraft." Journal of Geophysical Research: Space Physics, 123, 4820–4834. doi:10.1029/2018JA025442. *This work produces a statistical study of the proton environment around Titan, the largest Saturnian moon. Can be found online at: <a href="https://doi.org/10.1029/2018JA025442"> JGR Space Physics</a>.* -->
   
