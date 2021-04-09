@@ -16,9 +16,7 @@ These works create and review methods for data intensive research and provide pa
 
 * **Azari, A. R.**, Biersteker, J. B., Dewey, R. M., Doran, G., Forsberg, E. J., Harris, C. D. K., Kerner, H. R., Skinner, K. A., Smith, A. W., Amini, R., Cambioni, S., Da Poian, V., Garton, T. M., Himes, M. D., Millholland, S., and Ruhunusiri, S. [+31 co-signatories] (2020) "Integrating Machine Learning for Planetary Science: Perspectives for the Next Decade".  Submitted to the <a href="https://www.nationalacademies.org/our-work/planetary-science-and-astrobiology-decadal-survey-2023-2032"> NRC Planetary and Astrobiology Decadal Survey</a>. Full text availiable via <a href="https://arxiv.org/abs/2007.15129">arXiv</a>. 
 
-  *This paper represents a community of 16 co-authors and 32 co-signers and our recommendations for machine learning in planetary science to funding agencies and the planetary community. It summarizes current efforts in the field in machine learning applied to planetary science, and compares this to other fields in the natural sciences. It concludes with recommendations in the next decade for supporting a data-rich future for planetary science. 
-  
-  *Perspective on reccomendations to the planetary community to ensure the long-term success for integrating machine learning into planetary science.*
+  *This paper represents a community of 16 co-authors and 32 co-signers and our recommendations for machine learning in planetary science to funding agencies and the planetary community. It summarizes current efforts in the field in machine learning applied to planetary science, and compares this to other fields in the natural sciences. It concludes with recommendations in the next decade for supporting a data-rich future for planetary science.* 
   
 * Liemohn, M. W., **Azari, A. R.**, Ganushkina, N. Y., and Rastatter, L. (2020) "The STONE curve: A ROC-derived model performance assessment tool". Accesible at <a href="https://doi.org/10.1029/2020EA001106"> Earth and Space Science</a>.
 
@@ -31,7 +29,7 @@ These works create and review methods for data intensive research and provide pa
 
 ### Planetary Systems Plasma Transport - Terrestrial Planets
 
-* **Azari, A. R.**, Mitchell, D., Xu, S. (in prep) "The Draped Magnetic Field of Mars - Influence of Crustal Fields and Solar Wind"
+* **Azari, A. R.**, Mitchell, D., Xu, S. (in prep) "The Draped Magnetic Field of Mars: Influence of Crustal Fields and Solar Wind"
 
   *This work details a large-scale data-driven evaluation of Mars' magnetic field response to the solar wind at low altitudes with MAVEN spacecraft data. This work was presented at AGU 2020.*
 
@@ -47,7 +45,7 @@ These works create and review methods for data intensive research and provide pa
   
 * Rymer, A...[46 total including **Azari, A. R.**] (2020). "Neptune and Triton: A Flagship for Everyone". Submitted to the Planetary Science and Astrobiology Decadal Survey 2023-2032. Acessible <a href="http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/623127/5489366/244-8cff7749d82bbc790f1cc58b9a047995_RymerAbigailM.pdf"> online</a>
 
-*This paper represents the outer planets community's motivation for sending a mission to the Neptune system in the near future. Neptune, to date, has never had an orbiting spacecraft. A mission to Neptune would advance cross-disciplinary planetary science, including: geologic studies for Triton, considering Neptune as a class of discovered exoplanets, and plasma transport studies. For plasma transport, Neptune has large non-dipolar magnetic fields, complicating our currently understood systems. Such a mission would represent the next several decades, given the time scale required for these missions, of scientific progress for these exotic planetary systems, and understanding mass transport at the icy giants.*
+  *This paper represents the outer planets community's motivation for sending a mission to the Neptune system in the near future. Neptune, to date, has never had an orbiting spacecraft. A mission to Neptune would advance cross-disciplinary planetary science, including: geologic studies for Triton, considering Neptune as a class of discovered exoplanets, and plasma transport studies. For plasma transport, Neptune has large non-dipolar magnetic fields, complicating our currently understood systems. Such a mission would represent the next several decades, given the time scale required for these missions, of scientific progress for these  planetary systems, and understanding mass transport at the icy giants.*
 
 * **Azari, A. R.**,  Jia, X., Liemohn, M. W., et al. (2019). "Are Interchange Injections Organized by Rotation Longitude?" Acessible at the <a href="https://doi.org/10.1029/2018JA026196"> Journal of Geophysical Research: Space Physics</a>
 
