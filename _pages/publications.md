@@ -10,9 +10,9 @@ This page provides an overview of essential themes in my scholarship. You can fi
 
 These works create and review methods for data intensive research and provide paths toward integrating data science into planetary science and space physics.
 
-* Liemohn, M. W., Shane, D., **Azari, A. R.**, et al. (2021) "RMSE is not enough: Guidelines to robust data-model comparisons for magnetospheric physics". Accesible at <a href="https://www.sciencedirect.com/science/article/pii/S13646826210008576"> Journal of Atmospheric and Solar-Terrestrial Physics</a>.
+* Liemohn, M. W., Shane, D., **Azari, A. R.**, et al. (2021) "RMSE is not enough: Guidelines to robust data-model comparisons for magnetospheric physics". Accesible at <a href="https://www.sciencedirect.com/science/article/pii/S1364682621000857"> Journal of Atmospheric and Solar-Terrestrial Physics</a>.
 
-  *Summarizes data-model comparisons including event metrics and argues for increased data inclusive comparisons in physics models.*
+  *This work summarizes data-model comparisons including event metrics and argues for increased data inclusive comparisons in physics models.*
 
 * **Azari, A. R.**, Biersteker, J. B., Dewey, R. M., Doran, G., Forsberg, E. J., Harris, C. D. K., Kerner, H. R., Skinner, K. A., Smith, A. W., Amini, R., Cambioni, S., Da Poian, V., Garton, T. M., Himes, M. D., Millholland, S., and Ruhunusiri, S. [+31 co-signatories] (2020) "Integrating Machine Learning for Planetary Science: Perspectives for the Next Decade".  Submitted to the <a href="https://www.nationalacademies.org/our-work/planetary-science-and-astrobiology-decadal-survey-2023-2032"> NRC Planetary and Astrobiology Decadal Survey</a>. Full text availiable via <a href="https://arxiv.org/abs/2007.15129">arXiv</a>. 
 
