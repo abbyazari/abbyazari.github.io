@@ -29,7 +29,7 @@ These works create and review methods for data intensive research and provide pa
 
 ### Planetary Systems Plasma Transport - Terrestrial Planets
 
-* **Azari, A. R.**, Mitchell, D., Xu, S. (in prep) "The Draped Magnetic Field of Mars: Influence of Crustal Fields and Solar Wind"
+* **Azari, A. R.**, Mitchell, D., Xu, S. (in prep) "The Draped Magnetic Field of Mars: Influence of Crustal Fields & Solar Wind"
 
   *This work details a large-scale data-driven evaluation of Mars' magnetic field response to the solar wind at low altitudes with MAVEN spacecraft data. This work was presented at AGU 2020.*
 
