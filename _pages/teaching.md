@@ -11,7 +11,7 @@ I enjoy weaving visualization methods into the courses I teach as a way to explo
 - Undergraduate / Graduate course at University of Michigan, 2018-2019 at [github/abbyazari](https://github.com/abbyazari/data_vis_statistics_geosciences), 2020+ at [github/clasp423](https://github.com/clasp423/data_vis_statistics_geosciences)
 
 
-### Interdisciplinary Committee on Organizational Studies (ICOS) Big Data Summer Camp 2018
+### Interdisciplinary Committee on Organizational Studies (ICOS) Big Data Summer Camp 2018 - Visualization Lessons
 - Graduate course at University of Michigan through the Ross School of Business, 2018 at [ICOS Big Data Camp 2018](https://icosbigdatacamp.github.io/2018-summer-camp/), other years at [ICOS Big Data Camp](https://icosbigdatacamp.github.io)
 
 I have additionally contributed to the teaching teams in various physical science courses including in rocket science, thermodynamics, and introductory undergraduate physics. 
