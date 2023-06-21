@@ -8,30 +8,23 @@ This page provides an overview of essential themes in my scholarship in machine 
 
 ### Data Science Methods for Scientific Insight
 
-These works create and review methods for data intensive research and provide paths toward integrating data science into planetary science and space physics.
+* **Azari, A. R.**, Biersteker, J. B., Dewey, R. M. et al., (2021) "Integrating Machine Learning for Planetary Science: Perspectives for the Next Decade".  Submitted to the NRC Planetary and Astrobiology Decadal Survey. Full text availiable via <a href="https://baas.aas.org/pub/2021n4i128/release/1?readingCollection=7272e5bb">Bulletin of the American Astronomical Society</a>.
 
-* **Azari, A. R.**, Biersteker, J. B., Dewey, R. M., Doran, G., Forsberg, E. J., Harris, C. D. K., Kerner, H. R., Skinner, K. A., Smith, A. W., Amini, R., Cambioni, S., Da Poian, V., Garton, T. M., Himes, M. D., Millholland, S., and Ruhunusiri, S. [+31 co-signatories] (2021) "Integrating Machine Learning for Planetary Science: Perspectives for the Next Decade".  Submitted to the NRC Planetary and Astrobiology Decadal Survey. Full text availiable via <a href="https://baas.aas.org/pub/2021n4i128/release/1?readingCollection=7272e5bb">Bulletin of the American Astronomical Society</a>.
-
-  *This paper represents a community of 16 co-authors and 32 co-signers and our recommendations for machine learning in planetary science to funding agencies and the planetary community. It summarizes current efforts in the field in machine learning applied to planetary science, and compares this to other fields in the natural sciences. It concludes with recommendations in the next decade for supporting a data-rich future for planetary science.* 
-
-* **Azari, A. R.**, Lockhart, J. W., Liemohn, M. W., and Jia, X. (2020). "Incorporating Physical Knowledge into Machine Learning for Planetary Space Physics". Access at <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/"> Frontiers in Astronomy and Space Sciences </a>.
-
-  *This work details a process to include physical knowledge in planetary and space physics machine learning models, before demonstrating that this inclusion increases the interpretability of models for scientific knowledge gain. Within the Machine Learning in Heliophysics collection.*
+  *This paper represents a community of 16 co-authors and 32 co-signers and our recommendations for machine learning in planetary science to funding agencies and the planetary community. It summarizes current efforts in the field in machine learning applied to planetary science, and compares this to other fields in the natural sciences. It concludes with recommendations in the next decade for supporting a data-rich future for planetary science.*
   
 * Liemohn, M. W., Shane, D., **Azari, A. R.**, et al. (2021) "RMSE is not enough: Guidelines to robust data-model comparisons for magnetospheric physics". Accesible at <a href="https://www.sciencedirect.com/science/article/pii/S1364682621000857"> Journal of Atmospheric and Solar-Terrestrial Physics</a>.
-
-  *This work summarizes data-model comparisons including event metrics and argues for increased data inclusive comparisons in physics models.*
+  
+* **Azari, A. R.**, Lockhart, J. W., Liemohn, M. W., and Jia, X. (2020). "Incorporating Physical Knowledge into Machine Learning for Planetary Space Physics". Access at <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/"> Frontiers in Astronomy and Space Sciences </a>.
   
 * Liemohn, M. W., **Azari, A. R.**, Ganushkina, N. Y., and Rastatter, L. (2020) "The STONE curve: A ROC-derived model performance assessment tool". Accesible at <a href="https://doi.org/10.1029/2020EA001106"> Earth and Space Science</a>.
 
-  *This work describes a new assessment tool for continuous data-model comparisons most similar to the ROC curve for classifcation analyses.*
-
+ *These papers create and review methods for data-intensive research. The first paper (Liemohn et al., 2021) summarizes data-model comparisons including event metrics and argues for increased data inclusive comparisons in physics models. The second paper (Liemohn et al., 2020) describes a new metric for data-model comparisons (based off the commonly used ROC curve in classification) for continuous data in Earth and Space Sciences. The third paper (Azari et al., 2020) details a process to include physical knowledge in planetary and space physics machine learning models, before demonstrating that this inclusion increases the interpretability of models for scientific knowledge gain.* 
 
 ### Planetary Systems Plasma Transport - Terrestrial Planets
 
-* **Azari, A. R.**, Mitchell, D., Xu, S. (in prep) "The Draped Magnetic Field of Mars: Influence of Crustal Fields & Solar Wind".
+* **Azari, A. R.**, Abrahams, E. A., Sapienza, F., et al. (2023, under review) "Magnetic Field Draping in Induced Magnetospheres: Evidence from the MAVEN Mission to Mars".
 
-  *This work details a large-scale data-driven evaluation of Mars' magnetic field response to the solar wind at low altitudes with MAVEN spacecraft data. This work was presented at AGU 2020.*
+  *This work details a large-scale data-driven evaluation of Mars' magnetic field response to the multiple spatio-temporal drivers with MAVEN spacecraft data. This work culminated in an expanded theoretical model of induced magnetospheres. Work within this manuscript is partially funded by the inaugural NASA AI/ML Grants and includes applications of Bayesian methods to quantify causal effects in Mars' space environment and development of novel qualitative visualization methods for planetary magnetic fields.*
 
 * Dewey, R. M., Slavin, J., Raines, J., **Azari, A. R.**, and Sun, W. (2020) "MESSENGER observations of flow braking and flux pileup of dipolarizations in Mercury's magnetotail: Evidence for current wedge formation". Access at the <a href="https://doi.org/10.1029/2020JA028112"> Journal of Geophysical Research: Space Physics</a>.
 
