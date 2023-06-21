@@ -18,7 +18,7 @@ This page provides an overview of essential themes in my scholarship in machine 
   
 * Liemohn, M. W., **Azari, A. R.**, Ganushkina, N. Y., and Rastatter, L. (2020) "The STONE curve: A ROC-derived model performance assessment tool". Accesible at <a href="https://doi.org/10.1029/2020EA001106"> Earth and Space Science</a>.
 
- *These papers create and review methods for data-intensive research. The first paper (Liemohn et al., 2021) summarizes data-model comparisons including event metrics and argues for increased data inclusive comparisons in physics models. The second paper (Liemohn et al., 2020) describes a new metric for data-model comparisons (based off the commonly used ROC curve in classification) for continuous data in Earth and Space Sciences. The third paper (Azari et al., 2020) details a process to include physical knowledge in planetary and space physics machine learning models, before demonstrating that this inclusion increases the interpretability of models for scientific knowledge gain.* 
+  *These papers create and review methods for data-intensive research. The first paper (Liemohn et al., 2021) summarizes data-model comparisons including event metrics and argues for increased data inclusive comparisons in physics models. The second paper (Liemohn et al., 2020) describes a new metric for data-model comparisons (based off the commonly used ROC curve in classification) for continuous data in Earth and Space Sciences. The third paper (Azari et al., 2020) details a process to include physical knowledge in planetary and space physics machine learning models, before demonstrating that this inclusion increases the interpretability of models for scientific knowledge gain.* 
 
 ### Planetary Systems Plasma Transport - Terrestrial Planets
 
