@@ -4,9 +4,9 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-This page provides an overview of essential themes in my scholarship in machine learning for science and planetary plasma transport. You can find a full list of works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ">Google Scholar</a> and active projects under <a href="https://abbyazari.github.io/research/">Research</a>
+This page provides an overview of essential themes in my scholarship in machine learning for science and planetary plasma transport. You can find a full list of works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ">Google Scholar</a> and active projects under <a href="https://abbyazari.github.io/research/">Research</a>.
 
-### Machine Learning for Scientific Insight
+### Data Science Methods for Scientific Insight
 
 These works create and review methods for data intensive research and provide paths toward integrating data science into planetary science and space physics.
 
@@ -57,11 +57,11 @@ These works create and review methods for data intensive research and provide pa
   *This paper represents the outer planets community's motivation for sending a mission to the Neptune system in the near future. Neptune, to date, has never had an orbiting spacecraft. A mission to Neptune would advance cross-disciplinary planetary science, including: geologic studies for Triton, considering Neptune as a class of discovered exoplanets, and plasma transport studies. For plasma transport, Neptune has large non-dipolar magnetic fields, complicating our currently understood systems. Such a mission would represent the next several decades, given the time scale required for these missions, of scientific progress for these  planetary systems, and understanding mass transport at the icy giants.*
 
 
-### Inclusive Computational Geoscience Education
+### Computational Geoscience Education
 
 * **Azari, A. R.** (2020) "A Data-Driven Understanding of Plasma Transport in Saturn's Magnetic Environment" Ph.D. Thesis. University of Michigan. Access on the <a href="https://deepblue.lib.umich.edu/handle/2027.42/155251"> DeepBlue Thesis Database</a>.
 
-  *The appendix of this work discusses the implementation of Jupyter notebooks to provide an approachable experience for students into computation in a course for undergraduate and graduate students. We found that Jupyter notebooks naturally provided instructors to embrace a growth mindset style of learning by allowing students to attempt, and retry solutions. It also allowed instructors to grade computational assignments for partial credit, reinforcing a growth minded approach to student learning by the instructional team. This work was presented at <a href="https://figshare.com/articles/Jupiter_with_Jupyter/11691783AGU"> AGU in 2019</a>. Brian Swiger, Alex Shane, Drs. Liemohn and Huang-Saad, and myself are currently in the process of finalizing our assessment for submission to the Journal of Geoscience Education.*
+  *The appendix of this work discusses the implementation of Jupyter notebooks to provide an approachable experience for students into computation in a course for undergraduate and graduate students. We found that Jupyter notebooks naturally provided instructors to embrace a growth mindset style of learning by allowing students to attempt, and retry solutions. It also allowed instructors to grade computational assignments for partial credit, reinforcing a growth minded approach to student learning by the instructional team. This work was presented at <a href="https://figshare.com/articles/Jupiter_with_Jupyter/11691783AGU"> AGU in 2019</a>.*
 
 <!-- ## Computational Resources:  ---> 
 
