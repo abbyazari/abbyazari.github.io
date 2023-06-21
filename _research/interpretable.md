@@ -1,5 +1,5 @@
 ---
-title: "Interpretable Machine Learning for the Space Physics and Planetary Science"
+title: "Interpretable Machine Learning for Space Physics and Planetary Science"
 excerpt: "Developing scientifically actionable data intensive methods."
 collection: portfolio
 ---
