@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-This page provides an overview of essential themes in my scholarship in machine learning for science, planetary plasma transport, and education. You can find a full list of works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ"> Google Scholar. </a>
+This page provides an overview of essential themes in my scholarship in machine learning for science and planetary plasma transport. You can find a full list of works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ">Google Scholar</a> and active projects under <a href="https://abbyazari.github.io/research/">Research</a>
 
 ### Machine Learning for Scientific Insight
 
