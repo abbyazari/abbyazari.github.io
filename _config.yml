@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abigail Azari"
 title_separator          : "-"
 name                     : &name "Abigail Azari"
-description              : &description "Post-Doc Scholar at UC Berkeley"
+description              : &description "Data Science Postdoctoral Fellow at University of British Columbia"
 url                      : https://abbyazari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"astro-abby.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Abigail Azari"
   avatar           : "profile.jpg"
-  bio              : "Post-Doctoral Scholar, UC Berkeley"
+  bio              : "Data Science Postdoctoral Fellow at University of British Columbia"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UdcGQbYAAAAJ&hl=en&oi=ao"
-  email            :  azari at berkeley dot edu
+  email            :  azari at umich dot edu
   researchgate     :
   uri              :
   bitbucket        :
