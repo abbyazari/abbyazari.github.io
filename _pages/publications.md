@@ -8,7 +8,7 @@ This page provides an overview of essential themes in my scholarship in machine 
 
 ### Data Science Methods for Scientific Insight
 
-* **Azari, A. R.**, Abrahams, E. Sapienza, F. et al., (2024) "A Virtual Solar Wind Monitor for Mars with Uncertainty Quantification using Gaussian Processes".  Submitted to JGR Machine Learning. Full text availiable via <a href="https://arxiv.org/abs/2402.01932">zrXiv</a>.
+* **Azari, A. R.**, Abrahams, E. Sapienza, F. et al., (2024) "A Virtual Solar Wind Monitor for Mars with Uncertainty Quantification using Gaussian Processes".  Submitted to JGR Machine Learning. Full text availiable via <a href="https://arxiv.org/abs/2402.01932">arXiv</a>.
 
   *This paper under review discusses a new product which estimates the solar wind upstream of Mars with uncertainties.*
 
