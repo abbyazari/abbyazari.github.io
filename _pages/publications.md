@@ -8,6 +8,10 @@ This page provides an overview of essential themes in my scholarship in machine 
 
 ### Data Science Methods for Scientific Insight
 
+* **Azari, A. R.**, Abrahams, E. Sapienza, F. et al., (2024) "A Virtual Solar Wind Monitor for Mars with Uncertainty Quantification using Gaussian Processes".  Submitted to JGR Machine Learning. Full text availiable via <a href="https://arxiv.org/abs/2402.01932">zrXiv</a>.
+
+  *This paper under review discusses a new product which estimates the solar wind upstream of Mars with uncertainties.*
+
 * **Azari, A. R.**, Biersteker, J. B., Dewey, R. M. et al., (2021) "Integrating Machine Learning for Planetary Science: Perspectives for the Next Decade".  Submitted to the NRC Planetary and Astrobiology Decadal Survey. Full text availiable via <a href="https://baas.aas.org/pub/2021n4i128/release/1?readingCollection=7272e5bb">Bulletin of the American Astronomical Society</a>.
 
   *This paper represents a community of 16 co-authors and 32 co-signers and our recommendations for machine learning in planetary science to funding agencies and the planetary community. It summarizes current efforts in the field in machine learning applied to planetary science, and compares this to other fields in the natural sciences. It concludes with recommendations in the next decade for supporting a data-rich future for planetary science.*
@@ -22,7 +26,7 @@ This page provides an overview of essential themes in my scholarship in machine 
 
 ### Planetary Systems Plasma Transport - Terrestrial Planets
 
-* **Azari, A. R.**, Abrahams, E. A., Sapienza, F., et al. (2023, under review) "Magnetic Field Draping in Induced Magnetospheres: Evidence from the MAVEN Mission to Mars".
+* **Azari, A. R.**, Abrahams, E. A., Sapienza, F., et al. (2023) "Magnetic Field Draping in Induced Magnetospheres: Evidence from the MAVEN Mission to Mars".
 
   *This work details a large-scale data-driven evaluation of Mars' magnetic field response to the multiple spatio-temporal drivers with MAVEN spacecraft data. This work culminated in an expanded theoretical model of induced magnetospheres. Work within this manuscript is partially funded by the inaugural NASA AI/ML Grants and includes applications of Bayesian methods to quantify causal effects in Mars' space environment and development of novel qualitative visualization methods for planetary magnetic fields.*
 
