@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abby Azari"
 title_separator          : "-"
 name                     : &name "Abby Azari"
-description              : &description "Data Science Postdoctoral Fellow at University of British Columbia"
+description              : &description "Assistant Professor at University of Alberta"
 url                      : https://abbyazari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"astro-abby.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Abby Azari"
   avatar           : "profile.jpg"
-  bio              : "Data Science Postdoctoral Fellow at University of British Columbia"
+  bio              : "Assistant Professor at University of Alberta"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
