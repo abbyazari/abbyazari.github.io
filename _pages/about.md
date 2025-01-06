@@ -10,7 +10,7 @@ redirect_from:
 
 I am a planetary scientist and space physicist pursuing probabilistic machine learning and inverse methods for scientific insight. I lead a research group in the Faculties of Science and Engineering at the Unversity of Alberta and the [Alberta Machine Intelligence Institute](https://www.amii.ca/). I am generally interested in advancing uncertainty quantification and interpretable machine learning for large-scale data, or automated methods, in the Earth and space sciences.
 
-The majority of my research focuses on understanding current planetary space environments, and their previous conditions, by utilizing machine learning on large datasets from planetary missions. This includes for Mars as I am a member of the Science Team of NASA’s [MAVEN](https://science.nasa.gov/mission/maven/) mission.
+The majority of my research focuses on understanding current planetary space environments, and their previous conditions, by utilizing machine learning on large datasets from planetary missions (e.g. Mars, Saturn, Mercury, the solar wind). I am a member of the Science Team of NASA’s [MAVEN](https://science.nasa.gov/mission/maven/) mission where I lead machine learning efforts for understanding Mars' space environment. 
 
 Before joining the University of Alberta, I was at the University of British Columbia's Data Science Institute and Earth, Ocean and Atmospheric Sciences department as a [Data Science Fellow](https://dsi.ubc.ca/projects/2023/gaussian-processes-advancing-understanding-planetary-magnetism-spacecraft). I have previously worked at the University of California Berkeley's Space Sciences Laboratory, IDA's Science and Technology Institute, NASA's Jet Propulsion Laboratory, the General Atomics DIII-D National Fusion Facility via the Princeton Plasma Physics Laboratory, and the Colorado School of Mines. 
 
@@ -31,11 +31,9 @@ The research group is interdiscplinary and I support students who wish to join t
 The following are several (always availiable) avenues to work with the research group. I encourage potential posts docs and visitors to review these before contacting me.
 
   - Banting Fellowship (open to all citizenships), [banting.fellowships-bourses.gc.ca](https://banting.fellowships-bourses.gc.ca)
-  - NRC Post Doctoral Fellowshiip (Canadian citizens and permanent residents preferred), [nrc.canada.ca/en/corporate/careers/postdoctoral-fellowship-program](https://nrc.canada.ca/en/corporate/careers/postdoctoral-fellowship-program)
+  - NSERC Post Doctoral Fellowshiip (Canadian citizens and permanent residents + additional statuses), [nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp)
   - NSF Postdoctoral Fellowships (US citizens and permanent residents only), certain opportunities can be held at University of Alberta [new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599](https://new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599)
   - More information is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
-
-
 
 <!-- ### Updates
 
