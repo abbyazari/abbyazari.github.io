@@ -24,7 +24,7 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 *  **Azari, A. R.** (2020) "A Data-Driven Understanding of Plasma Transport in Saturn's Magnetic Environment". Ph.D. Thesis. University of Michigan. <a href="https://deepblue.lib.umich.edu/handle/2027.42/155251">Handle: 2027.42/155251</a>
 
-    *The appendix of this work discusses the implementation of Jupyter notebooks to provide an approachable experience for students into computation for undergraduate and graduate students.*
+    *The appendix of this work discusses the implementation of Jupyter notebooks to provide an approachable experience into computation for undergraduate and graduate students.*
 
 ### Collaborative Publications
 
