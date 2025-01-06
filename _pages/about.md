@@ -18,7 +18,7 @@ My PhD was from the University of Michigan College of Engineering's Climate and 
 
 ## Joining the Research Group
 
-**I am recruiting for Master's and PhD students for Fall 2025 in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html).** Potential projects include: predicting space weather at Mars, probability distributions of the solar wind, and planetary aurorae.
+**I am recruiting for Master's and PhD students for Fall 2025 in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). Potential projects include: predicting space weather at Mars, probability distributions of the solar wind, and planetary aurorae.**
 
 If you are interested in joining the group please email me with: 1) a brief description of your research interests and how you see them fitting into the research group, 2) a brief description of your background (e.g. a CV or Resumé), and 3) what program(s) you are interested in. 
 
