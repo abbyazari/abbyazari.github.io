@@ -82,7 +82,6 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 ### Datasets and Computational Contributions
 
-
 1. **Azari, A. R.** (2024). "vSWIM v0.0.0+, A Virtual Solar Wind Monitor for Mars". <a href="https://github.com/abbyazari/vSWIM">GitHub</a>, <a href="https://doi.org/10.5281/zenodo.11106971">doi: 10.5281/zenodo.11106971</a>
 
  1. **Azari, A. R.** (2021). "NASA-ML-Pubs v2023.0.2+, Machine Learning Publications in NASA Represented Fields". <a href="https://github.com/abbyazari/NASA-ML-Pubs">GitHub</a>, <a href="https://zenodo.org/doi/10.5281/zenodo.13023912">doi: 10.5281/zenodo.13023912</a>$^{\dagger}$
