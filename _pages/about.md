@@ -28,7 +28,7 @@ The research group is interdiscplinary and I support students who wish to join t
 
 ### Post Doctoral and Visitor Funding Opportunities
 
-The following are several (always availiable) avenues to work with the research group. I encourage potential posts docs and visitors to review these before contacting me.
+The following are several (always availiable) avenues to work with the research group. I encourage potential post docs and visitors to review these before contacting me.
 
   - Banting Fellowship (open to all citizenships), [banting.fellowships-bourses.gc.ca](https://banting.fellowships-bourses.gc.ca)
   - NSERC Post Doctoral Fellowshiip (Canadian citizens and permanent residents + additional statuses), [nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp)
