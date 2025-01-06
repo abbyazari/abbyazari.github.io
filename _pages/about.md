@@ -8,17 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-I am a **planetary scientist and space physicist** pursuing probabilistic **machine learning** and inverse methods for scientific insight. I lead a research group in the [Physics](https://www.ualberta.ca/en/physics/index.html) and [Electrical and Computer Engineering](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) departments at the Unversity of Alberta. I also pursue research as a Fellow of the [Alberta Machine Intelligence Institute](https://www.amii.ca/). I am generally interested in advancing uncertainty quantification and interpretable machine learning for large-scale data, or automated methods, in the Earth and space sciences. 
+I am a planetary scientist and space physicist pursuing probabilistic machine learning and inverse methods for scientific insight. I lead a research group in the Faculties of Science and Engineering at the Unversity of Alberta and the [Alberta Machine Intelligence Institute](https://www.amii.ca/). I am generally interested in advancing uncertainty quantification and interpretable machine learning for large-scale data, or automated methods, in the Earth and space sciences.
 
-The majority of my research focuses on understanding current **planetary space environments**, and their previous conditions, by studying newly available large datasets from planetary missions. This includes for **Mars** where I am a member of the Science Team of NASA’s [MAVEN](https://science.nasa.gov/mission/maven/) mission. 
+The majority of my research focuses on understanding current planetary space environments, and their previous conditions, by utilizing machine learning on large datasets from planetary missions. This includes for Mars as I am a member of the Science Team of NASA’s [MAVEN](https://science.nasa.gov/mission/maven/) mission.
 
-I was previously at the University of British Columbia's Data Science Institute and Earth, Ocean and Atmospheric Sciences department as a [Data Science Fellow](https://dsi.ubc.ca/projects/2023/gaussian-processes-advancing-understanding-planetary-magnetism-spacecraft). I additionally spent several years at the University of California Berkeley's Space Sciences Lab ([SSL](https://www.ssl.berkeley.edu/)) supported by the MAVEN mission and leading a NASA grant in interdiscplinary AI applications.
+Before joining the University of Alberta, I was at the University of British Columbia's Data Science Institute and Earth, Ocean and Atmospheric Sciences department as a [Data Science Fellow](https://dsi.ubc.ca/projects/2023/gaussian-processes-advancing-understanding-planetary-magnetism-spacecraft). I have previously worked at the University of California Berkeley's Space Sciences Laboratory, IDA's Science and Technology Institute, NASA's Jet Propulsion Laboratory, the General Atomics DIII-D National Fusion Facility via the Princeton Plasma Physics Laboratory, and the Colorado School of Mines. 
 
-<!-- I am interested in supporting the use of machine learning methods for science and developing educational resources in these practices. These efforts have included co-creating the Machine Learning for Planetary Space Physics [seminar series](https://ml4psp.github.io/), leading a community generated white [paper](https://baas.aas.org/pub/2021n4i128/release/1) for **incorporating machine learning in planetary science for the next decade** of missions, and serving on the Planetary Data Ecosystem [Independent Review Board]([https://www.nasa.gov/feature/nasa-establishes-board-to-review-planetary-data-ecosystem/) Subcommittee on Mining and Automation. Additionally, I have co-developed a **geoscience visualization and statistics** [course](https://github.com/abbyazari/data_vis_statistics_geosciences) for physical science students new to computer programming which received an [award](https://crlte.engin.umich.edu/towner-prize-winners/abigail-azari/) from the University of Michigan for outstanding instruction. -->
+My PhD was from the University of Michigan College of Engineering's Climate and Space department where I was a NSF Graduate Research Fellow and NASA Earth and Space Sciences Fellow. I have an undergraduate degree from Smith College in Physics. 
 
-<!-- I was previously at the University of California Berkeley's Space Sciences Lab ([SSL](https://www.ssl.berkeley.edu/)) supported by the MAVEN mission and a new NASA program in interdiscplinary AI applications. My [PhD thesis](https://deepblue.lib.umich.edu/handle/2027.42/155251) focused on developing **interpretable methods** for machine learning in planetary science with applications to plasma transport around **Saturn** and was supported by an NSF Graduate Research Fellowship and a NASA Earth and Space Sciences Fellowship. -->
+## Joining the Research Group
 
-<!-- If you are interested in joining my research group please see blah page. -->
+**I am recruiting for Master's and PhD students for Fall 2025 in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html).** 
+
+If you are interested in joining the group please email me with: 1) a brief description of your research interests and how you see them fitting into the research group, 2) a brief description of your background (e.g. a CV or Resumé), and 3) what program(s) you are interested in. 
+
+Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). 
+
+The research group is interdiscplinary and I support students who wish to join the group with other experience, and those who have taken a break in their professional journey. I am always interested in motivated students and postdocs who would like to work with the research group.
+
+### Post Doctoral and Visitor Funding Opportunities
+
+The following are several (always availiable) avenues to work with the research group. I encourage potential posts docs and visitors to review these before contacting me.
+
+  - Banting Fellowship (open to all citizenships), [banting.fellowships-bourses.gc.ca](https://banting.fellowships-bourses.gc.ca)
+  - NRC Post Doctoral Fellowshiip (Canadian citizens and permanent residents preferred), [nrc.canada.ca/en/corporate/careers/postdoctoral-fellowship-program](https://nrc.canada.ca/en/corporate/careers/postdoctoral-fellowship-program)
+  - NSF Postdoctoral Fellowships (US citizens and permanent residents only), certain opportunities can be held at University of Alberta [new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599](https://new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599)
+  - More information is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
+
+
+
+<!-- ### Updates
+
+- Jan. 2025: A. R. Azari joins University of Alberta. 
+
+-->
 
 
 
