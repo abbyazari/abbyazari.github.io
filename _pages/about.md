@@ -24,7 +24,7 @@ If you are interested in joining the group please email me with: 1) a brief desc
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). 
 
-The research group is interdiscplinary and I support students who wish to join the group with other experience, and those who have taken a break in their professional journey. I am always interested in motivated students and postdocs who would like to work with the research group.
+The research group is interdiscplinary and I support students who wish to join the group with other experience, and those who have taken a break in their professional journey. I am always interested in supporting motivated students and postdocs who are able to pursue independent funding.
 
 ### Post Doctoral and Visitor Funding Opportunities
 
