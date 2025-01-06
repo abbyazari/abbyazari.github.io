@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abby Azari"
 title_separator          : "-"
 name                     : &name "Abby Azari"
-description              : &description "Assistant Professor at University of Alberta, Fellow at amii"
+description              : &description "Assistant Professor at University of Alberta, Research Fellow at amii"
 url                      : https://abbyazari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"astro-abby.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Abby Azari"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor at University of Alberta, Fellow at amii"
+  bio              : "Assistant Professor at University of Alberta, Research Fellow at amii"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Canada/Mountain # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
