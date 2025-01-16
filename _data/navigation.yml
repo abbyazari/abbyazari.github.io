@@ -1,17 +1,17 @@
 # main links links
 main:
 
-# - title: "Group"
-# - url: /group/
+  - title: "Group"
+    url: /group/
+
+  - title: "Research"
+    url: /research/   
     
   - title: "Publications"
     url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/      
-    
-  - title: "Research"
-    url: /research/   
 
   - title: "Teaching"
     url: /teaching/  
