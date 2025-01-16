@@ -16,11 +16,11 @@ Before joining the University of Alberta, I was at the University of British Col
 
 My PhD was from the University of Michigan College of Engineering's Climate and Space department where I was a NSF Graduate Research Fellow and NASA Earth and Space Sciences Fellow. I have an undergraduate degree from Smith College in Physics. 
 
-<!-- ### Updates
+### News and Updates
 
+- Jan. 2025: The research group is recruiting for MS and PhD students. See the [Group](https://abbyazari.github.io/group/) page for more information.
 - Jan. 2025: A. R. Azari joins University of Alberta. 
 
--->
 
 
 
