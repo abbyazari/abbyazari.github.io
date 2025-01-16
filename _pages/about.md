@@ -18,15 +18,15 @@ My PhD was from the University of Michigan College of Engineering's Climate and 
 
 ## Joining the Research Group
 
+Below is the current status of open positions but I am always interested in supporting motivated students and postdocs who are able to pursue independent funding.  
+
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). 
 
 The research group is interdiscplinary and I support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey. 
 
-Below is the current status of open positions but I am always interested in supporting motivated students and postdocs who are able to pursue independent funding. 
-
 ### Undergraduate Students
 
-I am not recruiting for undergraduate students for summer research opportunities.
+I am not recruiting for undergraduate students for summer opportunities.
 
 ### Graduate Students
 
