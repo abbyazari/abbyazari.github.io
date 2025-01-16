@@ -18,13 +18,21 @@ My PhD was from the University of Michigan College of Engineering's Climate and 
 
 ## Joining the Research Group
 
+Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). 
+
+The research group is interdiscplinary and I support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey. 
+
+Below is the current status of open positions but I am always interested in supporting motivated students and postdocs who are able to pursue independent funding. 
+
+### Undergraduate Students
+
+I am not recruiting for undergraduate students for summer research opportunities.
+
+### Graduate Students
+
 **I am recruiting for Master's and PhD students for Fall 2025 in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). Potential projects include: predicting space weather at Mars, probability distributions of the solar wind, and planetary aurorae.**
 
 If you are interested in joining the group please email me with: 1) a brief description of your research interests and how you see them fitting into the research group, 2) a brief description of your background (e.g. a CV or Resumé), and 3) what program(s) you are interested in. 
-
-Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). 
-
-The research group is interdiscplinary and I support students who wish to join the group with other experience, and those who have taken a break in their professional journey. I am always interested in supporting motivated students and postdocs who are able to pursue independent funding.
 
 ### Post Doctoral and Visitor Funding Opportunities
 
