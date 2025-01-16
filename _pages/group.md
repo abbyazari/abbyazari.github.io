@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-See below for information on [joining](#open-opportunities) the research group and our community [vision](#research-group-vision).
+See below for information on [joining](#open-opportunities) the research group and for our research group [vision](#research-group-vision).
 
 ## Open Opportunities
 
