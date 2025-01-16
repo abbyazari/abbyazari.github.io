@@ -1,16 +1,20 @@
 # main links links
 main:
+
+# - title: "Group"
+# - url: /group/
+    
   - title: "Publications"
     url: /publications/
 
 #  - title: "Talks"
-#    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+#    url: /talks/      
     
   - title: "Research"
     url: /research/   
+
+  - title: "Teaching"
+    url: /teaching/  
   
   - title: "Visualizations"
     url: /visualizations/  
