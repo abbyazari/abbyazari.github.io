@@ -19,7 +19,7 @@ My PhD was from the University of Michigan College of Engineering's Climate and 
 ### News and Updates
 
 - Jan. 2025: The research group is recruiting for MS and PhD students. See the [Group](https://abbyazari.github.io/group/) page for more information.
-- Jan. 2025: A. R. Azari joins University of Alberta and the Alberta Machine Intelligence Institute.
+- Jan. 2025: A. R. Azari joins the University of Alberta and the Alberta Machine Intelligence Institute.
 
 
 
