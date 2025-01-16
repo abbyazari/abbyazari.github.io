@@ -24,24 +24,25 @@ Ideal candidates will have experience in data science (e.g. machine learning, st
 
 The research group is interdiscplinary and I support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey. 
 
-### Undergraduate Students
+- Undergraduate Students
 
-I am not recruiting for undergraduate students for summer opportunities.
+  I am not recruiting for undergraduate students for summer opportunities.
 
-### Graduate Students
+- Graduate Students
 
-**I am recruiting for Master's and PhD students for Fall 2025 in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). Potential projects include: predicting space weather at Mars, probability distributions of the solar wind, and planetary aurorae.**
+  **I am recruiting for Master's and PhD students for Fall 2025 in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). Potential projects include: predicting space weather at Mars, probability distributions of the solar wind, and planetary aurorae.**
 
-If you are interested in joining the group please email me with: 1) a brief description of your research interests and how you see them fitting into the research group, 2) a brief description of your background (e.g. a CV or Resumé), and 3) what program(s) you are interested in. 
+  If you are interested in joining the group please email me with: 1) a brief description of your research interests and how you see them fitting into the research group, 2) a brief description of your background (e.g. a CV or Resumé), and 3) what program(s) you are interested in. 
 
-### Post Doctoral and Visitor Funding Opportunities
+- Post Doctoral and Visitor Funding Opportunities
 
-The following are several (always availiable) avenues to work with the research group. I encourage potential post docs and visitors to review these before contacting me.
+  The following are several (always availiable) avenues to work with the research group. I encourage
+  potential post docs and visitors to review these before contacting me.
 
-  - Banting Fellowship (open to all citizenships), [banting.fellowships-bourses.gc.ca](https://banting.fellowships-bourses.gc.ca)
-  - NSERC Post Doctoral Fellowshiip (Canadian citizens and permanent residents + additional statuses), [nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp)
-  - NSF Postdoctoral Fellowships (US citizens and permanent residents only), certain opportunities can be held at University of Alberta [new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599](https://new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599)
-  - More information is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
+    - Banting Fellowship (open to all citizenships), [banting.fellowships-bourses.gc.ca](https://banting.fellowships-bourses.gc.ca)
+    - NSERC Post Doctoral Fellowshiip (Canadian citizens and permanent residents + additional statuses), [nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp)
+    - NSF Postdoctoral Fellowships (US citizens and permanent residents only), certain opportunities can be held at University of Alberta [new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599](https://new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599)
+    - More information is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
 
 <!-- ### Updates
 
