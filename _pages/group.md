@@ -5,10 +5,6 @@ permalink: /group/
 author_profile: true
 ---
 
-
-
-<!--### Research Group Vision
-
 The Azari Research Group (ARG) aims to embrace and support a community of researchers to enable the following standards. 
 
 #### Seek Truth
@@ -27,11 +23,9 @@ The Azari Research Group (ARG) aims to embrace and support a community of resear
 - We seek to increase our awareness of historic, and present day, exclusion of communities and their contributions from knowledge sharing.
 - We strive to ameliorate the impact of historic exclusion of communities, and their knowledge contributions, from our work.
 
-
 #### Value Humanity and the Natural World
 - We appreciate the intangible benefits of human to human, and human to natural world(s) interaction when pursuing automated methods and artificial intelligence.
 - We recognize the importance of planned rest when seeking and advancing knowledge. 
 - We iterate on these goals regularly and support each other in enabling this vision as an evolving community of knowledge seekers.
 
-
-This statement was last updated in 2025 by A. R. Azari with external feedback from S. Soler and C. Culha. -->
+This statement was last updated in 2025 by A. R. Azari with external feedback from S. Soler and C. Culha.
