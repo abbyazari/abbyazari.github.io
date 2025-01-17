@@ -60,4 +60,4 @@ The Azari Research Group (ARG) aims to embrace and support a community of resear
 - We recognize the importance of planned rest when seeking and advancing knowledge. 
 - We iterate on these goals regularly and support each other in enabling this vision as an evolving community of knowledge seekers.
 
-This vision was last updated in 2025 by A. R. Azari with external feedback from S. Soler and C. Culha.
+This vision was last updated in 2025 by A. R. Azari with external feedback from S. Soler, C. Culha, and C. B. G. James.
