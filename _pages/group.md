@@ -43,7 +43,7 @@ The Azari Research Group (ARG) aims to embrace and support a community of resear
 - We create and share work that accurately represents our knowledge and our process.
 - We create and share work that consists of our best efforts.
 - We recognize the contributions of others in the pursuit of knowledge. 
-- We work to increase our, and humanities', understanding of the natural environment including space.
+- We work to increase our, and humanity's, understanding of the natural environment including space.
 
 ### Embrace Curiosity
 - We bring intellectual curiosity to our interactions.
