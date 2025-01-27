@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-See below for information on [joining](#open-opportunities) the research group and for our research group [vision](#research-group-vision).
+See below for information on [joining](#open-opportunities) the research group, our group's [culture and expectations](#research-group-culture-and-expectations), and information on why we work at the [University of Alberta](#university-of-alberta).
 
 ## Open Opportunities
 
@@ -35,7 +35,7 @@ The research group is interdiscplinary and I support students who wish to join t
     - NSF Postdoctoral Fellowships (US citizens and permanent residents only), certain opportunities can be held at University of Alberta [new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599](https://new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599)
     - More information is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
 
-## Research Group Vision
+## Research Group Culture and Expectations
 
 The Azari Research Group (ARG) aims to embrace and support a community of researchers to enable the following standards. 
 
@@ -61,3 +61,17 @@ The Azari Research Group (ARG) aims to embrace and support a community of resear
 - We iterate on these goals regularly and support each other in enabling this vision as an evolving community of knowledge seekers.
 
 This vision was last updated in 2025 by A. R. Azari with external feedback from S. Soler, C. Culha, and C. B. G. James.
+
+## University of Alberta
+
+### Space Science at the U of A
+
+The U of A is routinely [ranked](https://www.ualberta.ca/en/about/university-rankings/index.html) within the top five Canadian research-intensive universities. It has one of the largest space physics programs in Canada with research in planetary magnetospheres, space weather, magnetohydrodynamics, and fundamental plasma physics. It is the lead institution of the CARISMA ground magnetometer network, one of the foremost ground-based magnetometer arrays for space science in the world, and of the RADICALS space mission. 
+
+The U of A's Institute for Space Science, Exploration and Technology helps connect researchers across the University including student groups like AlbertaSat and research facilities like the University of Alberta's Meteorite Curation Lab.
+
+### Artificial Intelligence
+
+Edmonton is also home to the Alberta Machine Intelligence Institute (Amii). Amii is one of three AI-research institutes named in the federal Pan-Canadian AI Strategy and consists of more than 35 artificial intelligence and machine learning researchers at the U of A. 
+
+These create a vibrant ecosystem for pursuing data-intensive space physics and planetary work at the U of A.
