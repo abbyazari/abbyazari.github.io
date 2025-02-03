@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a planetary scientist and space physicist pursuing probabilistic machine learning and inverse problems for scientific insight. I lead a research group in the Faculties of Science and Engineering at the University of Alberta and the [Alberta Machine Intelligence Institute](https://www.amii.ca/). I am generally interested in advancing uncertainty quantification and interpretable machine learning for large-scale data, or automated methods, in the Earth and space sciences.
+I am a planetary scientist and space physicist pursuing probabilistic machine learning and inverse problems for scientific insight. I lead a research group at the University of Alberta, in the Physics and Electrical and Computer Engineering Departments, and the [Alberta Machine Intelligence Institute](https://www.amii.ca/). I am generally interested in advancing uncertainty quantification and interpretable machine learning for large-scale data, or automated methods, in the Earth and space sciences.
 
 The majority of my research focuses on understanding current planetary space environments, and their previous conditions, by utilizing machine learning on large datasets from planetary missions (e.g. Mars, Saturn, Mercury, the solar wind). I am a member of the Science Team of NASA’s [MAVEN](https://science.nasa.gov/mission/maven/) mission where I lead machine learning efforts for understanding Mars' space environment. 
 
