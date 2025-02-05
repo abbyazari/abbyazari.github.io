@@ -23,7 +23,7 @@ The research group is interdiscplinary and I support students who wish to join t
 
   **I am recruiting for Master's and PhD students for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open). Potential projects include: predicting space weather at Mars, probability distributions of the solar wind, and planetary aurorae.**
 
-  If you are interested in joining the group please email me with: 1) a brief description of your research interests and how you see them fitting into the research group, 2) a brief description of your background (e.g. a CV or Resumé), and 3) what program(s) you are interested in. 
+  If you are interested in joining the group please email me with: 1) a brief description of your research interests and how you see them fitting into the research group, 2) a brief description of your background (e.g. a CV or Resumé, unofficial transcript), and 3) what program(s) you are interested in. 
 
 - Post Doctoral and Visitor Funding Opportunities
 
