@@ -74,6 +74,6 @@ The U of A's Institute for Space Science, Exploration and Technology helps conne
 
 ### Artificial Intelligence @ UA
 
-Edmonton is also home to the Alberta Machine Intelligence Institute (Amii). Amii is one of three AI-research institutes named in the federal Pan-Canadian AI Strategy and consists of more than 35 artificial intelligence and machine learning researchers at the U of A. 
+Edmonton is also home to the Alberta Machine Intelligence Institute (Amii). Amii is one of three AI-research institutes named in the federal Pan-Canadian AI Strategy and consists of more than 35 artificial intelligence and machine learning researchers at the U of A. Their primary goal is AI for good and for all. 
 
 
