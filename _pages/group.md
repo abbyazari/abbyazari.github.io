@@ -36,12 +36,9 @@ The research group is interdiscplinary and I support students who wish to join t
     - More information for post docs is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
     - More information for visiting scholars is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/research/research-support/academic-visitor-office/index.html)
  
-<!--- Students and Scholars at Risk of Displacement
+- Displaced Students and Scholars
 
-  The following are specific programs that either the University or Canadian Universities generally participate in.
-  
--   Palestinian Students & Scholars at Risk [pssar.ca](https://pssar.ca/)
--   David Turpin and Suromitra Sanatani Award for Refugees and Displaced Persons -->
+  The University participates and sponsors students and scholars whose professional journeys have been disrupted by conflict. Please see this [update from the Provost](https://www.ualberta.ca/en/the-quad/2025/01/from-the-provosts-desk-an-update-on-supporting-displaced-scholars-and-students.html) for more information on programs. 
 
 ## Research Group Culture and Expectations
 
