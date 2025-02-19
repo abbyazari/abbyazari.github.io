@@ -33,7 +33,8 @@ The research group is interdiscplinary and I support students who wish to join t
     - Banting Fellowship (open to all citizenships), [banting.fellowships-bourses.gc.ca](https://banting.fellowships-bourses.gc.ca)
     - NSERC Post Doctoral Fellowshiip (Canadian citizens and permanent residents + additional statuses), [nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp)
     - NSF Postdoctoral Fellowships (US citizens and permanent residents only), certain opportunities can be held at University of Alberta [new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599](https://new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599)
-    - More information is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
+    - More information for post docs is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
+    - More infoormation for visiting scholars is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/research/research-support/academic-visitor-office/index.html)
 
 ## Research Group Culture and Expectations
 
