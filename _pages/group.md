@@ -34,7 +34,14 @@ The research group is interdiscplinary and I support students who wish to join t
     - NSERC Post Doctoral Fellowshiip (Canadian citizens and permanent residents + additional statuses), [nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp)
     - NSF Postdoctoral Fellowships (US citizens and permanent residents only), certain opportunities can be held at University of Alberta [new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599](https://new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599)
     - More information for post docs is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
-    - More infoormation for visiting scholars is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/research/research-support/academic-visitor-office/index.html)
+    - More information for visiting scholars is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/research/research-support/academic-visitor-office/index.html)
+ 
+<!--- Students and Scholars at Risk of Displacement
+
+  The following are specific programs that either the University or Canadian Universities generally participate in.
+  
+-   Palestinian Students & Scholars at Risk [pssar.ca](https://pssar.ca/)
+-   David Turpin and Suromitra Sanatani Award for Refugees and Displaced Persons -->
 
 ## Research Group Culture and Expectations
 
