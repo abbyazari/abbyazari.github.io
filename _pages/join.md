@@ -23,7 +23,7 @@ The Azari Research Group (ARG) regularly has openings for interested students. P
 
 - Graduate Students
 
-  **I am recruiting for Master's student for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open).**
+  **I am recruiting for a Master's student for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open).**
 
   Multiple projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning estimation, and planetary aurorae studies.
 
