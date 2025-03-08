@@ -1,21 +1,21 @@
 ---
 layout: archive
-title: "Research Group"
+title: ""
 permalink: /group/
 author_profile: true
 ---
 
-## Current Members
+# Current Members
 
-### Graduate Students
+## Graduate Students
 
 [Esraa Elelimy](https://esraaelelimy.github.io/) (MSc Computing Science)(supervised by M. White)
 
-### Researchers
+## Researchers
 
 [Dawn McKnight](https://demcknight.com/) (Research Software Developer and Scientist)
 
-## Culture and Expectations
+# Culture and Expectations
 
 ARG aims to embrace and support a community of researchers to enable the following standards. 
 
