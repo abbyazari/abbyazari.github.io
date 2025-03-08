@@ -15,6 +15,10 @@ author_profile: true
 
 [Dawn McKnight](https://demcknight.com/) (Research Software Developer and Scientist)
 
+<!---## Previous Group Members
+
+(MSc Computing Science)(supervised by M. White)(UMichigan)-->
+
 See below for our group's [culture and expectations](#research-group-culture-and-expectations).
 
 ## Research Group Culture and Expectations
