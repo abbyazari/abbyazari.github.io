@@ -17,13 +17,9 @@ See below for the Azari Research Group's (ARG) [members](#current-members) and [
 
 [Dawn McKnight](https://demcknight.com/) (Research Software Developer and Scientist)
 
-<!---## Past Members
-
-(MSc Computing Science)(supervised by M. White)(UMichigan)-->
-
 ## Culture and Expectations
 
-The Azari Research Group (ARG) aims to embrace and support a community of researchers to enable the following standards. 
+ARG aims to embrace and support a community of researchers to enable the following standards. 
 
 ### Seek Truth
 - We create and share work that accurately represents our knowledge and our process.
