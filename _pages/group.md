@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-See below for the Azari Research Group's (ARG) [members](#current-members) and [culture and expectations](#culture-and-expectations).
+[members](#current-members) and [culture and expectations](#culture-and-expectations).
 
 ## Current Members
 
