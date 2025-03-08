@@ -16,8 +16,8 @@ main:
   - title: "Teaching"
     url: /teaching/  
   
-  - title: "Visualizations"
-    url: /visualizations/ 
+  #- title: "Visualizations"
+  # url: /visualizations/ 
 
   - title: "Join"
     url: /join/
