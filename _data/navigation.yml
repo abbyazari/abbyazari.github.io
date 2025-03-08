@@ -17,7 +17,10 @@ main:
     url: /teaching/  
   
   - title: "Visualizations"
-    url: /visualizations/  
+    url: /visualizations/ 
+
+  - title: "Join"
+    url: /join/
     
  # - title: "Community"
  #   url: /community/
