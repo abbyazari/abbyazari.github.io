@@ -32,7 +32,7 @@ The Azari Research Group (ARG) regularly has openings for interested students. P
   - your CV or résumé
   - a copy of your unofficial transcripts
   
-Applications are reviewed until the position is filled. 
+  Applications are reviewed until the position is filled. 
 
 - Post Doctoral and Visitor Funding Opportunities
 
