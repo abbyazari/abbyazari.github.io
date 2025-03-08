@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor jointly appointed in the departments of Physics and Electrical and Computer Engineering at the University of Alberta. I am also a research Fellow at the [Alberta Machine Intelligence Institute](https://www.amii.ca/). 
+I am an Assistant Professor jointly appointed in the departments of Physics and Electrical and Computer Engineering at the University of Alberta and a research Fellow at the [Alberta Machine Intelligence Institute](https://www.amii.ca/). 
 
- The majority of my research focuses on understanding current planetary space environments, and their previous conditions, by utilizing machine learning on large datasets from planetary missions (e.g. Mars, Saturn, Mercury, the solar wind). I am a member of the Science Team of NASA’s [MAVEN](https://science.nasa.gov/mission/maven/) mission where I lead machine learning efforts for understanding Mars' space environment. I am generally interested in advancing uncertainty quantification and interpretable machine learning for large-scale data, or automated methods, in the Earth and space sciences. This naturally includes pursuing probabilistic machine learning and inverse problems for scientific insight.
+The majority of my work focuses on understanding current planetary space environments, and their previous conditions, by utilizing machine learning on large datasets from planetary missions (e.g. Mars, Saturn, Mercury, the solar wind). I am a member of the Science Team of NASA’s [MAVEN](https://science.nasa.gov/mission/maven/) mission where I lead machine learning efforts for understanding Mars' space environment. 
+
+I am generally interested in advancing uncertainty quantification and interpretable machine learning for large-scale data, or automated methods, in the Earth and space sciences. This naturally includes pursuing probabilistic machine learning and inverse problems for scientific insight.
 
 Before joining the University of Alberta, I was at the University of British Columbia's Data Science Institute and the Earth, Ocean and Atmospheric Sciences department as a [Data Science Fellow](https://dsi.ubc.ca/projects/2023/gaussian-processes-advancing-understanding-planetary-magnetism-spacecraft). I have previously worked at the University of California Berkeley's Space Sciences Laboratory, IDA's Science and Technology Institute, NASA's Jet Propulsion Laboratory, the General Atomics DIII-D National Fusion Facility via the Princeton Plasma Physics Laboratory, and the Colorado School of Mines. 
 
