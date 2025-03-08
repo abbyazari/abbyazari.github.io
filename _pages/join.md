@@ -25,7 +25,7 @@ The Azari Research Group (ARG) regularly has openings for interested students. P
 
   **I am recruiting for Master's student for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open).** 
 
-Please see this document for more information (link will open March 10). 
+ Please see this document for more information (link will open March 10). 
 
 - Post Doctoral and Visitor Funding Opportunities
 
