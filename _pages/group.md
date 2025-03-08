@@ -11,11 +11,11 @@ See below for information on [joining](#open-opportunities) the research group, 
 
 ### Graduate Students
 
-[Esraa Elelimy](https://esraaelelimy.github.io/)(MSc Computing Science)(supervised by M. White)
+[Esraa Elelimy](https://esraaelelimy.github.io/) (MSc Computing Science)(supervised by M. White)
 
 ### Researchers
 
-[Dawn McKnight](https://demcknight.com/)(Research Software Developer and Scientist)
+[Dawn McKnight](https://demcknight.com/) (Research Software Developer and Scientist)
 
 ## Open Opportunities
 
