@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-# Members
+# Members of the Azari Research Group (ARG)
 
 ## Graduate Students
 
