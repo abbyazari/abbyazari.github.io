@@ -19,13 +19,15 @@ The Azari Research Group (ARG) regularly has openings for interested students. P
 
   **I am recruiting an U of A undergraduate student for a summer research opportunity.**
 
-  Please see this document for more information (link will open March 10). 
+  Please see [here](https://docs.google.com/document/d/1EseFZvCz8so8lhnpBwoIOo2hUSiEpkoMgfzbbPfqOPI) for more information and how to apply (U of A login required).
 
 - Graduate Students
 
   **I am recruiting for Master's student for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open).**
 
-  Please see this document for more information (link will open March 10). 
+  Multiple projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning estimation, and planetary aurorae studies.
+
+  Interested candidates should email aazari+msc <at> ualberta <dot> ca with the subject line YourLastName_MSc_App (e.g. Devi_MSc_App, Smith_MSc_App etc) and 1) a short (<1 page) description of why you are interested in the positon and your qualifications, 2) your CV or résumé, and 3) a copy of your unoffical transcripts. Applications are reviewed until the position is filled. 
 
 - Post Doctoral and Visitor Funding Opportunities
 
