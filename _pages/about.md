@@ -23,7 +23,7 @@ My PhD was from the University of Michigan College of Engineering's Climate and 
 - Mar. 2025: The research group is recruiting for an undergraduate student. See the [Join](https://abbyazari.github.io/join/) page.
 - Mar. 2025: Dawn McKnight has joined ARG as a researcher!
 - Jan. 2025: The research group is recruiting for MS and PhD students. See the [Join](https://abbyazari.github.io/join/) page.
-- Jan. 2025: A. R. Azari joins the University of Alberta and the Alberta Machine Intelligence Institute.
+- Jan. 2025: Dr. Azari joins the University of Alberta and the Alberta Machine Intelligence Institute.
 
 
 
