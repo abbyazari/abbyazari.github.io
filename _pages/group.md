@@ -5,7 +5,9 @@ permalink: /group/
 author_profile: true
 ---
 
-## Current Group Members
+See below for the Azari Research Group's (ARG) [members](#current-members) and [culture and expectations](#culture-and-expectations).
+
+## Current Members
 
 ### Graduate Students
 
@@ -15,13 +17,11 @@ author_profile: true
 
 [Dawn McKnight](https://demcknight.com/) (Research Software Developer and Scientist)
 
-<!---## Previous Group Members
+<!---## Past Members
 
 (MSc Computing Science)(supervised by M. White)(UMichigan)-->
 
-See below for our group's [culture and expectations](#research-group-culture-and-expectations).
-
-## Research Group Culture and Expectations
+## Culture and Expectations
 
 The Azari Research Group (ARG) aims to embrace and support a community of researchers to enable the following standards. 
 
