@@ -22,7 +22,7 @@ author_profile: true
 
 # Culture and Expectations
 
-ARG aims to embrace and support a community of researchers to enable the following standards. 
+The Azari Research Group (ARG) aims to embrace and support a community of researchers to enable the following standards. 
 
 ### Seek Truth
 - We create and share work that accurately represents our knowledge and our process.
