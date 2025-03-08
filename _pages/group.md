@@ -15,6 +15,8 @@ author_profile: true
 
 [Dawn McKnight](https://demcknight.com/) (Research Software Developer and Scientist)
 
+
+
 # Culture and Expectations
 
 ARG aims to embrace and support a community of researchers to enable the following standards. 
