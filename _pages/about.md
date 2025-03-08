@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor jointly appointed in the departments of Physics and Electrical and Computer Engineering at the University of Alberta and a research Fellow at the [Alberta Machine Intelligence Institute](https://www.amii.ca/). 
+I am an Assistant Professor jointly appointed in the departments of Physics and Electrical and Computer Engineering at the University of Alberta and a research Fellow at the [Alberta Machine Intelligence Institute](https://www.amii.ca/).
 
 The majority of my work focuses on understanding current planetary space environments, and their previous conditions, by utilizing machine learning on large datasets from planetary missions (e.g. Mars, Saturn, Mercury, the solar wind). I am a member of the Science Team of NASA’s [MAVEN](https://science.nasa.gov/mission/maven/) mission where I lead machine learning efforts for understanding Mars' space environment. 
 
