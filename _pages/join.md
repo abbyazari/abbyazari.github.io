@@ -19,7 +19,7 @@ The Azari Research Group (ARG) regularly has openings for interested students. P
 
   **I am recruiting an U of A undergraduate student for a summer research opportunity.**
 
-  Please fill out this form (will open on March 10, internal to U of A) by March 21 to be considered. Do not email me.
+  Please see this document for more information (link will open March 10). 
 
 - Graduate Students
 
