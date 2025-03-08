@@ -7,6 +7,16 @@ author_profile: true
 
 See below for information on [joining](#open-opportunities) the research group, our group's [culture and expectations](#research-group-culture-and-expectations), and information on why we work at the [University of Alberta](#university-of-alberta).
 
+## Current Group Members
+
+### Graduate Students
+
+[Esraa Elelimy](https://esraaelelimy.github.io/)(MSc Computing Science)(supervised by M. White)
+
+### Researchers
+
+[Dawn McKnight](https://demcknight.com/)(Research Software Developer and Scientist)
+
 ## Open Opportunities
 
 Below is the current status of open positions but I am always interested in supporting motivated students and postdocs who are able to pursue independent funding.  
