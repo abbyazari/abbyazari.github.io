@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Join"
+title: ""
 permalink: /join/
 author_profile: true
 ---
@@ -19,11 +19,11 @@ The Azari Research Group (ARG) regularly has openings for interested students. P
 
   **I am recruiting an U of A undergraduate student for a summer research opportunity.**
 
-Please fill out this form (opening on March 10) internal to U of A) by March 21 to be considered. Do not email me.
+  Please fill out this form (opening on March 10) internal to U of A) by March 21 to be considered. Do not email me.
 
 - Graduate Students
 
-  **I am recruiting for Master's and PhD students for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open). 
+  **I am recruiting for Master's and PhD students for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open).** 
 
   If you are interested in joining the group please email me with: 1) a description of your research interests and how you see them fitting into the research group, 2) information about your background including a CV or resumé, and an unofficial transcript. 
 
