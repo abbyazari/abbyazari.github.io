@@ -5,8 +5,6 @@ permalink: /group/
 author_profile: true
 ---
 
-[members](#current-members) and [culture and expectations](#culture-and-expectations).
-
 ## Current Members
 
 ### Graduate Students
