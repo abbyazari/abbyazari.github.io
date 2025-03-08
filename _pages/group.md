@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-# Current Members
+# Members
 
 ## Graduate Students
 
@@ -15,7 +15,8 @@ author_profile: true
 
 [Dawn McKnight](https://demcknight.com/) (Research Software Developer and Scientist)
 
-
+</br>
+</br>
 
 # Culture and Expectations
 
