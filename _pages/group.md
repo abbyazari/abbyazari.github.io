@@ -9,7 +9,7 @@ author_profile: true
 
 ## Graduate Students
 
-[Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative)(MSc Computing Science)(supervised by M. White)
+[Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative Project)(MSc Computing Science)(supervised by M. White)
 
 ## Researchers
 
