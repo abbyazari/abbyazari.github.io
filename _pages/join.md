@@ -27,7 +27,7 @@ The Azari Research Group (ARG) regularly has openings for interested students. P
 
   Multiple projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning estimation, and planetary aurorae studies.
 
-  Interested candidates should email aazari+msc <at> ualberta <dot> ca with the subject line YourLastName_MSc_App (e.g. Devi_MSc_App, Smith_MSc_App etc) and:
+  Interested candidates should email aazari+msc @ ualberta . ca with the subject line YourLastName_MSc_App (e.g. Devi_MSc_App, Smith_MSc_App etc) and:
   - a short (<1 page) description of why you are interested in the positon and your qualifications
   - your CV or résumé
   - a copy of your unofficial transcripts
