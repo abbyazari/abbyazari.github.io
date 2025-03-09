@@ -9,11 +9,11 @@ author_profile: true
 
 ## Graduate Students
 
-[Esraa Elelimy](https://esraaelelimy.github.io/) (MSc Computing Science)(supervised by M. White)
+[Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative)(MSc Computing Science)(supervised by M. White)
 
 ## Researchers
 
-[Dawn McKnight](https://demcknight.com/) (Research Software Developer and Scientist)
+[Dawn McKnight](https://demcknight.com/) (Scientific Research Software Developer)
 
 
 
