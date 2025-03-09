@@ -9,6 +9,12 @@ author_profile: true
 
 ## Graduate Students
 
+### Primary
+
+ARG is actively recruiting! See details on applyying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
+
+### Collaborative
+
 [Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative Project)(MSc Computing Science)(Supervised by M. White)
 
 ## Researchers
