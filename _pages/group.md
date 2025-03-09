@@ -11,7 +11,7 @@ author_profile: true
 
 ### Primary
 
-ARG is actively recruiting! See details on applyying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
+ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
 
 ### Collaborative
 
