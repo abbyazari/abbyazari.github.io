@@ -21,15 +21,13 @@ I only work with students through payroll, course credit, or other official oppo
 
 ### Undergraduate Students
 
-#### Summer 2025
+  **Summer 2025**
   
   I am recruiting an U of A undergraduate student for a paid summer research opportunity. Please see [here](https://docs.google.com/document/d/1EseFZvCz8so8lhnpBwoIOo2hUSiEpkoMgfzbbPfqOPI) for more information and how to apply (U of A login required). Due March 24th.
   
-#### Academic Year 2025 to 2026
+  **Academic Year 25-26**
 
-  I host an academic year long for credit research position for U of A physics undergraduate (incl. engphys, geophys) students through PHYS 399/499. 
-  
-  Interested candidates should email aazari+phys99 @ ualberta . ca with the subject line YourLastName_Phys99_App (e.g. Tremblay_Phys99_App, Ng_Phys99_App etc) and:
+  I host an academic year long for credit research position for U of A physics undergraduate (incl. engphys, geophys) students through PHYS 399/499. Interested candidates should email aazari+phys99 @ ualberta . ca with the subject line YourLastName_Phys99_App (e.g. Tremblay_Phys99_App, Ng_Phys99_App etc) and:
   - a short (<1 page) description of what you are interested in researching related to ARG and your qualifications
   - your CV or résumé
   - a copy of your unofficial transcripts
@@ -40,9 +38,7 @@ Review of applications will begin on August 1st; a response is not guaranteed.
 
   **I am recruiting for a Master's student for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open).**
 
-  Multiple projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning estimation, and planetary aurorae studies.
-
-  Interested candidates should email aazari+msc @ ualberta . ca with the subject line YourLastName_MSc_App (e.g. Devi_MSc_App, Smith_MSc_App etc) and:
+  Multiple projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning estimation, and planetary aurorae studies. Interested candidates should email aazari+msc @ ualberta . ca with the subject line YourLastName_MSc_App (e.g. Devi_MSc_App, Smith_MSc_App etc) and:
   - a short (<1 page) description of why you are interested in the positon and your qualifications
   - your CV or résumé
   - a copy of your unofficial transcripts
