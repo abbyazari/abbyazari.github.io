@@ -7,11 +7,13 @@ author_profile: true
 
 # Members of the Azari Research Group (ARG)
 
-### Supervised Graduate Students
+## Graduate Students
+
+### Supervised
 
 ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
 
-### Collaborative Graduate Students
+### Collaborative
 
 [Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative Project)(MSc Computing Science at U of A)(Supervised by M. White)
 
