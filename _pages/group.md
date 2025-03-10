@@ -7,7 +7,7 @@ author_profile: true
 
 # Members of Azari Research Group (ARG)
 
-## Graduate Students
+## Students
 
 ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
 
@@ -19,9 +19,9 @@ ARG is actively recruiting! See details on applying at [abbyazari.github.io/join
 
 # Collaborative Members
 
-As an interdiscplinary research group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are collaborative members who participate in ARG via associated projects.
+As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are collaborative members who participate in ARG via associated projects.
 
-[Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative Project)(PhD Computing Science at U of A)(Supervised by M. White)
+[Esraa Elelimy](https://esraaelelimy.github.io/) (PhD Computing Science at U of A)(Supervised by M. White)
 
 &nbsp;
 &nbsp;
