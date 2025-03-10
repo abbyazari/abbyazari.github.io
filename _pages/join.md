@@ -13,15 +13,32 @@ The U of A has one of the largest space physics programs in Canada with research
 
 ## Open Opportunities
 
-The Azari Research Group (ARG) regularly has openings for interested students. Please see below for the current status. Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
+The Azari Research Group (ARG) regularly has openings for interested students. Please see below for the current status (updated on March 10, 2025). 
 
-- Undergraduate Students
+Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
-  **I am recruiting an U of A undergraduate student for a summer research opportunity.**
+I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid or credited opportunities. Undergraduate opportunities are often prioritized for students who have completed 300 level coursework.   
 
-  Please see [here](https://docs.google.com/document/d/1EseFZvCz8so8lhnpBwoIOo2hUSiEpkoMgfzbbPfqOPI) for more information and how to apply (U of A login required).
+### Undergraduate Students
 
-- Graduate Students
+  #### Summer 2025
+  
+  **I am recruiting an U of A undergraduate student for a paid summer research opportunity.**
+
+  Please see [here](https://docs.google.com/document/d/1EseFZvCz8so8lhnpBwoIOo2hUSiEpkoMgfzbbPfqOPI) for more information and how to apply (U of A login required). Due March 24th.
+  
+  #### Academic Year 2025 to 2026
+
+  I host an academic year long research position for U of A physics undergraduate (incl. engphys, geophys) students through PHYS 399/499. 
+  
+  Interested candidates should email aazari+phys99 @ ualberta . ca with the subject line YourLastName_Phys99_App (e.g. Tremblay_Phys99_App, Ng_Phys99_App etc) and:
+  - a short (<1 page) description of what you are interested in researching related to ARG and your qualifications
+  - your CV or résumé
+  - a copy of your unofficial transcripts
+
+Review of applications will begin on August 1st; a response is not guaranteed.
+
+### Graduate Students
 
   **I am recruiting for a Master's student for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open).**
 
@@ -32,9 +49,9 @@ The Azari Research Group (ARG) regularly has openings for interested students. P
   - your CV or résumé
   - a copy of your unofficial transcripts
   
-  Applications are reviewed until the position is filled. 
+  Applications are reviewed until the position is filled; a response is not guaranteed. 
 
-- Post Doctoral and Visitor Funding Opportunities
+### Post Doctoral and Visitor Funding Opportunities
 
   The following are several (always availiable) avenues to work with the research group. ARG is happy to sponsor visiting scholars and I encourage potential post docs and visitors to review these before contacting me.
 
@@ -44,7 +61,7 @@ The Azari Research Group (ARG) regularly has openings for interested students. P
     - More information for post docs is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
     - More information for visiting scholars is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/research/research-support/academic-visitor-office/index.html)
  
-- Displaced Students and Scholars
+### Displaced Students and Scholars
 
   The University participates and sponsors students and scholars whose professional journeys have been disrupted by conflict. Please see this [update from the Provost](https://www.ualberta.ca/en/the-quad/2025/01/from-the-provosts-desk-an-update-on-supporting-displaced-scholars-and-students.html) for more information on programs. 
 
