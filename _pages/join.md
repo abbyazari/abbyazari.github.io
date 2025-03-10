@@ -29,7 +29,7 @@ I only work with students through payroll, course credit, or other official oppo
   
   #### Academic Year 2025 to 2026
 
-  I host an academic year long research position for U of A physics undergraduate (incl. engphys, geophys) students through PHYS 399/499. 
+  I host an academic year long for credit research position for U of A physics undergraduate (incl. engphys, geophys) students through PHYS 399/499. 
   
   Interested candidates should email aazari+phys99 @ ualberta . ca with the subject line YourLastName_Phys99_App (e.g. Tremblay_Phys99_App, Ng_Phys99_App etc) and:
   - a short (<1 page) description of what you are interested in researching related to ARG and your qualifications
