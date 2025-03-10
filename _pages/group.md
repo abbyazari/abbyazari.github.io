@@ -7,24 +7,20 @@ author_profile: true
 
 # Members of the Azari Research Group (ARG)
 
-## Graduate Students
-
-### Primary
+## Supervised Graduate Students
 
 ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
 
-### Collaborative
+### Collaborative Graduate Students
 
-[Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative Project)(MSc Computing Science)(Supervised by M. White)
+[Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative Project)(MSc Computing Science at U of A)(Supervised by M. White)
 
 ## Researchers
 
 [Dawn McKnight](https://demcknight.com/) (Scientific Research Software Developer)
 
-
-
-
-
+&nbsp;
+&nbsp;
 
 # Culture and Expectations
 
