@@ -15,7 +15,7 @@ ARG is actively recruiting! See details on applying at [abbyazari.github.io/join
 
 ### Collaborative
 
-[Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative Project)(MSc Computing Science at U of A)(Supervised by M. White)
+[Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative Project)(PhD Computing Science at U of A)(Supervised by M. White)
 
 &nbsp;
 
