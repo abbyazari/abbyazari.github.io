@@ -7,9 +7,11 @@ author_profile: true
 
 # Members of Azari Research Group (ARG)
 
+ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
+
 ## Students
 
-ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
+Nathan Teo (MSc Geophysics, incoming Fall 2025)
 
 ## Researchers
 
