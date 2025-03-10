@@ -5,23 +5,23 @@ permalink: /group/
 author_profile: true
 ---
 
-# Members of the Azari Research Group (ARG)
+# Members of Azari Research Group (ARG)
 
 ## Graduate Students
 
-### Supervised
-
 ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
-
-### Collaborative
-
-[Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative Project)(PhD Computing Science at U of A)(Supervised by M. White)
-
-&nbsp;
 
 ## Researchers
 
 [Dawn McKnight](https://demcknight.com/) (Scientific Research Software Developer)
+
+&nbsp;
+
+# Collaborative Members
+
+As an interdiscplinary research group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are collaborative members who participate in ARG via associated projects.
+
+[Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative Project)(PhD Computing Science at U of A)(Supervised by M. White)
 
 &nbsp;
 &nbsp;
