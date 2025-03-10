@@ -17,7 +17,9 @@ ARG is actively recruiting! See details on applying at [abbyazari.github.io/join
 
 [Esraa Elelimy](https://esraaelelimy.github.io/) (Collaborative Project)(MSc Computing Science at U of A)(Supervised by M. White)
 
-### Researchers
+&nbsp;
+
+## Researchers
 
 [Dawn McKnight](https://demcknight.com/) (Scientific Research Software Developer)
 
