@@ -29,7 +29,6 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 ### Collaborative Publications
 
 1. Wen, Y., Halekas, J. S., Shen, H-W., **Azari, A. R.** et al., (Accepted). "Sinuous Aurora at Mars: A Link to the Tail Current Sheet?" The Astrophysical Journal Letters.
-Wen, Y.,  (accepted). "Multi-Point Observations of Magnetic Reconnection in the Martian Magnetotail Triggered by an Interplanetary Magnetic Field Rotation" ApJ Letters
 
 1. Lillis, R...[21 including **Azari, A. R.**] (2024). "Sinuous Aurora at Mars: A Link to the Tail Current Sheet?" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JA032477">doi: 10.1029/2024JA032477</a>
     
