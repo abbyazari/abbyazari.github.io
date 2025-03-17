@@ -5,9 +5,9 @@ permalink: /group/
 author_profile: true
 ---
 
-# Members of Azari Research Group (ARG)
+The Azari Research Group (ARG) pursues machine learning and other automated methods for advancing our knowledge of planetary space environments.
 
-ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
+ **_ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join)._**
 
 ## Students
 
@@ -17,9 +17,7 @@ Nathan Teo (MSc Geophysics, incoming Fall 2025)
 
 [Dawn McKnight](https://demcknight.com/) (Scientific Research Software Developer)
 
-&nbsp;
-
-# Collaborative Members
+## Collaborative Members
 
 As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are collaborative members who participate in ARG via associated projects.
 
