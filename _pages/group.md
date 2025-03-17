@@ -8,7 +8,9 @@ author_profile: true
 The Azari Research Group (ARG) pursues machine learning and other automated methods for advancing our knowledge of planetary space environments.
 
 ---
- **_ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join)._**
+
+ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
+
 ---
 
 ## Students
@@ -27,7 +29,7 @@ As an interdiscplinary group ARG values and pursues collaborations with other re
 
 &nbsp;
 &nbsp;
----
+
 # Culture and Expectations
 
 ARG aims to embrace and support a community of researchers to enable the following standards. 
@@ -54,4 +56,4 @@ ARG aims to embrace and support a community of researchers to enable the followi
 - We iterate on these goals regularly and support each other in enabling this vision as an evolving community of knowledge seekers.
 
 This vision was last updated in 2025 by A. R. Azari with external feedback from S. Soler, C. Culha, and C. B. G. James.
----
+
