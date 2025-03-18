@@ -10,9 +10,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Culture"
-    url: /culture/
-
 #  - title: "Talks"
 #    url: /talks/      
 
@@ -24,6 +21,9 @@ main:
 
   - title: "Join"
     url: /join/
+
+  - title: "Culture"
+    url: /culture/
     
  # - title: "Community"
  #   url: /community/
