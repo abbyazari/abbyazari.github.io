@@ -5,9 +5,9 @@ permalink: /culture/
 author_profile: true
 ---
 
-# Group Culture and Expectations
+# Work Environment Culture and Expectations
 
-ARG aims to embrace and support a community of researchers to pursue the following goals. 
+The Azari Research Group (ARG) aims to embrace and support a community of researchers to pursue the following goals. 
 
 ### Seek Truth
 - We create and share work that accurately represents our knowledge and our process.
