@@ -5,7 +5,7 @@ permalink: /culture/
 author_profile: true
 ---
 
-# Work Environment Culture and Expectations
+# Research Group Community Guidelines
 
 The Azari Research Group (ARG) aims to embrace and support a community of researchers to pursue the following goals. 
 
