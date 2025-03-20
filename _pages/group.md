@@ -23,9 +23,9 @@ Nathan Teo (MSc Geophysics, incoming Fall 2025)
 
 [Dawn McKnight](https://demcknight.com/) (Scientific Research Software Developer)
 
-## Visiting Members
+## Visiting Scholars
 
-As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are visiting members who participate in ARG via collaborative projects.
+As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are visiting scholars who participate in ARG via a collaborative project.
 
 [Esraa Elelimy](https://esraaelelimy.github.io/) (PhD Computing Science at U of A)(Supervised by M. White)
 
