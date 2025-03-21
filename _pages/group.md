@@ -7,7 +7,7 @@ author_profile: true
 
 The Azari Research Group (ARG) aims to: 1) advance the state of machine learning and other automated computational methods for shared challenges in Earth and space sciences, and 2) apply said methods to advance our knowledge of planetary science and space physics (e.g. planetary space environments, the solar wind).
 
-ARG's vision regarding our group's work culture can be found at [abbyazari.github.io/culture](https://abbyazari.github.io/culture).
+ARG's vision regarding our group's community goals can be found at [abbyazari.github.io/goals](https://abbyazari.github.io/goals).
 
 ---
 
