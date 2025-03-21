@@ -5,7 +5,7 @@ permalink: /culture/
 author_profile: true
 ---
 
-# Research Group Community Guidelines
+# Research Group Community Goals
 
 The Azari Research Group (ARG) aims to embrace and support a community of researchers to pursue the following goals. 
 
