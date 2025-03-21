@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /culture/
+permalink: /goals/
 author_profile: true
 ---
 
