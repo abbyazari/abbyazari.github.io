@@ -30,7 +30,7 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 1. Wen, Y., Halekas, J. S., Shen, H-W., **Azari, A. R.** et al., (Accepted). "Sinuous Aurora at Mars: A Link to the Tail Current Sheet?" The Astrophysical Journal Letters.
 
-1. Da Poian, V., Theiling, B., Lyness, Burtt, D., **Azari, A. R.** et al., (2025). "Science autonomy using machine learning for astrobiology", White Paper for the 2025 NASA Decadal Astrobiology Research and Exploration Strategy (DARES).$^{\dagger}$
+1. Da Poian, V., Theiling, B., Lyness, E., Burtt, D., **Azari, A. R.** et al., (2025). "Science autonomy using machine learning for astrobiology". White Paper for the 2025 NASA Decadal Astrobiology Research and Exploration Strategy (DARES). $^{\dagger}$
 
 1. Lillis, R...[21 including **Azari, A. R.**] (2024). "Sinuous Aurora at Mars: A Link to the Tail Current Sheet?" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JA032477">doi: 10.1029/2024JA032477</a>
     
