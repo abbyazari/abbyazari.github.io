@@ -9,21 +9,21 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 ## Open Opportunities
 
-The Azari Research Group (ARG) regularly has openings for interested students. Please see below for the current status (updated March 10, 2025). 
+The Azari Research Group (ARG) regularly has openings for interested students. Please see below for the current status (updated March 24, 2025). 
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
-I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid or credited opportunities. Undergraduate opportunities are often prioritized for students who have completed 300 level coursework.   
+I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid or credited opportunities. Undergraduate opportunities are prioritized for students who have completed 300 level coursework.   
 
 ### Undergraduate Students
 
-  **Summer 2025**
+  <!--**Summer 2025**
   
-  I am recruiting an U of A undergraduate student for a paid summer research opportunity. Please see [here](https://docs.google.com/document/d/1EseFZvCz8so8lhnpBwoIOo2hUSiEpkoMgfzbbPfqOPI) for more information and how to apply (U of A login required). Due March 24th.
+  I am recruiting an U of A undergraduate student for a paid summer research opportunity. Please see [here](https://docs.google.com/document/d/1EseFZvCz8so8lhnpBwoIOo2hUSiEpkoMgfzbbPfqOPI) for more information and how to apply (U of A login required). Due March 24th.-->
   
   **Academic Year 25-26**
 
-  I host an academic year long for credit research position for U of A physics undergraduate (incl. engphys, geophys) students through PHYS 399/499. Interested candidates should email aazari+phys99 @ ualberta . ca with the subject line YourLastName_Phys99_App (e.g. Tremblay_Phys99_App, Ng_Phys99_App etc) and:
+  I host an academic year long for credit research position for U of A physics undergraduate (incl. engphys, geophys) students through PHYS 399/499 and through the Dean's Research Award program. Interested candidates should email aazari+ugrad @ ualberta . ca with the subject line YourLastName_UGrad_App (e.g. Tremblay_UGrad_App, Ng_UGrad_App etc) and:
   - a short (<1 page) description of what you are interested in researching related to ARG and your qualifications
   - your CV or résumé
   - a copy of your unofficial transcripts
