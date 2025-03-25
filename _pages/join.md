@@ -16,15 +16,17 @@ Ideal candidates will have experience in data science (e.g. machine learning, st
 I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid or credited opportunities. Undergraduate opportunities are prioritized for students who have completed 300 level coursework.   
 
 ### Undergraduate Students
+
+  **Summer 2025**
+
+  Applications closed, check back in for Summer 2026.
   
   **Academic Year 25-26**
 
-  I host an academic year long for credit research position for U of A physics undergraduate (incl. engphys, geophys) students through PHYS 399/499 and through the Dean's Research Award program for engineering students. Interested candidates should email aazari+ugrad @ ualberta . ca with the subject line YourLastName_UGrad_App (e.g. Tremblay_UGrad_App, Ng_UGrad_App etc) and:
+  I host an academic year long for credit research position for U of A physics undergraduate (incl. engphys, geophys) students through PHYS 399/499 and through the Dean's Research Award program for engineering students. Interested candidates should check their eligibility for these opportunites before emailing aazari+ugrad @ ualberta . ca with the subject line YourLastName_UGrad_App (e.g. Tremblay_UGrad_App, Ng_UGrad_App etc) and:
   - a short (<1 page) description of what you are interested in researching related to ARG and your qualifications
   - your CV or résumé
   - a copy of your unofficial transcripts
-
-Review of applications will begin on August 1st; a response is not guaranteed.
 
 ### Graduate Students
 
