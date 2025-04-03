@@ -30,14 +30,14 @@ I only work with students through payroll, course credit, or other official oppo
 
 ### Graduate Students
 
-  **I am recruiting for a Master's student for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open).**
-
-  Multiple projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning estimation, and planetary aurorae studies. Interested candidates should email aazari+msc @ ualberta . ca with the subject line YourLastName_MSc_App (e.g. Devi_MSc_App, Smith_MSc_App etc) and:
+  I am no longer recruiting for graduate students to enter in Fall 2025; please check back here for an update on Fall 2026 recruitment in mid summer. 
+<!-- for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open). Multiple projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning estimation, and planetary aurorae studies. Interested candidates should email aazari+msc @ ualberta . ca with the subject line YourLastName_MSc_App (e.g. Devi_MSc_App, Smith_MSc_App etc) and:
   - a short (<1 page) description of why you are interested in the positon and your qualifications
   - your CV or résumé
   - a copy of your unofficial transcripts
   
   Applications are reviewed until the position is filled; a response is not guaranteed. 
+  -->
 
 ### Post Doctoral and Visitor Funding Opportunities
 
