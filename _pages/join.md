@@ -28,6 +28,8 @@ I only work with students through payroll, course credit, or other official oppo
   - your CV or résumé
   - a copy of your unofficial transcripts
 
+ Applications are reviewed on a rolling basis before the semester start; a response is not guaranteed.
+
 ### Graduate Students
 
   I am no longer recruiting for graduate students to enter in Fall 2025; please check back here for an update on Fall 2026 recruitment in mid summer. 
