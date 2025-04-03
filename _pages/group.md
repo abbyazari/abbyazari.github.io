@@ -7,11 +7,13 @@ author_profile: true
 
 The Azari Research Group's vision regarding our community goals can be found at [abbyazari.github.io/goals](https://abbyazari.github.io/goals).
 
+<!-- 
 ---
 
-ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
+ ARG is actively recruiting! See details on applying at [abbyazari.github.io/join](https://abbyazari.github.io/join).
 
 ---
+-->
 
 ## Students
 
