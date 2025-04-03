@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Students I supervised in research are <ins>underlined</ins>. My scholarship includes policy efforts; policy related scholarship is marked with a dagger ($^{\dagger}$). Citation statistics are on <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ">Google Scholar</a>.
+Students I supervised in research are <ins>underlined</ins>. My scholarship includes policy efforts; policy related scholarship is marked with a dagger ($^{\dagger}$). These policy focused efforts are often internally reviewed as compared to the peer review process undertaken for other works. Citation statistics are on <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ">Google Scholar</a>.
 
 ### First Author Publications
 
@@ -30,7 +30,7 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 1. Wen, Y., Halekas, J. S., Shen, H-W., **Azari, A. R.** et al., (2025). "Sinuous Aurora at Mars: A Link to the Tail Current Sheet?" The Astrophysical Journal Letters. <a href="https://iopscience.iop.org/article/10.3847/2041-8213/adbf10">doi: 10.3847/2041-8213/adbf10</a>
 
-1. Da Poian, V., Theiling, B., Lyness, E., Burtt, D., **Azari, A. R.** et al., (2025). "Science autonomy using machine learning for astrobiology". White Paper for the 2025 NASA Decadal Astrobiology Research and Exploration Strategy (DARES). $^{\dagger}$
+1. Da Poian, V., Theiling, B., Lyness, E., Burtt, D., **Azari, A. R.** et al., (2025). "Science autonomy using machine learning for astrobiology". White Paper for the 2025 NASA Decadal Astrobiology Research and Exploration Strategy (DARES). href="{https://doi.org/10.48550/arXiv.2504.00709">doi: 10.48550/arXiv.2504.00709</a> $^{\dagger}$
 
 1. Lillis, R...[21 including **Azari, A. R.**] (2024). "Sinuous Aurora at Mars: A Link to the Tail Current Sheet?" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JA032477">doi: 10.1029/2024JA032477</a>
     
