@@ -9,7 +9,7 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 ## Open Opportunities
 
-The Azari Research Group (ARG) regularly has openings for interested students. Please see below for the current status (updated March 24, 2025). 
+The Azari Research Group (ARG) regularly has openings for interested students. Please see below for the current status (updated April 3, 2025). 
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
@@ -32,7 +32,8 @@ I only work with students through payroll, course credit, or other official oppo
 
 ### Graduate Students
 
-  I am no longer recruiting for graduate students to enter in Fall 2025; please check back here for an update on Fall 2026 recruitment in mid summer. 
+ Applications closed, check back in for Fall 2026 entry.
+  
 <!-- for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open). Multiple projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning estimation, and planetary aurorae studies. Interested candidates should email aazari+msc @ ualberta . ca with the subject line YourLastName_MSc_App (e.g. Devi_MSc_App, Smith_MSc_App etc) and:
   - a short (<1 page) description of why you are interested in the positon and your qualifications
   - your CV or résumé
