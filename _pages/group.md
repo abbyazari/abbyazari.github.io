@@ -25,9 +25,11 @@ Nathan Teo (MSc Geophysics, incoming Fall 2025)
 
 ## Visiting Scholars
 
-As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are visiting scholars who participate in ARG via a collaborative project.
+As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are visiting scholars who participate in ARG via a collaborative project or shared research interests.
 
 [Esraa Elelimy](https://esraaelelimy.github.io/) (PhD Computing Science at U of A)(Supervised by M. White)
 
 Jacob Adkins (PhD Computing Science at U of A)(Supervised by M. Bowling and A. White)
+
+Cassandra Litwinowich (BSc in Physics at U of A)(Supervised by I. Mann) 
 
