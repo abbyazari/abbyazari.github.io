@@ -9,7 +9,7 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 ## Open Opportunities
 
-The Azari Research Group (ARG) regularly has openings for interested students. Please see below for the current status (updated April 3, 2025). 
+The Azari Research Group (ARG) regularly has openings for interested students. Please see below for the current status (updated April 16, 2025). 
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
@@ -17,18 +17,18 @@ I only work with students through payroll, course credit, or other official oppo
 
 ### Undergraduate Students
 
-  **Summer 2025**
+  **Summer**
 
   Applications closed, check back in for Summer 2026.
   
-  **Academic Year 25-26**
+  **Academic Year**
 
-  I host an academic year long for credit research position for U of A physics undergraduate (incl. engphys, geophys) students through PHYS 399/499 and through the Dean's Research Award program for engineering students. Interested candidates should check their eligibility for these opportunites before emailing aazari+ugrad @ ualberta . ca with the subject line YourLastName_UGrad_App (e.g. Tremblay_UGrad_App, Ng_UGrad_App etc) and:
+  I host an academic year long for credit research position for U of A physics undergraduates (incl. engphys, geophys) students through PHYS 399/499 and for engineering undergraduates through the Dean's Research Award. Interested candidates should check their eligibility for these opportunites before emailing aazari+ugrad @ ualberta . ca with the subject line YourLastName_UGrad_App (e.g. Tremblay_UGrad_App, Ng_UGrad_App etc) and:
   - a short (<1 page) description of what you are interested in researching related to ARG and your qualifications
   - your CV or résumé
   - a copy of your unofficial transcripts
 
- Applications are reviewed on a rolling basis before the semester start; a response is not guaranteed.
+ Applications are reviewed on a rolling basis; a response is not guaranteed.
 
 ### Graduate Students
 
