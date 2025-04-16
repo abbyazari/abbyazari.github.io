@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor jointly appointed in the departments of Physics and Electrical and Computer Engineering at the University of Alberta and a CIFAR AI Chair and research Fellow at the [Alberta Machine Intelligence Institute](https://www.amii.ca/). 
+I am an Assistant Professor jointly appointed in the departments of Physics and Electrical and Computer Engineering at the University of Alberta. I am also a CIFAR AI Chair and research Fellow at the [Alberta Machine Intelligence Institute](https://www.amii.ca/). 
 
 My group aims to develop the use of machine intelligence for scientific discovery in planetary science and space physics. We focus on addressing outstanding challenges in uncertainty quantification and the inclusion of physical information. These challenges are broadly shared between scientific domains and our focus centers on probabilistic machine learning and inverse problems. See [abbyazari.github.io/group](https://abbyazari.github.io/group/) for my research group.
 
