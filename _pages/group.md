@@ -25,9 +25,9 @@ Nathan Teo (MSc Geophysics, incoming Fall 2025)
 
 ## Undergraduate Students
 
-Kelly Hayes (BSc Hons Astrophysics, incoming Summer 2025)
+Kelly Hayes (BSc Hons Astrophysics)
 
-Corey Polo (BSc Hons Computing Science, incoming Summer 2025)
+Corey Polo (BSc Hons Computing Science)
 
 ## Visiting Scholars
 
