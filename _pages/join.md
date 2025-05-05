@@ -33,9 +33,12 @@ I only work with students through payroll, course credit, or other official oppo
 
 ### Graduate Students
 
-MSc and PhD positions are open for Fall 2026 in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). 
+Mulitple MSc and PhD positions are open for Fall 2026 in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). 
 
-Multiple projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning for inverse problems, reinforcement learning for scientific observations of events from spacecraft, and estimation of planetary habitability. Interested candidates should email aazari+grad @ ualberta . ca with the subject line YourLastName_Grad_App (e.g. Devi_Grad_App, Smith_Grad_App etc) and:
+Projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning for inverse problems, reinforcement learning for scientific observations of events from spacecraft, and estimation of planetary habitability. 
+
+Interested candidates should email aazari+grad @ ualberta . ca with the subject line YourLastName_Grad_App (e.g. Devi_Grad_App, Smith_Grad_App etc) and:
+
   - a short (<1 page) description of why you are interested in the positon and your qualifications
   - your CV or résumé
   - a copy of your unofficial transcripts
