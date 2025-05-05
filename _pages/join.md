@@ -9,7 +9,7 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 ## Open Opportunities
 
-Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
+Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
 Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated May 5, 2025). 
 
@@ -47,7 +47,7 @@ Interested candidates should email aazari+grad @ ualberta . ca with the subject 
 
 ### Post Doctoral and Visitor Funding Opportunities
 
-  The following are several (always availiable) avenues to work with the research group. ARG is happy to sponsor visiting scholars and I encourage potential post docs and visitors to review these before contacting me. I am always happy to be pitched a research collaboration by motivated researchers sponsored through external funds.
+  The following are several (always availiable) avenues to work with the research group. ARG is happy to sponsor visiting scholars and I encourage potential post docs and visitors to review these before contacting me. I am always happy to be pitched a research collaboration by motivated researchers sponsored through external funds. I am generally interested in machine learning for inverse problems, spatiotemporal datasets, space plasmas, and planetary space environments. 
 
   - Banting Fellowship (open to all citizenships), [banting.fellowships-bourses.gc.ca](https://banting.fellowships-bourses.gc.ca)
   - NSERC Post Doctoral Fellowshiip (Canadian citizens and permanent residents + additional statuses), [nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp)
