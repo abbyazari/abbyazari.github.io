@@ -9,13 +9,14 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 ## Open Opportunities
 
-The Azari Research Group (ARG) regularly has openings for interested students. Please see below for the current status (updated April 16, 2025). 
+The Azari Research Group (ARG) regularly has openings for interested students. Please see below for the current status (updated May 5, 2025). 
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
-I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid or credited opportunities. Undergraduate opportunities are prioritized for students who have completed 300 level coursework.   
 
 ### Undergraduate Students
+
+I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid or credited opportunities. Undergraduate opportunities are prioritized for students who have completed 300 level coursework.
 
   **Summer**
 
@@ -32,15 +33,15 @@ I only work with students through payroll, course credit, or other official oppo
 
 ### Graduate Students
 
- Applications closed, check back in for Fall 2026 entry.
-  
-<!-- for Fall 2025 in ~~[Physics](https://www.ualberta.ca/en/physics/index.html)~~ (deadline passed) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html) (still open). Multiple projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning estimation, and planetary aurorae studies. Interested candidates should email aazari+msc @ ualberta . ca with the subject line YourLastName_MSc_App (e.g. Devi_MSc_App, Smith_MSc_App etc) and:
+MSc and PhD positions are open for Fall 2026 in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). 
+
+Multiple projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning for inverse problems, reinforcement learning for scientific observations of events from spacecraft, and estimation of planetary habitability. Interested candidates should email aazari+grad @ ualberta . ca with the subject line YourLastName_Grad_App (e.g. Devi_Grad_App, Smith_Grad_App etc) and:
   - a short (<1 page) description of why you are interested in the positon and your qualifications
   - your CV or résumé
   - a copy of your unofficial transcripts
   
   Applications are reviewed until the position is filled; a response is not guaranteed. 
-  -->
+
 
 ### Post Doctoral and Visitor Funding Opportunities
 
@@ -60,7 +61,7 @@ I only work with students through payroll, course credit, or other official oppo
 
 The U of A has a long history of research excellence and global leadership in artificial intelligence. The University ranks second in North America for [AI research](https://csrankings.org/#/fromyear/2014/toyear/2024/index?ai&northamerica) and is co-located with the Alberta Machine Intelligence Institute (Amii). Amii is one of three AI-research institutes consisting of more than 35 artificial intelligence and machine learning researchers at the U of A. Particularly, Amii researchers are known for their leadership and development of reinforcement learning including recent recognition of the [Turing Award](https://www.amii.ca/updates-insights/rich-sutton-awarded-a-m-turing-award-for-reinforcement-learning-research).
 
-The U of A has one of the largest space physics programs in Canada with research in planetary magnetospheres, space weather, magnetohydrodynamics, and fundamental plasma physics. It is a founding member of [Space Environment Canada](https://space-environment.ca/), one of the foremost ground-based array for space physics in the world, and the leading institute behind the [RADICALS](https://radicalsmission.ca/) space mission. The aurora is commonly observed in Alberta, offering unique observational capacity at one of the [top ranked](https://www.ualberta.ca/en/about/university-rankings/index.html) research universities in the world and North America. 
+The U of A has one of the largest and oldest space physics programs in Canada with research in planetary magnetospheres, space weather, magnetohydrodynamics, and fundamental plasma physics. It is a founding member of [Space Environment Canada](https://space-environment.ca/), one of the foremost ground-based array for space physics in the world, and the leading institute behind the [RADICALS](https://radicalsmission.ca/) space mission. The aurora is commonly observed in Alberta, offering unique observational capacity at one of the [top ranked](https://www.ualberta.ca/en/about/university-rankings/index.html) research universities in the world and North America. 
 
 
 
