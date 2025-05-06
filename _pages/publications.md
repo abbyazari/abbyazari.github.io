@@ -28,6 +28,8 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 ### Collaborative Publications
 
+1. Rutala, M., Jackman, C., Louis, C., **Azari, A. R.** et al., (2025). "New Models of Jupiter's Magnetopause and Bow Shock through the Juno Prime Mission: Probabilistic Location, Shape, and Internally-driven Variation" JGR: Space Physics. Accepted.
+
 1. Wen, Y., Halekas, J. S., Shen, H-W., **Azari, A. R.** et al., (2025). "Sinuous Aurora at Mars: A Link to the Tail Current Sheet?" The Astrophysical Journal Letters. <a href="https://iopscience.iop.org/article/10.3847/2041-8213/adbf10">doi: 10.3847/2041-8213/adbf10</a>
 
 1. Da Poian, V., Theiling, B., Lyness, E., Burtt, D., **Azari, A. R.** et al., (2025). "Science autonomy using machine learning for astrobiology". White Paper for the 2025 NASA Decadal Astrobiology Research and Exploration Strategy (DARES). <a href="https://doi.org/10.48550/arXiv.2504.00709">doi: 10.48550/arXiv.2504.00709</a> $^{\dagger}$
