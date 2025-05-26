@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Students I supervised in research are <ins>underlined</ins>. My scholarship includes policy efforts; policy related scholarship is marked with a dagger ($^{\dagger}$). These policy focused efforts are often internally reviewed as compared to the peer review process undertaken for other works. Citation statistics are on <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ">Google Scholar</a>.
+Students I supervised in research are <ins>underlined</ins>. My scholarship includes policy efforts; policy related scholarship is marked with a dagger ($^{\dagger}$). These policy focused efforts are often internally reviewed as compared to the peer review process undertaken for other works. Citation statistics and more rapid updates are on <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ">Google Scholar</a>.
 
 ### First Author Publications
 
@@ -28,7 +28,7 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 ### Collaborative Publications
 
-1. Rutala, M., Jackman, C., Louis, C. K., **Azari, A. R.** et al., (2025). "New Models of Jupiter's Magnetopause and Bow Shock through the Juno Prime Mission: Probabilistic Location, Shape, and Internally-driven Variation" JGR: Space Physics. Accepted.
+1. Rutala, M., Jackman, C., Louis, C. K., **Azari, A. R.** et al., (2025). "New Models of Jupiter's Magnetopause and Bow Shock through the Juno Prime Mission: Probabilistic Location, Shape, and Internally-driven Variation" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JA033842">doi: 10.1029/2025JA033842</a>
 
 1. Wen, Y., Halekas, J. S., Shen, H-W., **Azari, A. R.** et al., (2025). "Sinuous Aurora at Mars: A Link to the Tail Current Sheet?" The Astrophysical Journal Letters. <a href="https://iopscience.iop.org/article/10.3847/2041-8213/adbf10">doi: 10.3847/2041-8213/adbf10</a>
 
