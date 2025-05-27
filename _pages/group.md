@@ -39,5 +39,5 @@ Jacob Adkins (PhD Computing Science)(Supervised by M. Bowling and A. White)
 
 Cassandra Litwinowich (BSc in Physics)(Supervised by I. Mann, Summer 2025)
 
-Adit Sinha (BSc Hons Computing Science)(Supervised by D. Büchler, Summer 2025)
+Adit Sinha (BSc Hons Computing Science)(Supervised by D. Büchler in CMPUT 299, Summer 2025)
 
