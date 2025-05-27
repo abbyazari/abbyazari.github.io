@@ -27,7 +27,7 @@ Nathan Teo (MSc Geophysics, incoming Fall 2025)
 
 Kelly Hayes (BSc Hons Astrophysics, Summer 2025)
 
-Corey Polo (BSc Hons Computing Science, Co-Supervised with L. Olifer, Summer 2025)
+Corey Polo (BSc Hons Computing Science, Co-advised with L. Olifer, Summer 2025)
 
 ## Visiting Scholars
 
