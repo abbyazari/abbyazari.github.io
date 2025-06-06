@@ -25,6 +25,8 @@ Phong Ho (MSc Statistical Machine Learning, Co-supervised with J. Newby, incomin
 
 [Dawn McKnight](https://demcknight.com/) (Scientific Research Software Developer)
 
+Agnit Mukhopadhyay (Post Doctoral Scholar, incoming June 2025)
+
 ## Undergraduate Students
 
 Kelly Hayes (BSc Hons Astrophysics, Summer 2025)
