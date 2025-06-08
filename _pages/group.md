@@ -23,9 +23,9 @@ Phong Ho (MSc Statistical Machine Learning, Co-supervised with J. Newby, incomin
 
 ## Research Staff and Post Docs
 
-[Dawn McKnight](https://demcknight.com/) (Scientific Research Software Developer)
+[Dawn McKnight](https://demcknight.com/) (Researcher, Scientific Software Developer)
 
-Agnit Mukhopadhyay (Post Doctoral Scholar, incoming June 2025)
+Dr. Agnit Mukhopadhyay (Researcher, Post Doctoral Scholar)
 
 ## Undergraduate Students
 
