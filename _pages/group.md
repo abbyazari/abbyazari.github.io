@@ -25,7 +25,7 @@ Phong Ho (MSc Statistical Machine Learning, Co-supervised with J. Newby, incomin
 
 [Dawn McKnight](https://demcknight.com/) (Researcher, Scientific Software Developer)
 
-Dr. Agnit Mukhopadhyay (Researcher, Post Doctoral Scholar)
+[Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Researcher, Post Doctoral Scholar)
 
 ## Undergraduate Students
 
