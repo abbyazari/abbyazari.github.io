@@ -51,7 +51,7 @@ Interested candidates should email aazari <at> ualberta <dot> ca with the subjec
 
   - Banting Fellowship (open to all citizenships), [banting.fellowships-bourses.gc.ca](https://banting.fellowships-bourses.gc.ca)
   - NSERC Post Doctoral Fellowshiip (Canadian citizens and permanent residents + additional statuses), [nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp)
-  - EU Postdoctoral Fellowships, Canada is a Horizon Europe Associated Country (eligibility varies) [https://marie-sklodowska-curie-actions.ec.europa.eu/](https://marie-sklodowska-curie-actions.ec.europa.eu/)
+  <!--- Horizon Europe Pillar II Programs, Canada is a Horizon Europe Associated Country (eligibility varies) [https://marie-sklodowska-curie-actions.ec.europa.eu/](https://marie-sklodowska-curie-actions.ec.europa.eu/)-->
   - ESA Living with a Planet Fellowship, Canada has a cooperative agreement with ESA [https://eo4society.esa.int/communities/scientists/living-planet-fellowship/](https://eo4society.esa.int/communities/scientists/living-planet-fellowship/)
   - NSF Postdoctoral Fellowships (US citizens and permanent residents only), certain opportunities can be held at University of Alberta [new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599](https://new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599)
   - More information for post docs is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
