@@ -39,9 +39,9 @@ Adit Sinha (BSc Hons Computing Science, Co-supervised with D. Büchler, Summer 2
 
 As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are visiting scholars who participate in ARG via a collaborative project or shared research interests.
 
-Zachary Lau (MSc in Statistics at UBC)(Supervised by G. Pleiss)
+Zachary Lau (MSc in Statistics at UBC, Supervised by G. Pleiss)
 
-Cassandra Litwinowich (BSc in Physics)(Supervised by I. Mann, Summer 2025)
+Cassandra Litwinowich (BSc in Physics, Supervised by I. Mann, Summer 2025)
 
 [Esraa Elelimy](https://esraaelelimy.github.io/) (PhD Computing Science, Supervised by M. White)
 
