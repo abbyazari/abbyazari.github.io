@@ -45,7 +45,7 @@ Cassandra Litwinowich (BSc in Physics, Supervised by I. Mann, Summer 2025)
 
 [Esraa Elelimy](https://esraaelelimy.github.io/) (PhD Computing Science, Supervised by M. White)
 
-Jacob Adkins (PhD Computing Science)(Supervised by M. Bowling and A. White)
+Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
 
 
 
