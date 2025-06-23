@@ -54,7 +54,7 @@ Interested candidates should email aazari <at> ualberta <dot> ca with the subjec
   - ESA Living with a Planet Fellowship, Canada has a cooperative agreement with ESA [https://eo4society.esa.int/communities/scientists/living-planet-fellowship/](https://eo4society.esa.int/communities/scientists/living-planet-fellowship/)
   - EU Marie Skłodowska-Curie Global Post Doctoral Fellowship (nationals or long-term residents of the EU Member States or Horizon Europe Associated Countries, additional restrictions apply) [https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
   - NSF Postdoctoral Fellowships (US citizens and permanent residents only), certain opportunities can be held at University of Alberta [new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599](https://new.nsf.gov/funding/postdocs#postdoctoral-research-fellowships-599)
-  - More information for post docs is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
+  - More information for UA post doc fellowship funding is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html)
   - More information for visiting scholars is availiable at [ualberta.ca/en/graduate-studies/postdocs-visitors/funding.html](https://www.ualberta.ca/en/research/research-support/academic-visitor-office/index.html)
  
 ### Displaced Students and Scholars
