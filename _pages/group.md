@@ -31,9 +31,9 @@ Phong Ho (MSc Statistical Machine Learning, Co-supervised with J. Newby, incomin
 
 Kelly Hayes (BSc Hons Astrophysics)
 
-Corey Polo (BSc Hons Computing Science, Co-mentored with L. Olifer, Supervision via A. R. Azari)
+Corey Polo (BSc Hons Computing Science, Co-mentored with L. Olifer)
 
-Adit Sinha (BSc Hons Computing Science, Co-mentored with D. Büchler, Supervision via D. Büchler)
+Adit Sinha (BSc Hons Computing Science, Co-mentored with D. Büchler, Supervised by D. Büchler)
 
 ## Visiting Scholars
 
