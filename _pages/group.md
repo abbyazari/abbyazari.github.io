@@ -31,9 +31,9 @@ Phong Ho (MSc Statistical Machine Learning, Co-supervised with J. Newby, incomin
 
 Kelly Hayes (BSc Hons Astrophysics, Summer 2025)
 
-Corey Polo (BSc Hons Computing Science, Co-supervised with L. Olifer, Summer 2025)
+Corey Polo (BSc Hons Computing Science, Co-mentored with L. Olifer, Summer 2025, Supervision via A. R. Azari)
 
-Adit Sinha (BSc Hons Computing Science, Co-supervised with D. Büchler, Summer 2025, CMPUT 299)
+Adit Sinha (BSc Hons Computing Science, Co-mentored with D. Büchler, Summer 2025, CMPUT 299 Supervision via D. Büchler)
 
 ## Visiting Scholars
 
