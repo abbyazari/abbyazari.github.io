@@ -29,11 +29,11 @@ Phong Ho (MSc Statistical Machine Learning, Co-supervised with J. Newby, incomin
 
 ## Undergraduate Students
 
-Kelly Hayes (BSc Hons Astrophysics, Summer 2025)
+Kelly Hayes (BSc Hons Astrophysics)
 
-Corey Polo (BSc Hons Computing Science, Co-mentored with L. Olifer, Summer 2025, Supervision via A. R. Azari)
+Corey Polo (BSc Hons Computing Science, Co-mentored with L. Olifer, Supervision via A. R. Azari)
 
-Adit Sinha (BSc Hons Computing Science, Co-mentored with D. Büchler, Summer 2025, CMPUT 299 Supervision via D. Büchler)
+Adit Sinha (BSc Hons Computing Science, Co-mentored with D. Büchler, Supervision via D. Büchler)
 
 ## Visiting Scholars
 
@@ -41,7 +41,7 @@ As an interdiscplinary group ARG values and pursues collaborations with other re
 
 Zachary Lau (MSc in Statistics at UBC, Supervised by G. Pleiss)
 
-Cassandra Litwinowich (BSc in Physics, Supervised by I. Mann, Summer 2025)
+Cassandra Litwinowich (BSc in Physics, Supervised by I. Mann)
 
 [Esraa Elelimy](https://esraaelelimy.github.io/) (PhD Computing Science, Supervised by M. White)
 
