@@ -33,7 +33,7 @@ Kelly Hayes (BSc Hons Astrophysics)
 
 Corey Polo (BSc Hons Computing Science, Co-mentored with L. Olifer)
 
-Adit Sinha (BSc Hons Computing Science, Co-mentored with D. Büchler, Supervised by D. Büchler)
+Adit Sinha (BSc Hons Computing Science, Supervised by D. Büchler)
 
 ## Visiting Scholars
 
