@@ -4,8 +4,8 @@ main:
   - title: "Group"
     url: /group/
 
-  #- title: "Research"
-  #url: /research/   
+  - title: "Research"
+  url: /research/   
     
   - title: "Publications"
     url: /publications/
