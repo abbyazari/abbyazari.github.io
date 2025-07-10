@@ -5,7 +5,7 @@ main:
     url: /group/
 
   - title: "Research"
-  url: /research/   
+    url: /research/   
     
   - title: "Publications"
     url: /publications/
