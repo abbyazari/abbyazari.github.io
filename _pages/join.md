@@ -15,7 +15,7 @@ Please see below for the current status regarding [undergraduate](#undergraduate
 
 ### Undergraduate Students
 
-I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid (e.g. summer) or credited opportunities (e.g. 399, 499). Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed as are open applications for course work placements.
+I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid (e.g. summer) or credited opportunities (e.g. 399, 499). Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed. Course work placements are considered on a case by case basis. 
 
 ### Graduate Students
 
