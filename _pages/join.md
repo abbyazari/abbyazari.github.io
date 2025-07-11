@@ -11,38 +11,21 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
-Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated June 2, 2025). 
+Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated July 11, 2025). 
 
 ### Undergraduate Students
 
-I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid or credited opportunities. Undergraduate opportunities are prioritized for students who have completed 300 level coursework.
-
-  **Summer**
-
-  Applications closed, check back in for Summer 2026.
-  
-  **Academic Year**
-
-  I host academic year for credit research positions for U of A physics undergraduates (incl. engphys, geophys) students through PHYS 399/499 and for engineering undergraduates through the Dean's Research Award. Interested candidates should check their eligibility for these opportunites before emailing aazari <at> ualberta <dot> ca with the subject line YourLastName_UGrad_App (e.g. Tremblay_UGrad_App, Ng_UGrad_App etc) and:
-  - a short (<1 page) description of what you are interested in researching related to ARG and your qualifications
-  - your CV or résumé
-  - a copy of your unofficial transcripts
-
- Applications are reviewed on a rolling basis; a response is not guaranteed.
+I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid (e.g. summer) or credited opportunities (e.g. 399, 499). Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed as are open applications for course work placements.
 
 ### Graduate Students
 
-Mulitple MSc and PhD positions are open for Fall 2026 in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). 
+Mulitple MSc and PhD positions are open for Fall 2026 entry in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). 
 
-Projects are availiable including non-parametric models of the solar wind, merging physics-based models with machine learning for inverse problems, reinforcement learning for scientific observations of events from spacecraft, and estimation of planetary habitability. 
+Projects are availiable including merging physics-based models with machine learning for inverse problems, reinforcement learning for scientific observations of events from spacecraft, and estimation of planetary habitability at Mars. 
 
-Interested candidates should email aazari <at> ualberta <dot> ca with the subject line YourLastName_Grad_App (e.g. Devi_Grad_App, Smith_Grad_App etc) and:
+**Interested candidates should apply directly to the UA Physics or the ECE MSc/PhD programs and include a statement of research interest specifically mentioning their interest in ARG.** A response is not guaranteed.
 
-  - a short (<1 page) description of why you are interested in the positon and your qualifications
-  - your CV or résumé
-  - a copy of your unofficial transcripts
-  
-  Applications are reviewed until the position is filled; a response is not guaranteed. 
+Student who do not yet hold a MSc are highly reccomended to apply to the MSc program first. Applications are reviewed until the position is filled; a response is not guaranteed. 
 
 
 ### Post Doctoral and Visitor Funding Opportunities
