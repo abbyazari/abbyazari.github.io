@@ -35,7 +35,7 @@ Corey Polo (BSc Hons Computing Science, Co-mentored with L. Olifer)
 
 Adit Sinha (BSc Hons Computing Science, Supervised by D. Büchler)
 
-## Visiting Scholars
+## Visiting and Guest Scholars
 
 As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are visiting scholars who participate in ARG via a collaborative project or shared research interests.
 
