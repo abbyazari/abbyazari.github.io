@@ -34,6 +34,8 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 1. Da Poian, V., Theiling, B., Lyness, E., Burtt, D., **Azari, A. R.** et al., (2025). "Science autonomy using machine learning for astrobiology". White Paper for the 2025 NASA Decadal Astrobiology Research and Exploration Strategy (DARES). <a href="https://doi.org/10.48550/arXiv.2504.00709">doi: 10.48550/arXiv.2504.00709</a> $^{\dagger}$
 
+1. Bowers, C., Jackman, C., **Azari, A. R.** et al., (2024). "Estimating Interplanetary Magnetic Field Conditions at Mercury's Orbit From MESSENGER Magnetosheath Observations Using a Feedforward Neural Network". JGR: Machine Learning and Computation. <a href="https://doi.org/10.1029/2024JH000239">doi: 10.1029/2024JH000239</a>
+
 1. Lillis, R...[21 including **Azari, A. R.**] (2024). "Sinuous Aurora at Mars: A Link to the Tail Current Sheet?" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JA032477">doi: 10.1029/2024JA032477</a>
     
 1. Shaver, S...[29 including **Azari, A. R.**] (2024). "The Martian ionospheric response to the co‐rotating interaction region that caused the disappearing solar wind event at Mars".  JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA032181">doi: 10.1029/2023JA032181</a>
