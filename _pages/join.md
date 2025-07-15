@@ -23,9 +23,7 @@ Mulitple MSc and PhD positions are open for Fall 2026 entry in [Physics](https:/
 
 Projects are availiable including merging physics-based models with machine learning for inverse problems, reinforcement learning for scientific observations of events from spacecraft, and estimation of planetary habitability at Mars. 
 
-**Interested candidates should apply directly to the UA Physics or the ECE MSc/PhD programs. Include a statement of research interest _specifically_ mentioning their interest in ARG.** Upon application please notify me of your application.
-
-Students who do not yet hold a MSc are highly reccomended to apply to the MSc program first. Applications are reviewed until the position is filled; a response is not guaranteed. 
+**Interested candidates should apply directly to the UA Physics or the ECE MSc/PhD programs. Include a statement of research interest _specifically_ mentioning their interest in ARG.** Students who do not yet hold a MSc are highly reccomended to apply to the MSc program first. After applying potential students should notify me of their application via email. A response is not guaranteed. 
 
 
 ### Post Doctoral and Visitor Funding Opportunities
