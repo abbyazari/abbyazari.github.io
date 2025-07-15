@@ -15,7 +15,7 @@ Please see below for the current status regarding [undergraduate](#undergraduate
 
 ### Undergraduate Students
 
-I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid (e.g. summer) or credited opportunities (e.g. 399, 499). Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed. Course work placements are considered on a case by case basis. 
+I only work with students through payroll, course credit, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid (e.g. summer) or credited opportunities (e.g. 399, 499). Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed. Coursework placements are considered on a case by case basis. 
 
 ### Graduate Students
 
@@ -23,9 +23,9 @@ Mulitple MSc and PhD positions are open for Fall 2026 entry in [Physics](https:/
 
 Projects are availiable including merging physics-based models with machine learning for inverse problems, reinforcement learning for scientific observations of events from spacecraft, and estimation of planetary habitability at Mars. 
 
-**Interested candidates should apply directly to the UA Physics or the ECE MSc/PhD programs and include a statement of research interest specifically mentioning their interest in ARG.** A response is not guaranteed.
+**Interested candidates should apply directly to the UA Physics or the ECE MSc/PhD programs. Include a statement of research interest _specifically_ mentioning their interest in ARG.** Upon application please notify me of your application.
 
-Student who do not yet hold a MSc are highly reccomended to apply to the MSc program first. Applications are reviewed until the position is filled; a response is not guaranteed. 
+Students who do not yet hold a MSc are highly reccomended to apply to the MSc program first. Applications are reviewed until the position is filled; a response is not guaranteed. 
 
 
 ### Post Doctoral and Visitor Funding Opportunities
