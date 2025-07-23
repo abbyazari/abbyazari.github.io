@@ -21,7 +21,7 @@ I only work with students through payroll, course credit, or other official oppo
 
 Fully funded MSc and PhD positions are open for Fall 2026 entry in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). 
 
-Projects availiable include: (1) merging physics-based models with machine learning for inverse problems, (2) reinforcement learning for scientific observations of events from spacecraft, and (3) estimation of planetary habitability at Mars. 
+Projects availiable include: (1) merging physics-based models with machine learning for inverse problems, (2) reinforcement learning for scientific observations of events from spacecraft, (3) estimation of planetary habitability at Mars, and (4) solar wind estimation in the solar system. 
 
 **Interested candidates should apply directly to the UA Physics or the ECE MSc/PhD programs. Include a statement of research interest _specifically_ mentioning their interest in ARG and the project of interest.** 
 
