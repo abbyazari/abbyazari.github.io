@@ -23,7 +23,7 @@ Fully funded MSc and PhD positions are open for Fall 2026 entry in [Physics](htt
 
 Projects availiable include: (1) merging physics-based models with machine learning for inverse problems, (2) reinforcement learning for scientific observations of events from spacecraft, (3) estimation of planetary habitability at Mars, and (4) solar wind estimation in the solar system. 
 
-**Interested candidates should apply directly to the UA Physics or the ECE MSc/PhD programs. Include a statement of research interest _specifically_ mentioning their interest in ARG and the project of interest.** 
+**Interested candidates should apply directly to the UA Physics or the ECE MSc/PhD programs. Include a statement of research interest _specifically_ mentioning their interest in ARG, the project of interest, and how this aligns with their career goals.** 
 
 Tips and Tricks: Applicants who do not yet hold a MSc are strongly recommended to apply to the MSc program first. When writing your interest statement review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG. After applying potential students should notify me of their application via email; a response is not guaranteed. 
 
