@@ -35,9 +35,9 @@ Corey Polo (BSc Hons Computing Science, Co-supervised with L. Olifer)
 
 Adit Sinha (BSc Hons Computing Science, Co-supervised with D. Büchler)
 
-## Visiting and Guest Scholars
+## Collaborators and Guest Scholars
 
-As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are visiting scholars who participate in ARG via a collaborative project or shared research interests.
+As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are visiting scholars and collaborators who participate in ARG via shared research interests.
 
 Zachary Lau (MSc in Statistics at UBC, Supervised by G. Pleiss)
 
