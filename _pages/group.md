@@ -37,7 +37,7 @@ Adit Sinha (BSc Hons Computing Science, Co-supervised with D. Büchler)
 
 ## Collaborators and Guest Scholars
 
-As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are visiting scholars and collaborators who participate in ARG via shared research interests.
+As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are scholars and collaborators who participate in ARG via shared research interests.
 
 Zachary Lau (MSc in Statistics at UBC, Supervised by G. Pleiss)
 
