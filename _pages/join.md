@@ -19,7 +19,7 @@ I only work with students through payroll, course credit, or other official oppo
 
 ### Graduate Students *NOW RECRUITING*
 
-**Fully funded MSc and PhD positions are open for Fall 2026 entry in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html).** 
+Fully funded MSc and PhD positions are open for Fall 2026 entry in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). 
 
 Projects availiable include: (1) merging physics-based models with machine learning for inverse problems, (2) reinforcement learning for scientific observations of events from spacecraft, (3) estimation of planetary habitability at Mars, and (4) solar wind estimation in the solar system. 
 
@@ -32,9 +32,9 @@ Tips and Tricks:
 - After applying potential students should notify me of their application via email; a response is not guaranteed. 
 
 
-### Post Doctoral and Visitor Funding Opportunities
+### Post Doctoral and Visitor Funding Opportunities *NOW RECRUITING*
 
-**NEW! Post doc position in Mars space environment studies with machine learning open for application! Apply [here](https://docs.google.com/document/d/1SxEkAPwEXzDOK14e-M7_LcdLrHEtLwOLTXxpYhNyTbU/).** 
+A post doc position in Mars space environment studies with machine learning is now open for application! Apply [here](https://docs.google.com/document/d/1SxEkAPwEXzDOK14e-M7_LcdLrHEtLwOLTXxpYhNyTbU/).
 
 Outside of open calls the following are several (always availiable) avenues to work with the research group. ARG is happy to sponsor visiting scholars and I encourage potential post docs and visitors to review these before contacting me. I am always happy to be pitched a research collaboration of mutual interest by motivated individuals. I am generally interested in machine learning for inverse problems, uncertainty quantification, spatiotemporal datasets, space plasmas, and planetary space environments. I have active projects on solar wind estimation for Mars' space environment and in reinforcement learning for space science. 
 
