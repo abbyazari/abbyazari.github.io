@@ -21,7 +21,7 @@ Nathan Teo (MSc Geophysics)
 
 Phong Ho (MSc Statistical Machine Learning, Co-supervised with J. Newby)
 
-## Research Staff and Post Docs
+## Research Staff and Post Doctoral Fellows
 
 [Dawn McKnight](https://demcknight.com/) (Researcher, Scientific Software Developer)
 
@@ -37,7 +37,7 @@ Adit Sinha (BSc Hons Computing Science, Co-supervised with D. Büchler)
 
 As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are scholars and collaborators who participate in ARG via shared research interests.
 
-Dr. Agnit Mukhopadhyay (MDA Space)
+[Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (MDA Space)
 
 Zachary Lau (MSc in Statistics at UBC, Supervised by G. Pleiss)
 
@@ -49,6 +49,6 @@ Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
 
 ## Alumni
 
-[Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Prior Post Doctoral Scholar, Now at MDA Space)
+[Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Prior Post Doctoral Fellow, Now at MDA Space)
 
 
