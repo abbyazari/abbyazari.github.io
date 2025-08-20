@@ -17,9 +17,10 @@ Please see below for the current status regarding [undergraduate](#undergraduate
 
 I only work with students through payroll, course credit, co-op, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid (e.g. summer, co-op) or credited opportunities (e.g. 399, 499). Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed but coursework and co-op placements are considered on a case by case basis.
 
-### Graduate Students *NOW RECRUITING*
+### Graduate Students 
+*NOW RECRUITING*
 
-Fully funded MSc and PhD positions are open for Fall 2026 entry in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). 
+**Fully funded** MSc and PhD positions are open for Fall 2026 entry in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). 
 
 Projects availiable include: (1) merging physics-based models with machine learning for inverse problems, (2) reinforcement learning for scientific observations of events from spacecraft, (3) estimation of planetary habitability at Mars, and (4) solar wind estimation in the solar system. 
 
@@ -32,7 +33,8 @@ Tips and Tricks:
 - After applying potential students should notify me of their application via email; a response is not guaranteed. 
 
 
-### Post Doctoral and Visitor Funding Opportunities *NOW RECRUITING*
+### Post Doctoral and Visitor Funding Opportunities 
+*NOW RECRUITING*
 
 A post doc position in Mars space environment studies with machine learning is now open for application! Apply [here](https://docs.google.com/document/d/1SxEkAPwEXzDOK14e-M7_LcdLrHEtLwOLTXxpYhNyTbU/).
 
