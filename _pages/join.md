@@ -30,7 +30,7 @@ Tips and Tricks:
 
 - Applicants who do not yet hold a MSc are strongly recommended to apply to the MSc program first; MSc's are funded.
 - When writing your interest statement review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG.
-- If your background does not contain _signficant_ physics coursework to the level of a Bachelor's degree in Physics, applicants are suggested to apply to ECE.
+- If your background does not contain _signficant_ physics coursework (to the level of a Bachelor's degree in Physics) but do posess computational or statistical backgrounds, applicants are suggested to apply to ECE.
 
 ### Post Doctoral and Visitor Funding Opportunities 
 *NOW RECRUITING*
