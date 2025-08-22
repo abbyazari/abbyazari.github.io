@@ -24,13 +24,18 @@ I only work with students through payroll, course credit, co-op, or other offici
 
 Projects availiable include: (1) merging physics-based models with machine learning for inverse problems, (2) reinforcement learning for scientific observations of events from spacecraft, (3) estimation of planetary habitability at Mars, and (4) solar wind estimation in the solar system. 
 
-**Interested candidates should apply directly to the UA Physics or the ECE MSc/PhD programs. Include a statement of research interest _specifically_ mentioning their interest in ARG, the project of interest, and how this aligns with their career goals. Upon application, notify aazari@ualberta.ca via email to be considered for ARG placement.** 
+**Interested candidates should apply directly to the UA Physics or the ECE MSc/PhD programs. Include a statement of research interest _specifically_ mentioning their interest in ARG, the project of interest, and how this aligns with their career goals. The Department(s) determine eligibility. Research group review of applications will occur after the Departmental process. To make sure your application is considered for ARG in the case of Departmental approval; notify aazari@ualberta.ca _after_ submission of your materials.** 
 
-Tips and Tricks: 
+Important Application Information: 
 
-- Applicants who do not yet hold a MSc are strongly recommended to apply to the MSc program first; MSc's are funded.
+- Applicants who do not yet hold a MSc are strongly recommended to apply to the MSc program first; MSc's are funded as are PhD students.
 - When writing your interest statement review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG.
-- If your background does not contain _signficant_ physics coursework (to the level of a Bachelor's degree in Physics) but do posess computational or statistical backgrounds, applicants are suggested to apply to ECE.
+- If your background does not contain _signficant_ physics coursework (to the level of a Bachelor's degree in Physics) but does posess methodological expertise (e.g. computation, statistics), applicants are suggested to apply to ECE.
+- Potential applicants who have specific questions about ARG before application should include the following in their email: 
+  - Your application status
+  - Your reason for emailing
+  - A CV / resume (which includes GPA in your prior or current educational program) 
+  - A response is not guranteed  
 
 ### Post Doctoral and Visitor Funding Opportunities 
 *NOW RECRUITING*
