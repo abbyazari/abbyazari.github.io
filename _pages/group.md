@@ -37,8 +37,6 @@ Adit Sinha (BSc Hons Computing Science, Co-supervised with D. Büchler)
 
 As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are scholars and collaborators who participate in ARG via shared research interests.
 
-[Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (MDA Space)
-
 Zachary Lau (MSc in Statistics at UBC, Supervised by G. Pleiss)
 
 Cassandra Litwinowich (BSc in Physics, Supervised by I. Mann)
@@ -46,6 +44,8 @@ Cassandra Litwinowich (BSc in Physics, Supervised by I. Mann)
 [Esraa Elelimy](https://esraaelelimy.github.io/) (PhD Computing Science, Supervised by M. White)
 
 Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
+
+[Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (MDA Space)
 
 ## Alumni
 
