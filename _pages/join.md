@@ -31,11 +31,10 @@ Important Application Information:
 - Applicants who do not yet hold a MSc are strongly recommended to apply to the MSc program first; MSc's are funded as are PhD students.
 - When writing your interest statement review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG.
 - If your background does not contain _signficant_ physics coursework (to the level of a Bachelor's degree in Physics) but does posess methodological expertise (e.g. computation, statistics), applicants are suggested to apply to ECE.
-- Potential applicants who have specific questions about ARG before application should include the following in their email: 
+- Potential applicants who have specific questions about ARG before application should include the following information in their email. A response is not guaranteed. 
   - Your application status
   - Your reason for emailing
   - A CV / resume (which includes GPA in your prior or current educational program) 
-  - A response is not guranteed  
 
 ### Post Doctoral and Visitor Funding Opportunities 
 *NOW RECRUITING*
