@@ -11,11 +11,11 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
-Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated August 7, 2025). 
+Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated August 31, 2025). 
 
 ### Undergraduate Students
 
-I only work with students through payroll, course credit, co-op, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid (e.g. summer, co-op) or credited opportunities (e.g. 399, 499). Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed but coursework and co-op placements are considered on a case by case basis.
+I only work with students through payroll, course credit, co-op, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid (e.g. summer, co-op) or credited opportunities (e.g. 399, 499). Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed but coursework and co-op placements are considered on a case by case basis for Winter 2026.
 
 ### Graduate Students 
 *NOW RECRUITING*
