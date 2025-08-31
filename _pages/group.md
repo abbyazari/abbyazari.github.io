@@ -39,8 +39,6 @@ As an interdiscplinary group ARG values and pursues collaborations with other re
 
 Zachary Lau (MSc in Statistics at UBC, Supervised by G. Pleiss)
 
-Cassandra Litwinowich (BSc in Physics, Supervised by I. Mann)
-
 [Esraa Elelimy](https://esraaelelimy.github.io/) (PhD Computing Science, Supervised by M. White)
 
 Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
@@ -50,5 +48,7 @@ Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
 ## Alumni
 
 [Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Prior Post Doctoral Fellow, Now at MDA Space)
+
+Cassandra Litwinowich (Prior Guest Collaborator Supervised by I. Mann, Now at Dalhousie University, Meteorology)
 
 
