@@ -15,7 +15,7 @@ Please see below for the current status regarding [undergraduate](#undergraduate
 
 ### Undergraduate Students
 
-I only work with students through payroll, course credit, co-op, or other official opportunities. While volunteering is valuable I will always encourage students interested in working with me to pursue paid (e.g. summer, co-op) or credited opportunities (e.g. 399, 499). Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed but coursework and co-op placements are considered on a case by case basis for Winter 2026.
+I only work with students through payroll, course credit, co-op, or other official opportunities because I view research as valuable labor to a society. I encourage students interested in working with me to pursue paid (e.g. summer, co-op) or credited opportunities (e.g. 399, 499). Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed but coursework and co-op placements are considered on a case by case basis for Winter 2026.
 
 ### Graduate Students 
 *NOW RECRUITING*
