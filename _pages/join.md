@@ -11,7 +11,7 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
-Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated August 31, 2025). 
+Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated September 15, 2025). 
 
 ### Undergraduate Students
 
@@ -28,7 +28,7 @@ Projects availiable include: (1) merging physics-based models with machine learn
 
 Important Application Information: 
 
-- Applicants who do not yet hold a MSc are strongly recommended to apply to the MSc program first; MSc degrees are funded as are PhD students.
+- Applicants who do not yet hold a MSc are strongly recommended to apply to the MSc program first; MSc students are funded as are PhD students.
 - When writing your interest statement review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG.
 - If your background does not contain _significant_ physics coursework (at least one 400 level physics course such as E&M, Quantum, or Statistical Mechanics) but _does_ posess methodological expertise (e.g. computation, mathematics, probability, statistics), then applicants are suggested to apply to ECE.
 - Potential applicants who have specific questions about ARG before application should include the following information in their email. A response is not guaranteed. 
