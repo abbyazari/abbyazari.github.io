@@ -19,7 +19,7 @@ The Azari Research Group's vision regarding our community goals can be found at 
 
 Nathan Teo (MSc Geophysics)
 
-Phong Ho (MSc Statistical Machine Learning, Co-supervised with J. Newby)
+[Phong Ho](https://whosphong.github.io/) (MSc Statistical Machine Learning, Co-supervised with J. Newby)
 
 ## Research Staff and Post Doctoral Fellows
 
