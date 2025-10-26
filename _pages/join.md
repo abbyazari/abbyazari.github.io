@@ -28,7 +28,7 @@ Projects availiable include: (1) merging physics-based models with machine learn
 
 Important Application Information: 
 
-- Applicants who do not yet hold a MSc are strongly recommended to apply to the MSc program first; MSc students are funded as are PhD students.
+- Applicants who do not yet hold a MSc are strongly recommended to apply to the MSc program first; MSc students are funded, as are PhD students.
 - Applicants should plan to apply by December 1, 2025 for the widest consideration for Fall 2026 programs. 
 - When writing your interest statement review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG.
 - If your background does not contain _significant_ physics coursework (at least one 400 level physics course such as E&M, Quantum, or Statistical Mechanics) but _does_ posess methodological expertise (e.g. computation, mathematics, probability, statistics), then applicants are suggested to apply to ECE.
