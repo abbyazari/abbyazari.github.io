@@ -11,7 +11,7 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
-Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated October 25, 2025). 
+Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated October 29, 2025). 
 
 ### Undergraduate Students
 
@@ -38,12 +38,10 @@ Important Application Information:
   - A CV / resume (which includes GPA in your prior or current educational program) 
 
 ### Post Doctoral and Visitor Funding Opportunities 
-*NOW RECRUITING*
-
-A post doc position in Mars space environment studies with machine learning is now open for application! Apply [here](https://docs.google.com/document/d/1SxEkAPwEXzDOK14e-M7_LcdLrHEtLwOLTXxpYhNyTbU/).
 
 Outside of open calls the following are several (always availiable) avenues to work with the research group. ARG is happy to sponsor visiting scholars and I encourage potential post docs and visitors to review these before contacting me. I am always happy to be pitched a research collaboration of mutual interest by motivated individuals. I am generally interested in machine learning for inverse problems, uncertainty quantification, spatiotemporal datasets, space plasmas, and planetary space environments. I have active projects on solar wind estimation for Mars' space environment and in reinforcement learning for space science. 
 
+  - Izaak Walton Killam & Grant Notley Memorial Postdoctoral Fellowship, [https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/postdoctoral-fellow-funding/killam-fellowships.html](https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/postdoctoral-fellow-funding/killam-fellowships.html)
   - Canada Post Doc Research Award (open to all citizenships), [https://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/cpra-bprc_eng.asp](https://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/cpra-bprc_eng.asp)
   - ESA Living with a Planet Fellowship, Canada has a cooperative agreement with ESA and this can be held at the U of A. Proposals forthe 2025 cycle are now being solicited. [https://eo4society.esa.int/communities/scientists/living-planet-fellowship/](https://eo4society.esa.int/communities/scientists/living-planet-fellowship/)
   - EU Marie Skłodowska-Curie Global Post Doctoral Fellowship (nationals or long-term residents of the EU Member States or Horizon Europe Associated Countries, additional restrictions apply) [https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
