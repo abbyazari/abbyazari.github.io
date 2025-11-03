@@ -37,6 +37,8 @@ Adit Sinha (BSc Hons Computing Science, Co-supervised with D. Büchler)
 
 As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are scholars and collaborators who participate in ARG via shared research interests.
 
+Joanne Cai (MASc in Aerospace at UT IAS, Supervised by C. Groth)
+
 Zachary Lau (MSc in Statistics at UBC, Supervised by G. Pleiss)
 
 [Esraa Elelimy](https://esraaelelimy.github.io/) (PhD Computing Science, Supervised by M. White)
