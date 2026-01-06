@@ -21,9 +21,7 @@ Nathan Teo (MSc Geophysics)
 
 [Phong Ho](https://whosphong.github.io/) (MSc Statistical Machine Learning, Co-supervised with J. Newby)
 
-## Research Staff and Post Doctoral Fellows
-
-[Dawn McKnight](https://demcknight.com/) (Researcher, Scientific Software Developer)
+<!--## Research Staff and Post Doctoral Fellows-->
 
 ## Undergraduate Students
 
@@ -31,7 +29,7 @@ Kelly Hayes (BSc Hons Astrophysics)
 
 Corey Polo (BSc Hons Computing Science, Co-supervised with A. White, L. Olifer)
 
-Adit Sinha (BSc Hons Computing Science, Co-supervised with D. Büchler)
+Kate Kolber (BSc Hons Astrophysics)
 
 ## Collaborators and Guest Scholars
 
@@ -47,10 +45,19 @@ Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
 
 [Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (MDA Space)
 
+[Dawn McKnight](https://demcknight.com/) (Scientific Software Developer)
+
+
 ## Alumni
+
+[Dawn McKnight](https://demcknight.com/) (Prior Researcher)
+
+Adit Sinha (Prior Undergraduate Researcher, Co-supervised with D. Büchler, Now at University of Alberta)
 
 [Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Prior Post Doctoral Fellow, Now at MDA Space)
 
 Cassandra Litwinowich (Prior Guest Undergraduate Supervised by I. Mann, Now at Dalhousie University, Meteorology)
+
+
 
 
