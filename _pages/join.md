@@ -11,7 +11,7 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
-Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated December 31, 2025). 
+Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated January 11, 2026). 
 
 ### Undergraduate Students
 
@@ -20,11 +20,10 @@ I only work with students through payroll, course credit, co-op, or other offici
 Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed but coursework and co-op placements are considered on a case by case basis for Winter 2026. If you are interested in a position send me an email with your CV/resume, most recent transcript, and a description of what your research or career goals entail including how they align with the work of the Azari Research Group.
 
 ### Graduate Students 
-*NOW RECRUITING*
 
-**Fully funded** MSc and PhD positions are open for Fall 2026 entry in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). 
+Graduate student positions are closed for Fall 2026 entry in [Physics](https://www.ualberta.ca/en/physics/index.html) and [ECE](https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html). Recruitment updates for 2027 will be shared at a later date. 
 
-Projects availiable include: (1) merging physics-based models with machine learning for inverse problems, (2) reinforcement learning for scientific observations of events from spacecraft, (3) estimation of planetary habitability at Mars, and (4) solar wind estimation in the solar system. 
+<!--Projects availiable include: (1) merging physics-based models with machine learning for inverse problems, (2) reinforcement learning for scientific observations of events from spacecraft, (3) estimation of planetary habitability at Mars, and (4) solar wind estimation in the solar system. 
 
 **Interested candidates should apply directly to the UA Physics and/or the ECE MSc/PhD programs. Include a statement of research interest _specifically_ mentioning their (a) interest in ARG, (b) the project of interest, and (c) how this aligns with their career goals. The Department(s) determine eligibility. Research group review of applications will occur after the Departmental process. To make sure your application is considered for ARG in the case of Departmental approval; notify aazari@ualberta.ca _after_ submission of your materials.** 
 
@@ -37,7 +36,7 @@ Important Application Information:
 - Potential applicants who have specific questions about ARG before or during application should include the following information in their email. A response is not guaranteed. 
   - Your application status
   - Your reason for emailing
-  - A CV / resume (which includes GPA in your prior or current educational program) 
+  - A CV / resume (which includes GPA in your prior or current educational program) -->
 
 ### Post Doctoral and Visitor Funding Opportunities 
 
