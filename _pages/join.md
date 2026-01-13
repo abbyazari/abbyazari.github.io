@@ -11,13 +11,13 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
-Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated January 11, 2026). 
+Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated January 12, 2026). 
 
 ### Undergraduate Students
 
 I only work with students through payroll, course credit, co-op, or other official opportunities because I view research as valuable labor to a society. I encourage students interested in working with me to pursue paid (e.g. USRA/SUPRE, summer, co-op, DRA) or credited opportunities (e.g. 399, 499). 
 
-Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed but coursework and co-op placements are considered on a case by case basis for Summer 2026. If you are interested in a position send me an email with your CV/resume, most recent transcript, and a description of what your research or career goals entail including how they align with the work of the Azari Research Group.
+Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently open on a case by case basis for [Summer 2026](https://www.ualberta.ca/en/physics/undergraduate-studies/research-opportunities/supre-research-awards.html). If you are interested in a position send me an email with your CV/resume, most recent transcript, and a description of what your research or career goals entail including how they align with the work of the Azari Research Group.  
 
 ### Graduate Students 
 
