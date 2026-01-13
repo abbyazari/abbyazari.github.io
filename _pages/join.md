@@ -15,9 +15,9 @@ Please see below for the current status regarding [undergraduate](#undergraduate
 
 ### Undergraduate Students
 
-I only work with students through payroll, course credit, co-op, or other official opportunities because I view research as valuable labor to a society. I encourage students interested in working with me to pursue paid (e.g. summer, co-op, DRA) or credited opportunities (e.g. 399, 499). 
+I only work with students through payroll, course credit, co-op, or other official opportunities because I view research as valuable labor to a society. I encourage students interested in working with me to pursue paid (e.g. USRA/SUPRE, summer, co-op, DRA) or credited opportunities (e.g. 399, 499). 
 
-Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed but coursework and co-op placements are considered on a case by case basis for Winter 2026. If you are interested in a position send me an email with your CV/resume, most recent transcript, and a description of what your research or career goals entail including how they align with the work of the Azari Research Group.
+Undergraduate opportunities are prioritized for students who have completed 300 level coursework. Summer positions are currently closed but coursework and co-op placements are considered on a case by case basis for Summer 2026. If you are interested in a position send me an email with your CV/resume, most recent transcript, and a description of what your research or career goals entail including how they align with the work of the Azari Research Group.
 
 ### Graduate Students 
 
