@@ -21,7 +21,9 @@ Nathan Teo (MSc Geophysics)
 
 [Phong Ho](https://whosphong.github.io/) (MSc Statistical Machine Learning, Co-supervised with J. Newby)
 
-<!--## Research Staff and Post Doctoral Fellows-->
+## Research Staff and Post Doctoral Fellows
+
+[Dr. Matthew Rutala](https://mjrutala.github.io/)
 
 ## Undergraduate Students
 
