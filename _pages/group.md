@@ -23,7 +23,7 @@ Nathan Teo (MSc Geophysics)
 
 ## Research Staff and Post Doctoral Fellows
 
-[Dr. Matthew Rutala](https://mjrutala.github.io/)
+[Dr. Matthew Rutala](https://mjrutala.github.io/) (Alberta Machine Intelligence Institute Post-Doctoral Award)
 
 ## Undergraduate Students
 
