@@ -52,7 +52,7 @@ Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
 
 ## Alumni
 
-[Dawn McKnight](https://demcknight.com/) (Prior Researcher)
+[Dawn McKnight](https://demcknight.com/) (Prior Researcher, Now at Artificial Agency)
 
 Adit Sinha (Prior Undergraduate Researcher, Co-supervised with D. Büchler, Now at University of Alberta)
 
