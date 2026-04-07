@@ -55,7 +55,7 @@ Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
 
 [Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (MDA Space)
 
-## Collaborators and Guest Scholars Alumni
+## Collaborators and Guest Scholar Alumni
 
 Cassandra Litwinowich (Prior Guest Undergraduate Supervised by I. Mann, Now at Dalhousie University, Meteorology)
 
