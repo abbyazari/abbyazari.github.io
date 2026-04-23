@@ -35,6 +35,8 @@ Kelly Hayes (BSc Hons Astrophysics)
 
 Kate Kolber (BSc Hons Astrophysics)
 
+Sriman Doppalapudi (BSc Computing Science, BSc Statistics)
+
 ## Alumni
 
 [Dawn McKnight](https://demcknight.com/) (Prior Researcher, Now at Artificial Agency)
