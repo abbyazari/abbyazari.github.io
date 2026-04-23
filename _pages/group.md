@@ -25,6 +25,8 @@ Andrew Cates (incoming MSc Physics, Co-supervised with Y. Shen)
 
 Corey Polo (incoming MSc Computing Science, Co-supervised with M. Guzdial)
 
+Emma Guinan (incoming MSc Earth and Atmospheric Science, Co-supervised with C. Herd)
+
 ## Research Staff and Post Doctoral Fellows
 
 [Dr. Matthew Rutala](https://mjrutala.github.io/) (Alberta Machine Intelligence Institute Post-Doctoral Award)
