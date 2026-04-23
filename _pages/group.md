@@ -21,6 +21,10 @@ Nathan Teo (MSc Geophysics)
 
 [Phong Ho](https://whosphong.github.io/) (MSc Statistical Machine Learning, Co-supervised with J. Newby)
 
+Andrew Cates (incoming MSc Physics, Co-supervised with Y. Shen)
+
+Corey Polo (incoming MSc Computing Science, Co-supervised with M. Guzdial)
+
 ## Research Staff and Post Doctoral Fellows
 
 [Dr. Matthew Rutala](https://mjrutala.github.io/) (Alberta Machine Intelligence Institute Post-Doctoral Award)
@@ -29,17 +33,17 @@ Nathan Teo (MSc Geophysics)
 
 Kelly Hayes (BSc Hons Astrophysics)
 
-Corey Polo (BSc Hons Computing Science, Co-supervised with A. White, L. Olifer)
-
 Kate Kolber (BSc Hons Astrophysics)
 
 ## Alumni
 
 [Dawn McKnight](https://demcknight.com/) (Prior Researcher, Now at Artificial Agency)
 
-Adit Sinha (Prior Undergraduate Researcher, Co-supervised with D. Büchler, Now at University of Alberta)
+Adit Sinha (Prior Undergraduate Researcher, Co-supervised with D. Büchler, Continuing at University of Alberta)
 
 [Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Prior Post Doctoral Fellow, Now at MDA Space)
+
+Corey Polo (Prior Undergraduate Researcher, Continuing into a MSc at University of Alberta)
 
 ## Collaborators and Guest Scholars
 
