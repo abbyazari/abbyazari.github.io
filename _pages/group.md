@@ -29,7 +29,7 @@ Emma Guinan (incoming MSc Earth and Atmospheric Science, Co-supervised with C. H
 
 ## Research Staff and Post Doctoral Fellows
 
-[Dr. Matthew Rutala](https://mjrutala.github.io/) (Alberta Machine Intelligence Institute Post-Doctoral Award)
+[Dr. Matthew Rutala](https://mjrutala.github.io/) (Alberta Machine Intelligence Institute Post-Doctoral Fellow)
 
 ## Undergraduate Students
 
@@ -62,6 +62,8 @@ Zachary Lau (MSc in Statistics at UBC, Supervised by G. Pleiss)
 Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
 
 [Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (MDA Space)
+
+[Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/) (University of Alberta / Alberta Machine Intelligence Institute)
 
 ## Collaborators and Guest Scholar Alumni
 
