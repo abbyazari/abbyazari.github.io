@@ -39,16 +39,6 @@ Kate Kolber (BSc Hons Astrophysics)
 
 Sriman Doppalapudi (BSc Computing Science, BSc Statistics)
 
-## Alumni
-
-[Dawn McKnight](https://demcknight.com/) (Prior Researcher, Now at Artificial Agency)
-
-Adit Sinha (Prior Undergraduate Researcher, Co-supervised with D. Büchler, Continuing at University of Alberta)
-
-[Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Prior Post Doctoral Fellow, Now at MDA Space)
-
-Corey Polo (Prior Undergraduate Researcher, Continuing into a MSc at University of Alberta)
-
 ## Collaborators and Guest Scholars
 
 As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are scholars and collaborators who participate in ARG via shared research interests.
@@ -65,9 +55,16 @@ Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
 
 [Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/) (University of Alberta / Alberta Machine Intelligence Institute)
 
-## Collaborators and Guest Scholar Alumni
+## Alumni
 
-Cassandra Litwinowich (Prior Guest Undergraduate Supervised by I. Mann, Now at Dalhousie University, Meteorology)
+[Dawn McKnight](https://demcknight.com/) (Prior Researcher, Now at Artificial Agency)
+
+Adit Sinha (Prior Undergraduate Researcher, Continuing at University of Alberta)
+
+[Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Prior Post Doctoral Fellow, Now at MDA Space)
+
+Cassandra Litwinowich (Prior Guest, Supervised by I. Mann, Now at Dalhousie University, Meteorology)
+
 
 
 
