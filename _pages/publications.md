@@ -28,7 +28,9 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 ### Collaborative Publications
 
-1. Lillis, R...[18 including **Azari, A. R.**] (2025). IMF Control of Electron Aurora across Mars' Crustal Magnetic Fields: Insights into electron sources" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA033913">doi: 10.1029/2025JA033913</a>
+1. Liemohn, M., Ganushkina, N. Y., Welling, D. T., **Azari, A. R.** (2026). "Prediction Efficiency Skill Scores for Event Detection Analysis" Space Weather. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004848">doi: 10.1029/2025SW004848</a>
+
+1. Lillis, R...[18 including **Azari, A. R.**] (2025). "IMF Control of Electron Aurora across Mars' Crustal Magnetic Fields: Insights into electron sources" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA033913">doi: 10.1029/2025JA033913</a>
 
 1. Rutala, M., Jackman, C., Louis, C. K., **Azari, A. R.** et al., (2025). "New Models of Jupiter's Magnetopause and Bow Shock through the Juno Prime Mission: Probabilistic Location, Shape, and Internally-driven Variation" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JA033842">doi: 10.1029/2025JA033842</a>
 
