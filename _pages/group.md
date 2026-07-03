@@ -37,13 +37,13 @@ Lorryn McKaig (incoming PhD Geophysics, Co-supervised with D. Cordell)
 
 Kelly Hayes (BSc Hons Astrophysics)
 
-Kate Kolber (BSc Hons Astrophysics)
-
 Sriman Doppalapudi (BSc Computing Science, BSc Statistics)
 
 ## Collaborators and Guest Scholars
 
 As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are scholars and collaborators who participate in ARG via shared research interests.
+
+Kate Kolber (MASc in Aerospace at UTIAS, Supervised by C. Groth)
 
 Joanne Cai (MASc in Aerospace at UTIAS, Supervised by C. Groth)
 
@@ -59,6 +59,8 @@ Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
 
 ## Alumni
 
+Kate Kolber (Prior Undergraduate Researcher, Now at University of Toronto, Aerospace)
+
 [Dawn McKnight](https://demcknight.com/) (Prior Researcher, Now at Artificial Agency)
 
 Adit Sinha (Prior Undergraduate Researcher, Continuing at University of Alberta)
@@ -66,6 +68,7 @@ Adit Sinha (Prior Undergraduate Researcher, Continuing at University of Alberta)
 [Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Prior Post Doctoral Fellow, Now at MDA Space)
 
 Cassandra Litwinowich (Prior Guest, Supervised by I. Mann, Now at Dalhousie University, Meteorology)
+
 
 
 
