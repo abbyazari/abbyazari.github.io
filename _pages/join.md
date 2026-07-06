@@ -11,7 +11,7 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems) and/or plasma science (e.g. fusion, astrophysics, space physics). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
-Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated January 12, 2026). 
+Please see below for the current status regarding [undergraduate](#undergraduate-students), [graduate](#graduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated July 6, 2026). 
 
 ### Undergraduate Students
 
@@ -40,7 +40,7 @@ Important Application Information:
 
 ### Post Doctoral and Visitor Funding Opportunities 
 
-Outside of open calls the following are several (always availiable) avenues to work with the research group. ARG is happy to sponsor visiting scholars and I encourage potential post docs and visitors to review these before contacting me. I am always happy to be pitched a research collaboration of mutual interest by motivated individuals. I am generally interested in machine learning for inverse problems, uncertainty quantification, spatiotemporal datasets, space plasmas, and planetary space environments. I have active projects on solar wind estimation for Mars' space environment and in reinforcement learning for space science. 
+There are currently no open calls but the following are several (always availiable) avenues to work with the research group. ARG is happy to sponsor visiting scholars and I encourage potential post docs and visitors to review these before contacting me. I am always happy to be pitched a research collaboration of mutual interest by motivated individuals. I am generally interested in machine learning for inverse problems, uncertainty quantification, spatiotemporal datasets, space plasmas, and planetary space environments. I have active projects on solar wind estimation for Mars' space environment and in reinforcement learning for space science. 
 
   - Canada Impact+ Research Training Awards for Post Doctoral Fellows and Doctoral Students [https://sshrc-crsh.canada.ca/en/funding/opportunities/canada-impact-plus-research-training-awards.aspx](https://sshrc-crsh.canada.ca/en/funding/opportunities/canada-impact-plus-research-training-awards.aspx)
   - Izaak Walton Killam & Grant Notley Memorial Postdoctoral Fellowship (open to all citizenships) [https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/postdoctoral-fellow-funding/killam-fellowships.html](https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/postdoctoral-fellow-funding/killam-fellowships.html)
