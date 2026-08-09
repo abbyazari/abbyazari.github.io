@@ -31,7 +31,7 @@ Emma Guinan (MSc Earth and Atmospheric Science, Co-supervised with C. Herd)
 
 ## Research Staff and Post Doctoral Fellows
 
-[Dr. Matthew Rutala](https://mjrutala.github.io/) (Post-Doctoral Fellow)
+[Dr. Matthew Rutala](https://mjrutala.github.io/) (Post-Doctoral Fellow, Alberta Machine Intelligence Post-Doctoral Fellowship)
 
 Dr. Erin West (Post-Doctoral Fellow, Co-supervised with I. Mann)
 
