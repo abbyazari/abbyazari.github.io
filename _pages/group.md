@@ -17,21 +17,23 @@ The Azari Research Group's vision regarding our community goals can be found at 
 
 ## Graduate Students
 
-Nathan Teo (MSc Geophysics)
+Nathan Teo (PhD Geophysics)
+
+Lorryn McKaig (PhD Geophysics, Co-supervised with D. Cordell)
 
 [Phong Ho](https://whosphong.github.io/) (MSc Statistical Machine Learning, Co-supervised with J. Newby)
 
-Andrew Cates (incoming MSc Physics, Co-supervised with Y. Shen)
+Andrew Cates (MSc Physics, Co-supervised with Y. Shen)
 
-Corey Polo (incoming MSc Computing Science, Co-supervised with M. Guzdial)
+Corey Polo (MSc Computing Science, Co-supervised with M. Guzdial)
 
-Emma Guinan (incoming MSc Earth and Atmospheric Science, Co-supervised with C. Herd)
-
-Lorryn McKaig (incoming PhD Geophysics, Co-supervised with D. Cordell)
+Emma Guinan (MSc Earth and Atmospheric Science, Co-supervised with C. Herd)
 
 ## Research Staff and Post Doctoral Fellows
 
-[Dr. Matthew Rutala](https://mjrutala.github.io/) (Alberta Machine Intelligence Institute Post-Doctoral Fellow)
+[Dr. Matthew Rutala](https://mjrutala.github.io/) (Post-Doctoral Fellow)
+
+Dr. Erin West (Post-Doctoral Fellow, Co-supervised with I. Mann)
 
 ## Undergraduate Students
 
@@ -41,7 +43,7 @@ Sriman Doppalapudi (BSc Computing Science, BSc Statistics)
 
 ## Collaborators and Guest Scholars
 
-As an interdiscplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are scholars and collaborators who participate in ARG via shared research interests.
+As an interdisciplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are scholars and collaborators who participate in ARG via shared research interests.
 
 Kate Kolber (MASc in Aerospace at UTIAS, Supervised by C. Groth)
 
