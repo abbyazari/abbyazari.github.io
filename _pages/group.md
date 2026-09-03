@@ -33,7 +33,7 @@ Emma Guinan (MSc Earth and Atmospheric Science, Co-supervised with C. Herd)
 
 [Dr. Matthew Rutala](https://mjrutala.github.io/) (Post-Doctoral Fellow, Alberta Machine Intelligence Post-Doctoral Fellowship)
 
-Dr. Erin West (Post-Doctoral Fellow, Co-supervised with I. Mann)
+Dr. Erin Hanna-West (Post-Doctoral Fellow, Co-supervised with I. Mann)
 
 ## Undergraduate Students
 
@@ -69,7 +69,7 @@ Adit Sinha (Prior Undergraduate Researcher, Continuing at University of Alberta)
 
 [Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Prior Post Doctoral Fellow, Now at MDA Space)
 
-Cassandra Litwinowich (Prior Guest, Supervised by I. Mann, Now at Dalhousie University, Meteorology)
+Cassandra Litwinowich (Prior Guest, Now at Environment Canada)
 
 
 
