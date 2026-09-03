@@ -23,11 +23,12 @@ The Azari Research Group (ARG) aims to embrace and support a community of resear
 ### Expand our Perspective
 - We value the perspectives and knowledge of individuals who have life experiences and identities different from our own.
 - We seek to increase our awareness of historic, and present day, exclusion of communities and their contributions from knowledge sharing.
-- We strive to ameliorate the impact of historic exclusion of communities, and their knowledge contributions, from our work.
+- We strive to limit the impact of the historic exclusion of communities, and their knowledge contributions, from our work.
 
 ### Value Ourselves, Humanity, and the Natural World
 - We recognize the importance of planned rest when seeking and advancing knowledge.
 - We appreciate the intangible benefits of human to human, and human to natural world(s) interaction when pursuing automated methods and artificial intelligence.
+- We consider the cost benefit ratio of computing with respect to the environment in our processes.
 - We iterate on these goals regularly and support each other in enabling this vision as an evolving community of knowledge seekers.
 
-This vision was last updated in August 2025 by Azari Research Group Members.
+This vision was last updated in August 2026 by Azari Research Group Members.
