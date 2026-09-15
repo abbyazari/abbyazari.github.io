@@ -35,6 +35,8 @@ Emma Guinan (MSc Earth and Atmospheric Science, Co-supervised with C. Herd)
 
 Dr. Erin Hanna-West (Post-Doctoral Fellow, Co-supervised with I. Mann)
 
+James Short (Research Software Developer)
+
 ## Undergraduate Students
 
 Kelly Hayes (BSc Hons Astrophysics)
