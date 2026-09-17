@@ -11,7 +11,7 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems), plasma science (e.g. fusion, astrophysics, space physics), or natural science (e.g. planetary science, Earth and atmospheres, oceans, geology). I often support students who wish to join the group with various experiences (outside of those listed above), and those who have taken a break in their professional journey or are pursuing a change in their careers.
 
-Please see below for the current status regarding [graduate](#graduate-students), [undergraduate](#undergraduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated July 6, 2026). 
+Please see below for the current status regarding [graduate](#graduate-students), [undergraduate](#undergraduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated September 16, 2026). 
 
 ### Graduate Students 
 
