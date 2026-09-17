@@ -36,6 +36,7 @@ Important Application Information:
 - When writing your interest statement to the UoA review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG.
 - If your background does not contain 400 level, or equivalent, physics coursework but _does_ possess methodological expertise (e.g. computation, mathematics, probability, statistics), then applicants are suggested to apply to ECE or CS.
 - Candidates with financial or logistical restrictions on application fees, or English language exams that impact their ability to apply to the UoA formally should include this information when completing the [form](https://forms.gle/27zj1UUMCBjc8DGV8).
+- Candidates are welcome to mark other prospective advisors in their UoA application as this increases your overall chances of acceptance. For consideration in ARG, make sure to mark my name upon application in addition to any other advisors of interest. 
 - Candidates who have specific questions about ARG before or during application should include the following information in their email. A response is not guaranteed. 
   - Your application status
   - Your reason for emailing
