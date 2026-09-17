@@ -35,7 +35,7 @@ Important Application Information:
 - Applicants should plan to apply by **December 1, 2026** for the widest consideration for Fall 2027 programs. 
 - When writing your interest statement to the UoA review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG.
 - If your background does not contain 400 level, or equivalent, physics coursework but _does_ possess methodological expertise (e.g. computation, mathematics, probability, statistics), then applicants are suggested to apply to ECE or CS.
-- Potential applicants who have specific questions about ARG before or during application should include the following information in their email. A response is not guaranteed. 
+- Candidates who have specific questions about ARG before or during application should include the following information in their email. A response is not guaranteed. 
   - Your application status
   - Your reason for emailing
   
