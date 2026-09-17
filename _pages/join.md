@@ -21,12 +21,12 @@ Interested candidates should apply via the directions below depending on the pro
 
 Graduate projects available for Fall 2027:
 
-- (1) Probabilistic machine learning for Mars space weather / space environment. _Candidates should apply with this [form](https://forms.gle/27zj1UUMCBjc8DGV8) and through either the UoA Physics or ECE departments._
+- (1) Probabilistic machine learning for **Mars** space weather / space environment. _Candidates should apply with this [form](https://forms.gle/27zj1UUMCBjc8DGV8) and through either the UoA Physics or ECE departments._
 
-- (2) Flow based models for solar wind kinetic data analysis
+- (2) Flow based models for **solar wind** kinetic data analysis.
 _Candidates should apply via this [form](https://forms.gle/27zj1UUMCBjc8DGV8) and through the UoA ECE department. This position is co-supervised with Prof. Atanackovic._
 
-- (3) Continual learning for space weather prediction. _Candidates should apply with this [form](https://forms.gle/27zj1UUMCBjc8DGV8) and through the UoA CS department. This position is co-supervised with Prof. White._
+- (3) Continual learning for **space weather** prediction. _Candidates should apply with this [form](https://forms.gle/27zj1UUMCBjc8DGV8) and through the UoA CS department. This position is co-supervised with Prof. White._
 
 Important Application Information: 
 
