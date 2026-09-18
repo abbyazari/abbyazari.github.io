@@ -9,7 +9,7 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 ## Open Opportunities
 
-Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems), plasma science (e.g. fusion, astrophysics, space physics), or natural science and engineering (e.g. aerospace engineering, electrical and computer engineering, planetary science, Earth and atmospheres). I often support students who wish to join the group with various experiences and those who have taken a break in their professional journey or are pursuing a change in their careers.
+Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems), plasma science (e.g. space physics, fusion, astrophysics), or natural science and engineering (e.g. aerospace engineering, electrical and computer engineering, planetary science). This is not a restrictive list as I often support students who are motivated to pursue a change in their careers.
 
 Please see below for the current status regarding [graduate](#graduate-students), [undergraduate](#undergraduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated September 16, 2026). 
 
@@ -30,7 +30,7 @@ _Candidates should apply via this [form](https://forms.gle/27zj1UUMCBjc8DGV8) an
 
 Important Application Information: 
 
-- The ARG application form requires a Google account for sign ins. If you are unable to access the form please email azari+gradapp@ualberta.ca. 
+- The ARG application form requires a Google account for sign ins. If you are unable to access the form please email aazari+gradapp@ualberta.ca. 
 - Candidates who do not yet hold a MSc are strongly recommended to apply to the MSc program first; MSc students are funded, as are PhD students.
 - Applicants should plan to apply by **December 1, 2026** for the widest consideration for Fall 2027 programs. 
 - When writing your interest statement to the UoA review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG.
