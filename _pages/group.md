@@ -17,17 +17,17 @@ The Azari Research Group's vision regarding our community goals can be found at 
 
 ## Graduate Students
 
-Nathan Teo (PhD Geophysics)
+Nathan Teo (PhD Geophys)
 
-Lorryn McKaig (PhD Geophysics, Co-supervised with D. Cordell)
+Lorryn McKaig (PhD Geophys, Co-supervised with D. Cordell)
 
-[Phong Ho](https://whosphong.github.io/) (MSc Statistical Machine Learning, Co-supervised with J. Newby)
+[Phong Ho](https://whosphong.github.io/) (MSc Statistical ML, Co-supervised with J. Newby)
 
 Andrew Cates (MSc Physics, Co-supervised with Y. Shen)
 
-Corey Polo (MSc Computing Science, Co-supervised with M. Guzdial)
+Corey Polo (MSc CompSci, Co-supervised with M. Guzdial)
 
-Emma Guinan (MSc Earth and Atmospheric Science, Co-supervised with C. Herd)
+Emma Guinan (MSc EAS, Co-supervised with C. Herd)
 
 ## Research Staff and Post Doctoral Fellows
 
@@ -41,43 +41,42 @@ James Short (Research Software Developer)
 
 ## Undergraduate Students
 
-Kelly Hayes (BSc Hons Astrophysics)
-
-Sriman Doppalapudi (BSc Computing Science, BSc Statistics)
+Kelly Hayes (BSc Hons Astrophys)
 
 ## Collaborators and Guest Scholars
 
 As an interdisciplinary group ARG values and pursues collaborations with other research groups at the U of A and externally. Below are scholars and collaborators who participate in ARG via shared research interests.
 
-Kate Kolber (MASc in Aerospace at UTIAS, Supervised by C. Groth)
+Kate Kolber (MASc in Aero at UTIAS, Supervised by C. Groth)
 
-Joanne Cai (MASc in Aerospace at UTIAS, Supervised by C. Groth)
+Joanne Cai (MASc in Aero at UTIAS, Supervised by C. Groth)
 
-Zachary Lau (MSc in Statistics at UBC, Supervised by G. Pleiss)
+Zachary Lau (MSc in Stats at UBC, Supervised by G. Pleiss)
 
-[Esraa Elelimy](https://esraaelelimy.github.io/) (PhD Computing Science, Supervised by M. White)
+[Esraa Elelimy](https://esraaelelimy.github.io/) (PhD CompSci, Supervised by M. White)
 
-Jacob Adkins (PhD Computing Science, Supervised by M. Bowling and A. White)
+Jacob Adkins (PhD CompSci, Supervised by M. Bowling and A. White)
 
 [Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (MDA Space)
 
-[Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/) (University of Alberta / Alberta Machine Intelligence Institute)
+[Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/) (UoA / Amii)
 
-## Alumni
+## Undergraduate Alumni
 
-Kate Kolber (Prior Undergraduate Researcher, Now at University of Toronto, Aerospace)
+Sriman Doppalapudi (Continuing at UoA / AltaML)
 
-[Dawn McKnight](https://demcknight.com/) (Prior Researcher, Now at Artificial Agency)
+Kate Kolber (Now at UoT, Aerospace)
 
-Adit Sinha (Prior Undergraduate Researcher, Continuing at University of Alberta)
+Adit Sinha (Continuing at UoA)
 
-[Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Prior Post Doctoral Fellow, Now at MDA Space)
+## Researcher and Post-Doctoral Alumni
 
-Cassandra Litwinowich (Prior Guest, Now at Environment Canada)
+[Dawn McKnight](https://demcknight.com/) (Now at Artificial Agency)
 
+[Dr. Agnit Mukhopadhyay](https://scholar.google.com/citations?user=3a4eP-AAAAAJ&hl=en&inst=17001591832933267808) (Now at MDA Space)
 
+## Guest Alumni
 
-
-
+Cassandra Litwinowich (Now at Environment Canada)
 
 
