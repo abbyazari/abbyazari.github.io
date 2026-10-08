@@ -41,7 +41,7 @@ Important Application Information:
   - Your application status
   - Your reason for emailing
 
-**Please note that any questions regarding a candidates fit are best addressed by noting these questions on the Google form rather than emailing**. 
+**Questions regarding a candidate's fit are best addressed by using the Google form. These will not be addressed via email.**. 
   
 ### Undergraduate Students
 
