@@ -11,7 +11,7 @@ See below for information on [open opportunities](#open-opportunities) in the gr
 
 Ideal candidates will have experience in data science (e.g. machine learning, statistics, Bayesian methods, inverse problems), plasma science (e.g. space physics, fusion, astrophysics), or natural science and engineering (e.g. aerospace engineering, electrical and computer engineering, planetary science). This is not a restrictive list as I often support students who are motivated to pursue a change in their careers.
 
-Please see below for the current status regarding [graduate](#graduate-students), [undergraduate](#undergraduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated September 16, 2026). 
+Please see below for the current status regarding [graduate](#graduate-students), [undergraduate](#undergraduate-students), and [post-docs and visitors](#post-doctoral-and-visitor-funding-opportunities) (updated October 8, 2026). 
 
 ### Graduate Students 
 
@@ -35,7 +35,7 @@ Important Application Information:
 - Applicants should plan to apply by **December 1, 2026** for the widest consideration for Fall 2027 programs. 
 - When writing your interest statement to the UoA review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG.
 - If your background does not contain 400 level, or equivalent, physics coursework but _does_ possess methodological expertise (e.g. computation, mathematics, probability, statistics), then applicants are suggested to apply to ECE.
-- Candidates with financial or logistical restrictions on application fees, or English language exams that impact their ability to apply to the UoA formally should include this information when completing the [form](https://forms.gle/27zj1UUMCBjc8DGV8) **before** their official UoA application.
+- Candidates with financial or logistical restrictions on application fees, or English language exams that impact their ability to apply to the UoA formally should include this information when completing the [form](https://forms.gle/27zj1UUMCBjc8DGV8) **well before** their official UoA application.
 - Candidates are welcome to mark other prospective advisors in their UoA application as this increases your overall chances of acceptance. For consideration in ARG, make sure to mark my name upon application in addition to any other advisors of interest. 
 - Candidates who have questions about ARG that fall outside of the information above should include the following information in their email. A response is not guaranteed. 
   - Your application status
