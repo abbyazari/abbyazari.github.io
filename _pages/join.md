@@ -31,7 +31,7 @@ _Candidates should apply via this [form](https://forms.gle/27zj1UUMCBjc8DGV8) an
 Important Application Information: 
 
 - The ARG application form requires a Google account for sign ins. If you are unable to access the form please email aazari+gradapp@ualberta.ca.
-- **Questions regarding a candidate's fit will not be addressed via email and are instead directed to use the Google form before your UoA application.** 
+- **Questions regarding a candidate's fit will not be addressed via email and are instead directed to use the [form](https://forms.gle/27zj1UUMCBjc8DGV8) **well before** their official UoA application.** 
 - Candidates who do not yet hold a MSc are strongly recommended to apply to the MSc program first; MSc students are funded, as are PhD students.
 - Applicants should plan to apply by **December 1, 2026** for the widest consideration for Fall 2027 programs. 
 - When writing your interest statement to the UoA review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG.
