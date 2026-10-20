@@ -30,14 +30,14 @@ _Candidates should apply via this [form](https://forms.gle/27zj1UUMCBjc8DGV8) an
 
 Important Application Information: 
 
-- The ARG application form requires a Google account for sign ins. If you are unable to access the form please email aazari+gradapp@ualberta.ca. 
+- The ARG application form requires a Google account for sign ins. If you are unable to access the form please email aazari+gradapp@ualberta.ca.
+- **Questions regarding a candidate's fit will not be addressed via email and are instead directed to use the Google form before your UoA application.** 
 - Candidates who do not yet hold a MSc are strongly recommended to apply to the MSc program first; MSc students are funded, as are PhD students.
 - Applicants should plan to apply by **December 1, 2026** for the widest consideration for Fall 2027 programs. 
 - When writing your interest statement to the UoA review the group's prior [publications](https://abbyazari.github.io/publications/) or current research themes in ARG.
 - If your background does not contain 400 level, or equivalent, physics coursework but _does_ possess methodological expertise (e.g. computation, mathematics, probability, statistics), then applicants are suggested to apply to ECE or CS.
 - Candidates with financial or logistical restrictions on application fees, or English language exams that impact their ability to apply to the UoA formally should include this information when completing the [form](https://forms.gle/27zj1UUMCBjc8DGV8) **well before** their official UoA application.
 - Candidates are welcome to mark other prospective advisors in their UoA application as this increases your overall chances of acceptance. For consideration in ARG, make sure to mark my name upon application in addition to any other advisors of interest.
-- **Questions regarding a candidate's fit will not be addressed via email and are instead directed to use the Google form.** 
 - Candidates who have questions about ARG that fall outside of the information above should include the following information in their email. A response is not guaranteed. 
   - Your application status
   - Your reason for emailing
