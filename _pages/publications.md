@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Students I supervised in research are <ins>underlined</ins>. My scholarship includes policy efforts; policy related scholarship is marked with a dagger ($^{\dagger}$). These policy focused efforts are often internally reviewed as compared to the peer review process undertaken for other works. Citation statistics and more rapid updates are on <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ">Google Scholar</a>.
+Students I supervised in research, or degree, are <ins>underlined</ins>. My scholarship includes policy efforts; policy related scholarship is marked with a dagger ($^{\dagger}$). These policy focused efforts are often internally reviewed as compared to the peer review process undertaken for other works. Citation statistics and more rapid updates are on <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ">Google Scholar</a>.
 
 ### First Author Publications
 
@@ -28,9 +28,13 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 ### Collaborative Publications
 
+1. Liemohn, M. W., <ins>Syposs, J.</ins>, **Azari, A. R.** et al., [including **Azari, A. R.**] (2026). "Analytical Modeling of Hot Ion Interchange Injections in Saturn's Magnetosphere" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035378">doi: 10.1029/2026JA035378</a>
+
+1. Schnepf, N. et al., [including **Azari, A. R.**] (2026). "Mars' O^{+} and O^{+} Ion Escape During Disappearing Solar Wind Events" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034801">doi: 10.1029/2025JA034801</a>
+
 1. Liemohn, M., Ganushkina, N. Y., Welling, D. T., **Azari, A. R.** (2026). "Prediction Efficiency Skill Scores for Event Detection Analysis" Space Weather. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004848">doi: 10.1029/2025SW004848</a>
 
-1. Lillis, R...[18 including **Azari, A. R.**] (2025). "IMF Control of Electron Aurora across Mars' Crustal Magnetic Fields: Insights into electron sources" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA033913">doi: 10.1029/2025JA033913</a>
+1. Lillis, R. et al., [including **Azari, A. R.**] (2025). "IMF Control of Electron Aurora across Mars' Crustal Magnetic Fields: Insights into electron sources" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA033913">doi: 10.1029/2025JA033913</a>
 
 1. Rutala, M., Jackman, C., Louis, C. K., **Azari, A. R.** et al., (2025). "New Models of Jupiter's Magnetopause and Bow Shock through the Juno Prime Mission: Probabilistic Location, Shape, and Internally-driven Variation" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025JA033842">doi: 10.1029/2025JA033842</a>
 
@@ -40,25 +44,25 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 1. Bowers, C., Jackman, C., **Azari, A. R.** et al., (2024). "Estimating Interplanetary Magnetic Field Conditions at Mercury's Orbit From MESSENGER Magnetosheath Observations Using a Feedforward Neural Network". JGR: Machine Learning and Computation. <a href="https://doi.org/10.1029/2024JH000239">doi: 10.1029/2024JH000239</a>
 
-1. Lillis, R...[21 including **Azari, A. R.**] (2024). "Sinuous Aurora at Mars: A Link to the Tail Current Sheet?" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JA032477">doi: 10.1029/2024JA032477</a>
+1. Lillis, R. et al., [including **Azari, A. R.**] (2024). "Sinuous Aurora at Mars: A Link to the Tail Current Sheet?" JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JA032477">doi: 10.1029/2024JA032477</a>
     
-1. Shaver, S...[29 including **Azari, A. R.**] (2024). "The Martian ionospheric response to the co‐rotating interaction region that caused the disappearing solar wind event at Mars".  JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA032181">doi: 10.1029/2023JA032181</a>
+1. Shaver, S. et al., [including **Azari, A. R.**] (2024). "The Martian ionospheric response to the co‐rotating interaction region that caused the disappearing solar wind event at Mars".  JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA032181">doi: 10.1029/2023JA032181</a>
 
-1. Xu, S...[15 including **Azari, A. R.**] (2024). "Superthermal electron observations at Mars during the December 2022 disappearing solar wind event". JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023JA032258">doi: 10.1029/2023JA032258</a>
+1. Xu, S. et al., [including **Azari, A. R.**] (2024). "Superthermal electron observations at Mars during the December 2022 disappearing solar wind event". JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023JA032258">doi: 10.1029/2023JA032258</a>
 
-1. Nauth, M...[5 including **Azari, A. R.**] (2024). "Evidence for a current system and potential structure in the Martian magnetotail". JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA032305">doi: 10.1029/2023JA032305</a>
+1. Nauth, M. et al., [including **Azari, A. R.**] (2024). "Evidence for a current system and potential structure in the Martian magnetotail". JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA032305">doi: 10.1029/2023JA032305</a>
 
-1. Bowers, C...[5 including **Azari, A. R.**] (2023). "Evidence for magnetic reconnection as the precursor to discrete aurora at Mars". JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA031622">doi: 10.1029/2023JA031622</a>
+1. Bowers, C. et al., [including **Azari, A. R.**] (2023). "Evidence for magnetic reconnection as the precursor to discrete aurora at Mars". JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA031622">doi: 10.1029/2023JA031622</a>
 
 1. Halekas, J, Shaver, S., **Azari, A. R.** et al. (2023). "The day the solar wind disappeared at Mars". JGR: Space Physics. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA031935">doi: 10.1029/2023JA031935</a>
   
    *Observations by the MAVEN mission during this event were featured in a <a href="https://www.nasa.gov/missions/maven/nasas-maven-observes-the-disappearing-solar-wind/">NASA press release</a>.*
 
-1. Poduval, B...[18 including **Azari, A. R.**] (2023). "AI-ready Data in Space Science and Solar Physics: Problems, Mitigation and Action Plan". Frontiers in Astronomy and Space Sciences. <a href="https://www.frontiersin.org/articles/10.3389/fspas.2023.1203598">doi: 10.3389/fspas.2023.1203598</a>$^{\dagger}$
+1. Poduval, B. et al., [including **Azari, A. R.**] (2023). "AI-ready Data in Space Science and Solar Physics: Problems, Mitigation and Action Plan". Frontiers in Astronomy and Space Sciences. <a href="https://www.frontiersin.org/articles/10.3389/fspas.2023.1203598">doi: 10.3389/fspas.2023.1203598</a>$^{\dagger}$
 
-1. Argall, M...[12 total including **Azari, A. R.**] (2023). "Intelligent Missions in the Living Heliospheric System Observatory", White Paper for the Decadal Survey for Solar and Space Physics (Heliophysics) 2024-2033. <a href="https://doi.org/10.3847/25c2cfeb.abb7e520">doi: 10.3847/25c2cfeb.abb7e520</a>$^{\dagger}$
+1. Argall, M. et al., [including **Azari, A. R.**] (2023). "Intelligent Missions in the Living Heliospheric System Observatory", White Paper for the Decadal Survey for Solar and Space Physics (Heliophysics) 2024-2033. <a href="https://doi.org/10.3847/25c2cfeb.abb7e520">doi: 10.3847/25c2cfeb.abb7e520</a>$^{\dagger}$
     
-1. Cohen, I...[27 total including **Azari, A. R.**] (2023). "The case for studying other planetary magnetospheres and atmospheres in Heliophysics", White Paper for the Decadal Survey for Solar and Space Physics (Heliophysics) 2024-2033. <a href="https://doi.org/10.3847/25c2cfeb.2f9f76e7">doi: 10.3847/25c2cfeb.2f9f76e7</a>$^{\dagger}$
+1. Cohen, I. et al., [including **Azari, A. R.**] (2023). "The case for studying other planetary magnetospheres and atmospheres in Heliophysics", White Paper for the Decadal Survey for Solar and Space Physics (Heliophysics) 2024-2033. <a href="https://doi.org/10.3847/25c2cfeb.2f9f76e7">doi: 10.3847/25c2cfeb.2f9f76e7</a>$^{\dagger}$
 
 1. PDE Independent Review Board [including **Azari, A. R.**] (2021). "Final Report of the Planetary Data Ecosystem Independent Review Board". <a href="https://smd-cms.nasa.gov/wp-content/uploads/2023/05/PDEIRBFinalReport-1.pdf">Online at NASA SMD</a>$^{\dagger}$
 
@@ -66,11 +70,11 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 1. Liemohn, M. W., Shane, D., **Azari, A. R.** et al. (2021). "RMSE is not enough: Guidelines to robust data-model comparisons for magnetospheric physics". Journal of Atmospheric and Solar-Terrestrial Physics. <a href="https://doi.org/10.1016/j.jastp.2021.105624">doi: 10.1016/j.jastp.2021.105624</a>
 
-1. Amini, R...[22 total including **Azari, A. R.**] (2021). "Advancing the Scientific Frontier with Increasingly Autonomous Systems" White Paper for the Planetary Science and Astrobiology Decadal Survey 2023-2032. <a href="https://doi.org/10.3847/25c2cfeb.a09526a1">doi: 10.3847/25c2cfeb.a09526a1</a>$^{\dagger}$
+1. Amini, R. et al., [including **Azari, A. R.**] (2021). "Advancing the Scientific Frontier with Increasingly Autonomous Systems" White Paper for the Planetary Science and Astrobiology Decadal Survey 2023-2032. <a href="https://doi.org/10.3847/25c2cfeb.a09526a1">doi: 10.3847/25c2cfeb.a09526a1</a>$^{\dagger}$
 
-1. Rymer, A...[46 total including **Azari, A. R.**] (2021). "Neptune and Triton: A Flagship for Everyone", White Paper for the Planetary Science and Astrobiology Decadal Survey 2023-2032. <a href="https://doi.org/10.3847/25c2cfeb.0b72af56">doi: 10.3847/25c2cfeb.0b72af56</a>$^{\dagger}$
+1. Rymer, A. et al., [including **Azari, A. R.**] (2021). "Neptune and Triton: A Flagship for Everyone", White Paper for the Planetary Science and Astrobiology Decadal Survey 2023-2032. <a href="https://doi.org/10.3847/25c2cfeb.0b72af56">doi: 10.3847/25c2cfeb.0b72af56</a>$^{\dagger}$
 
-1. Kollmann, P...[85 total including **Azari, A. R.**] (2021). "Magnetospheric Studies: A requirement for addressing interdisciplinary mysteries in the Ice Giant systems", White Paper for the Planetary Science and Astrobiology Decadal Survey 2023-2032. <a href="https://doi.org/10.3847/25c2cfeb.d955f654">doi: 10.3847/25c2cfeb.d955f654</a>$^{\dagger}$
+1. Kollmann, P. et al., [including **Azari, A. R.**] (2021). "Magnetospheric Studies: A requirement for addressing interdisciplinary mysteries in the Ice Giant systems", White Paper for the Planetary Science and Astrobiology Decadal Survey 2023-2032. <a href="https://doi.org/10.3847/25c2cfeb.d955f654">doi: 10.3847/25c2cfeb.d955f654</a>$^{\dagger}$
 
 1. Paranicas, C., Thomsen, M., Kollmann, P., **Azari, A. R.**, et al. (2020). “Inflow speed analysis of interchange injections in Saturn’s magnetosphere”. JGR: Space Physics. <a href="https://doi.org/10.1029/2020JA028299">doi: 10.1029/2020JA028299</a>
 
@@ -78,17 +82,17 @@ Students I supervised in research are <ins>underlined</ins>. My scholarship incl
 
 1. Liemohn, M. W., **Azari, A. R.**, Ganushkina, N. Y., \&  Rastätter, L. (2020) "The STONE curve: A ROC-derived model performance assessment tool". Earth and Space Science. <a href="https://doi.org/10.1029/2020EA001106">doi: 10.1029/2020EA001106</a>
 
-1. Jasinski, J...[15 total including **Azari, A. R.**] (2019) "Saturn's open-closed field line boundary: A Cassini electron survey at Saturn's magnetosphere". JGR: Space Physics. <a href="https://doi.org/10.1029/2019JA027090">doi: 10.1029/2019JA027090</a>
+1. Jasinski, J. et al., [**Azari, A. R.**] (2019) "Saturn's open-closed field line boundary: A Cassini electron survey at Saturn's magnetosphere". JGR: Space Physics. <a href="https://doi.org/10.1029/2019JA027090">doi: 10.1029/2019JA027090</a>
 
-1. Regoli, L...[12 total including **Azari, A. R.**] (2018). "Statistical study of the energetic proton environment at Titan's orbit from the Cassini spacecraft", JGR: Space Physics. <a href="https://doi.org/10.1029/2018JA025442">doi: 10.1029/2018JA025442</a>
+1. Regoli, L. et al., [**Azari, A. R.**] (2018). "Statistical study of the energetic proton environment at Titan's orbit from the Cassini spacecraft", JGR: Space Physics. <a href="https://doi.org/10.1029/2018JA025442">doi: 10.1029/2018JA025442</a>
 
-1. Rymer, A...[117 total including **Azari, A. R.**] (2018). "Solar System Ice Giants: Exoplanets in Our Backyard", Exoplanet Science Strategy White Paper, submitted to the National Academies of Sciences, Engineering and Medicine, Space Studies Board. <a href="https://arxiv.org/abs/1804.03573">arXiv: 1804.03573</a>$^{\dagger}$
+1. Rymer, A. et al., [including **Azari, A. R.**] (2018). "Solar System Ice Giants: Exoplanets in Our Backyard", Exoplanet Science Strategy White Paper, submitted to the National Academies of Sciences, Engineering and Medicine, Space Studies Board. <a href="https://arxiv.org/abs/1804.03573">arXiv: 1804.03573</a>$^{\dagger}$
 
-1. Lal, B...[6 total including **Azari, A. R.**]  (2015). "Global Trends in Space Volume 2: Trends by Subsector and Factors that Could Disrupt Them", Science and Technology Policy Institute. <a href="https://www.ida.org/research-and-publications/publications/all/g/gl/global-trends-in-space-volume-2-trends-by-subsector-and-factors-that-could-disrupt-them">IDA Paper P-5242, Vol 2</a>$^{\dagger}$
+1. Lal, B. et al., [including **Azari, A. R.**]  (2015). "Global Trends in Space Volume 2: Trends by Subsector and Factors that Could Disrupt Them", Science and Technology Policy Institute. <a href="https://www.ida.org/research-and-publications/publications/all/g/gl/global-trends-in-space-volume-2-trends-by-subsector-and-factors-that-could-disrupt-them">IDA Paper P-5242, Vol 2</a>$^{\dagger}$
 
-1. Lal, B...[6 total including **Azari, A. R.**] (2015). "Global Trends in Space Volume 1: Background and Overall Findings", Science and Technology Policy Institute. <a href="https://www.ida.org/research-and-publications/publications/all/g/gl/global-trends-in-space-volume-1-background-and-overall-findings">IDA Paper P-5242, Vol 1</a>$^{\dagger}$
+1. Lal, B. et al., [including **Azari, A. R.**] (2015). "Global Trends in Space Volume 1: Background and Overall Findings", Science and Technology Policy Institute. <a href="https://www.ida.org/research-and-publications/publications/all/g/gl/global-trends-in-space-volume-1-background-and-overall-findings">IDA Paper P-5242, Vol 1</a>$^{\dagger}$
 
-1. Zuckerman, B...[15 total including **Azari, A. R.**] (2014). "Evaluation of the National Science Foundation's Experimental Program to Stimulate Competitive Research (EPSCoR): Final Report." Science and Technology Policy Institute. <a href="https://www.ida.org/research-and-publications/publications/all/e/ev/evaluation-of-the-national-science-foundations-experimental-program-to-stimulate-competitive-researc">IDA Paper P-5221</a>$^{\dagger}$
+1. Zuckerman, B. et al., [including **Azari, A. R.**] (2014). "Evaluation of the National Science Foundation's Experimental Program to Stimulate Competitive Research (EPSCoR): Final Report." Science and Technology Policy Institute. <a href="https://www.ida.org/research-and-publications/publications/all/e/ev/evaluation-of-the-national-science-foundations-experimental-program-to-stimulate-competitive-researc">IDA Paper P-5221</a>$^{\dagger}$
 
 1. Zuckerman, B., **Azari, A. R.**, and Doane, W. (2013). "Advanced Technology-Enhanced Education: A Workshop Report." Science and Technology Policy Institute. <a href="https://www.ida.org/research-and-publications/publications/all/a/ad/advancing-technology-enhanced-education-a-workshop-report">IDA Document D-5084</a>$^{\dagger}$
 
